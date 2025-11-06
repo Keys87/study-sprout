@@ -18,5 +18,6 @@ This is the repo for the Study Sporut Project made in collaboration between BTB 
   ```
   please make sure you are in the same folder as the css files
 
-Additional documentation for tailwind is in **[tailwindcss.com](url)**
-Design guide available [https://docs.google.com/document/d/1MjTjiU5ErWtmL5UUkdoaP5BozlBVXH9eKoRnLnsjunM/edit?usp=sharing](here)
+Additional documentation for tailwind is in **[tailwindcss.com](tailwindcss.com)**
+
+Design guide available [here](https://docs.google.com/document/d/1MjTjiU5ErWtmL5UUkdoaP5BozlBVXH9eKoRnLnsjunM/edit?usp=sharing)
