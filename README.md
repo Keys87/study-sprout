@@ -13,9 +13,9 @@ This is the repo for the Study Sporut Project made in collaboration between BTB 
   npm i tailwindcss @tailwindcss/cli
   ```
 4. Run tailwindcss through this command
-   ```
-   npx @tailwindcss/cli -i in.css -o out.css --watch
-   ```
-   please make sure you are in the same folder as the css files
+  ```
+  npx @tailwindcss/cli -i in.css -o out.css --watch
+  ```
+  please make sure you are in the same folder as the css files
 
 Additional documentation for tailwind is in **tailwindcss.com**
