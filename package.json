@@ -1,0 +1,24 @@
+{
+  "name": "studysprout",
+  "version": "1.0.0",
+  "description": "This is the repo for the Study Sporut Project made in collaboration between BTB and TCSS students",
+  "homepage": "https://github.com/Keys87/study-sprout#readme",
+  "bugs": {
+    "url": "https://github.com/Keys87/study-sprout/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keys87/study-sprout.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.16",
+    "tailwindcss": "^4.1.16"
+  }
+}
