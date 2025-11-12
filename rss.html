@@ -2,36 +2,54 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="out.css">
-    <title>Study Sprout</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="public\Logo (Transparent).png" type="image/x-icon" />
+  <link rel="stylesheet" href="out.css" />
+  <title>Study Sprout</title>
 </head>
 
-<body class="p-0 m-0 flex w-screen h-screen flex-col">
-    <nav class="bg-navwhite w-screen md:h-12 sm:h-8 h-16 fixed flex items-center flex-row">
-        <!-- How to center a text: items-center and justify-center -->
-        <a href="index.html">
-            <img src="" alt="Logo/Home Button">
-        </a>
-        <a href="rss.html" class="p-1 underline hover:font-semibold">Resources</a>
-        <a href="updates.html" class="p-1 underline hover:font-semibold">Updates</a>
-        <a href="contact.html" class="p-1 underline hover:font-semibold">Contact Us</a>
-    </nav>
-    <section class="flex flex-row md:mt-12 sm:mt-8 mt-16 w-screen justify-center">
-        <ul class="flex flex-col list-none text-center">
-            <li><h1 class="font-bold">Curricula Choices</h1></li>
-            <li>
-                <ul class="list-none flex flex-row gap-2 text-center">
-                    <li><a href="curricula-rss/ib.html" rel="noopener noreferrer">IB</a></li>
-                    <li><a href="curricula-rss/alevels.html" rel="noopener noreferrer">A Levels</a></li>
-                    <li><a href="curricula-rss/igcse.html" rel="noopener noreferrer">IGCSE</a></li>
-                    <li><a href="curricula-rss/sat.html" rel="noopener noreferrer">SAT</a></li>
-                </ul>
-            </li>
+<body class="p-0 m-0 flex w-screen h-screen flex-col text-main font-main">
+  <nav class=" w-screen py-8 z-1 fixed flex justify-center items-center flex-row bg-grad-two">
+
+    <div class="flex-auto ms-2">
+      <a href="index.html" class=""><img src="public\Logo (Transparent).png" alt="Logo/Home Button"
+          class="h-8 md:h-10 lg:h-12 w-auto object-contain" /></a>
+    </div>
+
+    <div class="flex flex-auto justify-center">
+      <a href="rss.html" class="p-1 text-main font-main underline hover:font-bold">Resources</a>
+      <a href="updates.html" class="p-1 text-main font-main underline hover:font-bold">Updates</a>
+      <a href="contact.html" class="p-1 text-main font-main underline hover:font-bold">Contact Us</a>
+    </div>
+
+    <div class="flex-auto h-full"></div>
+
+  </nav>
+
+  <section class="flex flex-row mt-32 w-screen justify-center">
+    <ul class="flex flex-col list-none text-center items-center">
+      <li>
+        <h1 class="font-bold text-4xl">Curricula Choices</h1>
+      </li>
+      <li>
+        <ul class="list-none flex flex-row gap-2 text-center">
+          <li>
+            <a href="rss/ib.html" rel="noopener noreferrer">IB</a>
+          </li>
+          <li>
+            <a href="rss/alevels.html" rel="noopener noreferrer">A Levels</a>
+          </li>
+          <li>
+            <a href="rss/igcse.html" rel="noopener noreferrer">IGCSE</a>
+          </li>
+          <li>
+            <a href="rss/sat.html" rel="noopener noreferrer">SAT</a>
+          </li>
         </ul>
-    </section>
+      </li>
+    </ul>
+  </section>
 </body>
 
 </html>
