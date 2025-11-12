@@ -20,4 +20,9 @@ This is the repo for the Study Sporut Project made in collaboration between BTB 
 
 Additional documentation for tailwind is in **[tailwindcss.com](tailwindcss.com)**
 
-Design guide available [here](https://docs.google.com/document/d/1MjTjiU5ErWtmL5UUkdoaP5BozlBVXH9eKoRnLnsjunM/edit?usp=sharing)
+### Design Guide
+**Colors**:
+1. `#c6ced5` and `#e8e7ea` for **gradients**
+2. `#471f0e` for **texts**
+3. `#a39f9f` for **shadows**
+
