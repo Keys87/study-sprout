@@ -1,6 +1,3 @@
-# Study Sprout Project
-This is the repo for the Study Sporut Project made in collaboration between BTB and TCSS students
-
 ### Development Setup
 
 1. Please ensure you have npm installed and nodejs. To test, please run this command in PowerShell
