@@ -18,6 +18,10 @@
     --text-2xl--line-height: calc(2 / 1.5);
     --text-4xl: 2.25rem;
     --text-4xl--line-height: calc(2.5 / 2.25);
+    --text-7xl: 4.5rem;
+    --text-7xl--line-height: 1;
+    --text-9xl: 8rem;
+    --text-9xl--line-height: 1;
     --font-weight-semibold: 600;
     --font-weight-bold: 700;
     --default-font-family: var(--font-sans);
@@ -218,9 +222,6 @@
   .table {
     display: table;
   }
-  .h-8 {
-    height: calc(var(--spacing) * 8);
-  }
   .h-16 {
     height: calc(var(--spacing) * 16);
   }
@@ -232,9 +233,6 @@
   }
   .h-screen {
     height: 100vh;
-  }
-  .w-auto {
-    width: auto;
   }
   .w-full {
     width: 100%;
@@ -275,11 +273,17 @@
   .flex-row {
     flex-direction: row;
   }
+  .content-center {
+    align-content: center;
+  }
   .items-center {
     align-items: center;
   }
   .justify-center {
     justify-content: center;
+  }
+  .justify-items-center {
+    justify-items: center;
   }
   .gap-2 {
     gap: calc(var(--spacing) * 2);
@@ -315,8 +319,8 @@
   .text-center {
     text-align: center;
   }
-  .font-main {
-    font-family: var(--font-main);
+  .align-middle {
+    vertical-align: middle;
   }
   .text-2xl {
     font-size: var(--text-2xl);
@@ -336,9 +340,6 @@
   }
   .text-gray-600 {
     color: var(--color-gray-600);
-  }
-  .text-main {
-    color: var(--color-main);
   }
   .underline {
     text-decoration-line: underline;
@@ -391,11 +392,6 @@
   .md\:max-w-md {
     @media (width >= 48rem) {
       max-width: var(--container-md);
-    }
-  }
-  .lg\:h-12 {
-    @media (width >= 64rem) {
-      height: calc(var(--spacing) * 12);
     }
   }
 }
