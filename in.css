@@ -1,5 +1,10 @@
 @import "tailwindcss";
 @theme {
-    --color-navwhite: #d9d9d9;
-    --color-navblack: #0f0f0f;
+    --color-legacy-white: #d9d9d9;
+    --color-legacy-black: #0f0f0f;
+    --color-grad-one: #e8e7ea;
+    --color-grad-two: #c6ced5;
+    --color-main: #471f0e;
+    --color-shadow: #a39f9f;
+    --font-main: "Montserrat", sans-serif;
 }
