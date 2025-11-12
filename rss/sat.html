@@ -1,11 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="public\Logo (Transparent).png"
+      type="image/x-icon"
+    />
+    <link rel="stylesheet" href="../out.css" />
+    <title>Study Sprout</title>
+  </head>
+
+  <body class="p-0 m-0 flex flex-auto w-screen h-screen">
+    <nav
+      class="w-screen py-8 z-1 fixed flex justify-center items-center flex-row bg-[#E8E7EA]"
+    >
+      <div class="flex-auto ms-2">
+        <a href="index.html" class=""
+          ><img
+            src="..\public\Logo (Transparent).png"
+            alt="Logo/Home Button"
+            class="h-8 md:h-10 lg:h-12 w-auto object-contain"
+        /></a>
+      </div>
+
+      <div class="flex flex-auto justify-center">
+        <a
+          href="rss.html"
+          class="p-1 text-main font-main underline hover:font-bold"
+          >Resources</a
+        >
+        <a
+          href="updates.html"
+          class="p-1 text-main font-main underline hover:font-bold"
+          >Updates</a
+        >
+        <a
+          href="contact.html"
+          class="p-1 text-main font-main underline hover:font-bold"
+          >Contact Us</a
+        >
+      </div>
+
+      <div class="flex-auto h-full"></div>
+    </nav>
+    <main class="w-full mt-48 flex flex-col items-center">
+      <h2 class="text-2xl font-semibold mb-6">Subjects</h2>
+
+      <div class="max-w-4xl mt-12 w-full mx-auto px-4">
+        <div class="flex justify-center gap-32">
+          <div
+            class="shrink-0 w-64 h-32 bg-blue-500 rounded-lg shadow-md flex items-center justify-center"
+          >
+            <a>01</a>
+          </div>
+          <div
+            class="shrink-0 w-64 h-32 bg-blue-500 rounded-lg shadow-md flex items-center justify-center"
+          >
+            02
+          </div>
+          <div
+            class="shrink-0 w-64 h-32 bg-blue-500 rounded-lg shadow-md flex items-center justify-center"
+          >
+            03
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
 </html>
