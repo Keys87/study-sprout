@@ -1,11 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="../public/Logo (Transparent).PNG" type="image/x-icon" />
+  <link rel="stylesheet" href="../out.css" />
+  <title>Study Sprout</title>
 </head>
-<body>
-    
+
+<body class="p-0 m-0 flex w-screen h-screen flex-col text-main font-main bg-grad-two">
+
+  <nav class=" w-screen py-8 flex justify-center items-center flex-row bg-grad-two shadow-xl shadow-shadow">
+
+    <div class="flex-auto ms-2">
+      <a href="index.html">
+        <img src="../public/Logo (Transparent).PNG" alt="Logo/Home Button" class="h-16 w-auto object-contain" />
+      </a>
+    </div>
+
+    <div class="flex flex-auto justify-center">
+      <a href="rss.html" class="p-1 text-main font-main underline hover:font-bold">Resources</a>
+      <a href="updates.html" class="p-1 text-main font-main underline hover:font-bold">Updates</a>
+      <a href="contact.html" class="p-1 text-main font-main underline hover:font-bold">Contact Us</a>
+    </div>
+
+    <div class="flex-auto h-full"></div>
+  </nav>
+
+  <section class="flex flex-row mt-6 w-screen justify-center">
+    <ul class="flex flex-col list-none text-center items-center">
+      <li class="mt-2">
+        <h1 class="font-bold text-4xl">Curricula Choices</h1>
+      </li>
+      <li class="mt-2">
+        <div class="list-none grid grid-cols-2 gap-4 text-center">
+          <a href="ib/"
+            class="w-full p-2 hover:shadow-lg transition  shadow-shadow border-2 rounded border-main">IB</a>
+          <a href="ib/"
+            class="w-full p-2 hover:shadow-lg transition  shadow-shadow border-2 rounded border-main">A Levels</a>
+          <a href="ib/"
+            class="w-full p-2 hover:shadow-lg transition  shadow-shadow border-2 rounded border-main">IGCSE</a>
+          <a href="ib/"
+            class="w-full p-2 hover:shadow-lg transition  shadow-shadow border-2 rounded border-main">SAT</a>
+        </div>
+      </li>
+    </ul>
+  </section>
 </body>
+
 </html>
