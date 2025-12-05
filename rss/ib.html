@@ -62,13 +62,15 @@
     const universe = document.getElementById("universe")
     parent = document.getElementById("subjects")
 
-    const loader = async () => {
-      const res = await fetch("../subject-rss.html")
+    const loader = async (rss) => {
+      const res = await fetch(rss)
       console.log(res)
       return res.text() // this returns the content of the response, which is a JS promise
     }
 
-    const templatePromise = loader() 
+    const templatePromise = loader("../subject-rss.html")
+    const buttonPromise = loader("../button.html")
+    const descBoxPromise = loader("../desc-box.html")
 
     for (let i = 0; i < parent.childElementCount - 1; i++) {
       const element = document.getElementById(i.toString())
