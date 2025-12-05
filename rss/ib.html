@@ -9,7 +9,7 @@
   <title>Study Sprout</title>
 </head>
 
-<body class="p-0 m-0 flex w-screen h-screen flex-col text-main font-main bg-grad-two">
+<body class="p-0 m-0 flex w-screen h-screen flex-col text-main font-main bg-grad-two" id="body">
 
   <nav class=" w-screen py-8 flex justify-center items-center flex-row bg-grad-two shadow-xl shadow-shadow">
 
@@ -28,25 +28,57 @@
     <div class="flex-auto h-full"></div>
   </nav>
 
-  <section class="flex flex-row mt-6 w-screen justify-center">
+  <section class="flex flex-row mt-6 w-screen justify-center" id="universe">
     <ul class="flex flex-col list-none text-center items-center">
       <li class="mt-2">
-        <h1 class="font-bold text-4xl">Curricula Choices</h1>
+        <h1 class="font-bold text-4xl">Subjects in IBDP</h1>
       </li>
       <li class="mt-2">
-        <div class="list-none grid grid-cols-2 gap-4 text-center">
-          <a href="ib/"
-            class="w-full p-2 hover:shadow-lg transition  shadow-shadow border-2 rounded border-main">IB</a>
-          <a href="ib/"
-            class="w-full p-2 hover:shadow-lg transition  shadow-shadow border-2 rounded border-main">A Levels</a>
-          <a href="ib/"
-            class="w-full p-2 hover:shadow-lg transition  shadow-shadow border-2 rounded border-main">IGCSE</a>
-          <a href="ib/"
-            class="w-full p-2 hover:shadow-lg transition  shadow-shadow border-2 rounded border-main">SAT</a>
+        <div class="list-none grid grid-cols-2 gap-4 text-center" id="subjects">
+          <script type="module">
+            import { subjects } from "../public/subjects.js";
+
+            let parent = document.getElementById("subjects")      
+            const subjectApplicator = (subject, id) => {
+              const element = `<button type="button" id="${id}"  class="w-full p-2 hover:shadow-lg transition shadow-shadow border-2 rounded border-main">${subject}</button>`
+              return element
+            }
+            
+            subjects.IBDP.forEach((element, i) => {
+              parent.insertAdjacentHTML("beforeend", subjectApplicator(element.subject, i))
+              i++
+            });
+          </script>
         </div>
       </li>
     </ul>
   </section>
+  <script type="module">
+    const universe = document.getElementById("universe")
+    parent = document.getElementById("subjects")
+    const loader = async () => {
+      const res = await fetch("../subject-rss.html")
+      console.log(res)
+      return res.text() // this returns the content of the response
+    }
+
+    const templatePromise = loader()
+
+    for (let i = 0; i < parent.childElementCount - 1; i++) {
+      const element = document.getElementById(i.toString())
+      element.addEventListener("click", function () {
+        // using a template page fetched from the server
+        // make a resources list dynamically using JS and subjects.js
+        // current code(Sky, 5 Dec 2025 12:12): when clicking one of the subjects button,
+        // the HTML will be swapped with an already-fetched HTML from 
+        
+        console.log(`clicked ${this.innerHTML}`)
+        console.log(templatePromise.then(v => console.log(v)))
+        templatePromise.then(value => {universe.innerHTML = value})
+      })
+    }
+  </script>
+
 </body>
 
 </html>
