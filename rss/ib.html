@@ -1,11 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="../public/Logo (Transparent).PNG" type="image/x-icon" />
+  <link rel="stylesheet" href="../out.css" />
+  <title>Study Sprout</title>
 </head>
-<body>
-    
+
+<body class="p-0 m-0 flex w-screen h-screen flex-col text-main font-main bg-grad-two" id="body">
+
+  <nav class=" w-screen py-8 flex justify-center items-center flex-row bg-grad-two shadow-xl shadow-shadow">
+
+    <div class="flex-auto ms-2">
+      <a href="index.html">
+        <img src="../public/Logo (Transparent).PNG" alt="Logo/Home Button" class="h-8 md:h-10 lg:h-12 w-auto object-contain" />
+      </a>
+    </div>
+
+    <div class="flex flex-auto justify-center">
+      <a href="rss.html" class="p-1 text-main font-main underline hover:font-bold">Resources</a>
+      <a href="updates.html" class="p-1 text-main font-main underline hover:font-bold">Updates</a>
+      <a href="contact.html" class="p-1 text-main font-main underline hover:font-bold">Contact Us</a>
+    </div>
+
+    <div class="flex-auto h-full"></div>
+  </nav>
+
+  <section class="flex flex-row mt-6 w-screen justify-center" id="universe">
+    <ul class="flex flex-col list-none text-center items-center">
+      <li class="mt-2">
+        <h1 class="font-bold text-4xl">Subjects in IBDP</h1>
+      </li>
+        <li class="mt-2">
+        <div class="max-w-6xl mt-12 w-full mx-auto px-4" id="subjects">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <script type="module">
+                    import { subjects } from "../public/subjects.js";
+
+                    let parent = document.getElementById("subjects").querySelector("div")      
+                    const subjectApplicator = (subject, id) => {
+                    const element = `<button type="button" id="${id}" class="w-full p-8 bg-blue-500 text-black font-semibold rounded-lg shadow-md hover:shadow-lg hover:bg-blue-600 hover:text-white transition">${subject}</button>`
+                    return element
+                    }
+                
+                    subjects.IBDP.forEach((element, i) => {
+                    parent.insertAdjacentHTML("beforeend", subjectApplicator(element.subject, i))
+                    i++
+                    });
+                </script>
+            </div>
+        </div>
+      </li>
+    </ul>
+  </section>
+  <script type="module">
+    const universe = document.getElementById("universe")
+    parent = document.getElementById("subjects")
+    const loader = async () => {
+      const res = await fetch("../subject-rss.html")
+      console.log(res)
+      return res.text() // this returns the content of the response
+    }
+
+    const templatePromise = loader()
+
+    for (let i = 0; i < parent.childElementCount - 1; i++) {
+      const element = document.getElementById(i.toString())
+      element.addEventListener("click", function () {
+        // do what when clicked
+        // using a template page
+        // make a resources list
+        
+        console.log(`clicked ${this.innerHTML}`)
+        console.log(templatePromise.then(v => console.log(v)))
+        templatePromise.then(value => {universe.innerHTML = value})
+      })
+    }
+  </script>
+
 </body>
+
 </html>
