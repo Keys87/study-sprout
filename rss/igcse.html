@@ -28,13 +28,13 @@
     <div class="flex-auto h-full"></div>
   </nav>
 
-  <section class="flex flex-row mt-6 w-screen justify-center" id="universe">
+  <section class="flex flex-row mt-6 w-screen justify-center h-full" id="universe">
     <ul class="flex flex-col list-none text-center items-center">
       <li class="mt-2">
         <h1 class="font-bold text-4xl">Subjects in CIE IGCSE</h1>
       </li>
       <li class="mt-2">
-        <div class="list-none grid grid-cols-2 gap-4 text-center" id="subjects">
+        <div class="list-none grid grid-cols-2 gap-6 text-center" id="subjects">
           <!-- This script is for rendering subject buttons -->
           <script type="module">
             import { subjects } from "../public/subjects.js"; // PLEASE DON'T DELETE, this is the module that stores the subjects and resources data
@@ -43,7 +43,7 @@
             const subjectApplicator = (subject, id) => {
               // this function creates ready-to-insert HTML inside of strings by using JS template strings
 
-              const element = `<button type="button" id="${id}"  class="w-36 p-2 rounded-2xl shadow-lg transition transform bg-linear-to-r from-[#dde6ef] to-[#cfd9e2] text-main hover:shadow-2xl hover:scale-110 hover:from-[#f5d8cc] hover:to-[#e3c7bc] inline-flex items-center justify-center">${subject}</button>`
+              const element = `<button type="button" id="${id}"  class="w-36 md:w-48 md:h-20 p-2 lg:w-72 lg:h-24 rounded-2xl shadow-lg transition transform bg-linear-to-r from-[#dde6ef] to-[#cfd9e2] text-main hover:shadow-2xl hover:scale-110 hover:from-[#f5d8cc] hover:to-[#e3c7bc] inline-flex items-center justify-center">${subject}</button>`
               return element
             }
 
