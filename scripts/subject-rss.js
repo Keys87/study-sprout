@@ -9,7 +9,7 @@ export function renderButtons() {
     console.log(`currentSubject: ${subject}`)
     const resourceApplicator = (resourceName, id) => {
         // this function creates ready-to-insert HTML inside of strings by using JS template strings
-        const element = `<button type="button" id="${id}" class="w-40 lg:w-78 lg:h-24 p-2 rounded-2xl shadow-lg transition transform bg-linear-to-r from-[#dde6ef] to-[#cfd9e2] text-main hover:shadow-2xl hover:scale-110 hover:from-[#f5d8cc] hover:to-[#e3c7bc] inline-flex items-center justify-center">${resourceName}</button>`;
+        const element = `<button type="button" id="${id}" class="w-40 md:w-85/100 lg:w-78 lg:h-24 md:h-48 p-2 md:p-4 rounded-2xl shadow-lg transition transform bg-linear-to-r from-[#dde6ef] to-[#cfd9e2] text-main hover:shadow-2xl hover:scale-110 hover:from-[#f5d8cc] hover:to-[#e3c7bc] inline-flex items-center justify-center">${resourceName}</button>`;
         return element;
     }
 
