@@ -11,22 +11,54 @@
 
 <body class="p-0 m-0 flex w-screen h-screen flex-col text-main font-main bg-grad-two">
 
-  <nav class="w-screen py-8 flex justify-center-safe items-center flex-row bg-grad-two shadow-xl shadow-shadow">
+  <nav class="fixed top-0 left-0 h-screen w-56
+            flex flex-col items-center
+            bg-grad-two shadow-xl shadow-shadow z-50">
 
-    <div class="flex-auto ms-2">
-      <a href="index.html">
-        <img src="public/logo-trans.png" alt="Logo/Home Button" class="h-16 w-auto object-contain" />
-      </a>
-    </div>
+  <!-- Logo -->
+  <div class="mt-8 mb-10">
+    <a href="index.html">
+      <img src="public/logo-trans.png" class="h-16 w-auto" />
+    </a>
+  </div>
 
-    <div class="flex flex-auto justify-center">
-      <a href="rss.html" class="p-1 text-main font-main underline hover:font-bold">Resources</a>
-      <a href="updates.html" class="p-1 text-main font-main underline hover:font-bold">Updates</a>
-      <a href="contact.html" class="p-1 text-main font-main underline hover:font-bold">Contact Us</a>
-    </div>
+  <!-- Links with icons -->
+  <div class="flex flex-col items-center gap-8 text-center">
 
-    <div class="flex-auto h-full"></div>
-  </nav>
+    <!-- Resources -->
+    <a href="rss.html"
+       class="flex flex-col items-center gap-2
+              text-main font-main hover:font-bold transition">
+      <img src="public/icons/notes.png"
+           alt="Resources"
+           class="h-8 w-8 object-contain" />
+      <span>Resources</span>
+    </a>
+
+    <!-- Coming Soon -->
+    <a href="#"
+       class="flex flex-col items-center gap-2
+              text-main font-main opacity-70 cursor-not-allowed">
+      <img src="public/icons/person.png"
+           alt="Coming Soon"
+           class="h-8 w-8 object-contain" />
+      <span>Coming Soon</span>
+    </a>
+
+    <!-- Contact -->
+    <a href="contact.html"
+       class="flex flex-col items-center gap-2
+              text-main font-main hover:font-bold transition">
+      <img src="public/icons/contact.png"
+           alt="Contact Us"
+           class="h-8 w-8 object-contain" />
+      <span>Contact Us</span>
+    </a>
+
+  </div>
+</nav>
+
+
   <div class="flex items-center justify-center mx-auto my-8">
     <figure class="flex flex-col items-center align-middle">
       <img src="public/logo-trans.png" alt="Study Sprout Logo"
