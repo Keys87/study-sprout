@@ -10,7 +10,7 @@ function descApplicator(resource) {
 function linkApplicator(resource, subject) {
     console.log(`linkApplicator---current resource: ${resource}---current subject: ${subject}`)
     const url = rss[subject][1][1]
-    return `<a href="${url}" class="w-fit h-fit p-2 inline-flex justify-center items-center text-center rounded-2xl shadow-lg transition transform bg-linear-to-r from-[#dde6ef] to-[#cfd9e2] text-main hover:shadow-2xl hover:scale-110 hover:from-[#f5d8cc] hover:to-[#e3c7bc]">link to resource</a>`
+    return `<a href="${url}" class="w-fit h-fit p-2 inline-flex justify-center items-center text-center rounded-2xl shadow-lg transition transform bg-linear-to-r from-[#dde6ef] to-[#cfd9e2] text-main hover:shadow-2xl hover:scale-110 hover:from-[#f5d8cc] hover:to-[#e3c7bc]">Link to resource</a>`
 }
 
 export function renderDesc() {
