@@ -6,196 +6,69 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="shortcut icon" href="public/logo-trans.png" type="image/x-icon" />
   <link rel="stylesheet" href="out.css" />
-  <title>Study Sprout | Home</title>
+  <title>Study Sprout</title>
 </head>
 
-<body
-  class="p-0 m-0 flex w-screen h-screen flex-col md:flex-row text-main font-primary-text bg-primary-bg overflow-hidden">
+<body class="p-0 m-0 flex w-screen h-screen flex-col text-main font-main bg-grad-two">
 
-  <!-- Sidebar (Your existing Navigation) -->
-  <nav
-    class="h-fit md:h-screen md:w-56 md:p-2 md:gap-2 w-screen flex md:flex-col flex-row items-center bg-primary-bg shadow-xl shadow-shadow z-50">
-    <!-- Logo -->
-    <div class="ms-4 mt-8 mb-10">
-      <a href="index.html">
-        <img src="public/logo-trans.png" class="h-12 md:h-16 w-auto" />
-      </a>
-    </div>
+  <nav class="fixed top-0 left-0 h-screen w-56
+            flex flex-col items-center
+            bg-grad-two shadow-xl shadow-shadow z-50">
 
-    <!-- Links with icons -->
-    <div class="flex md:flex-col flex-row items-center gap-8 text-center">
-      <a href="opportunities.html" class="flex flex-col items-center gap-2 text-main hover:font-bold transition group">
-        <img src="public/icons/door-open.svg" alt="Opportunities"
-          class="h-8 w-8 object-contain group-hover:scale-110 transition" />
-        <span class="text-xs md:text-base">Opportunities</span>
-      </a>
-      <a href="contact.html" class="flex flex-col items-center gap-2 text-main hover:font-bold transition group">
-        <img src="public/icons/telephone.svg" alt="Contact Us"
-          class="h-8 w-8 object-contain group-hover:scale-110 transition" />
-        <span class="text-xs md:text-base">Contact Us</span>
-      </a>
-    </div>
-  </nav>
+  <!-- Logo -->
+  <div class="mt-8 mb-10">
+    <a href="index.html">
+      <img src="public/logo-trans.png" class="h-16 w-auto" />
+    </a>
+  </div>
 
-  <!-- Main Content Area -->
-  <primary-text class="flex-1 flex flex-col items-center justify-center p-4 md:p-10 relative overflow-hidden md:me-24">
+  <!-- Links with icons -->
+  <div class="flex flex-col items-center gap-8 text-center">
 
-    <!-- Background Logo Decor (Lower opacity so it doesn't distract) -->
-    <img src="public/logo-trans.png" class="absolute opacity-5 w-1/2 pointer-events-none" alt="" />
+    <!-- Resources -->
+    <a href="rss.html"
+       class="flex flex-col items-center gap-2
+              text-main font-main hover:font-bold transition">
+      <img src="public/icons/notes.png"
+           alt="Resources"
+           class="h-8 w-8 object-contain" />
+      <span>Resources</span>
+    </a>
 
-    <!-- THE SELECTOR INTERFACE (Dropdown Prime) -->
-    <div class="z-10 w-full max-w-4xl flex flex-col items-center animate-in fade-in zoom-in duration-700">
+    <!-- Coming Soon -->
+    <a href="#"
+       class="flex flex-col items-center gap-2
+              text-main font-main opacity-70 cursor-not-allowed">
+      <img src="public/icons/person.png"
+           alt="Coming Soon"
+           class="h-8 w-8 object-contain" />
+      <span>Coming Soon</span>
+    </a>
 
-      <header class="text-center mb-10">
-        <h1 class="text-4xl md:text-6xl font-black tracking-tighter text-slate-800 mb-4">
-          Study <span class="text-main">Sprout</span>
-        </h1>
-        <p class="text-slate-500 text-lg md:text-xl font-medium">Choose your path to academic excellence.</p>
-      </header>
+    <!-- Contact -->
+    <a href="contact.html"
+       class="flex flex-col items-center gap-2
+              text-main font-main hover:font-bold transition">
+      <img src="public/icons/contact.png"
+           alt="Contact Us"
+           class="h-8 w-8 object-contain" />
+      <span>Contact Us</span>
+    </a>
 
-      <!-- Dropdown Prime & A Container -->
-      <div class="flex flex-col md:flex-row gap-6 items-center justify-center w-full">
+  </div>
+</nav>
 
-        <!-- Dropdown Prime: Curriculum -->
-        <div class="relative group w-72">
-          <label
-            class="text-[10px] font-bold uppercase tracking-[0.2em] text-slate-400 mb-2 block ml-2">Curricula</label>
-          <button id="prime-btn"
-            class="w-full h-20 px-6 rounded-xl shadow-lg flex items-center justify-between hover:shadow-2xl transition bg-gradient-to-r from-primary to-primary-var1 hover:from-tertiary-var1 hover:to-tertiary-var2">
-            <span id="prime-label" class="text-xl font-bold">Select Curriculum</span>
-            <svg class="w-6 h-6 text-main" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
-            </svg>
-          </button>
 
-          <div id="prime-menu"
-            class="hidden absolute top-full left-0 right-0 mt-3 p-2 bg-primary rounded-xl shadow-2xl border border-primary-text z-50">
-            <button data-value="IBDP"
-              class="prime-opt w-full text-left p-4  bg-gradient-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">IBDP</button>
-            <button data-value="CIE IGCSE"
-              class="prime-opt w-full text-left p-4 bg-gradient-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">CIE
-              IGCSE</button>
-            <button data-value="A-Levels"
-              class="prime-opt w-full text-left p-4 bg-gradient-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">A-Levels</button>
-            <button data-value="SAT"
-              class="prime-opt w-full text-left p-4 bg-gradient-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">SAT</button>
-          </div>
-        </div>
-
-        <!-- Arrow Decor (Visible on desktop) -->
-        <div class="hidden md:block text-slate-300 mt-6">
-          <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5l7 7-7 7M5 5l7 7-7 7"></path>
-          </svg>
-        </div>
-
-        <!-- Dropdown A: Subjects (Populated dynamically) -->
-        <div id="subject-container" class="opacity-20 pointer-events-none transition-all duration-500 w-72">
-          <label class="text-[10px] font-bold uppercase tracking-[0.2em] text-slate-400 mb-2 block ml-2">Subject</label>
-          <div class="relative">
-            <button id="subject-btn"
-              class="w-full h-20 px-6 rounded-xl shadow-lg flex items-center justify-between hover:shadow-2xl transition bg-gradient-to-r from-primary to-primary-var1 hover:from-tertiary-var1 hover:to-tertiary-var2">
-              <span id="subject-label" class="text-xl font-bold text-slate-400">Select Subject</span>
-              <svg class="w-6 h-6 text-slate-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
-              </svg>
-            </button>
-
-            <div id="subject-menu"
-              class="hidden absolute top-full left-0 right-0 mt-3 p-2 bg-primary rounded-xl shadow-2xl border border-primary-text z-50 max-h-64 overflow-y-auto custom-scrollbar">
-              <!-- Subjects will be injected here -->
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-      <!-- Informational Stats / Footer Area (Fills the empty space) -->
-      <div class="mt-20 grid grid-cols-1 md:grid-cols-3 gap-8 w-full max-w-3xl">
-        <div class="text-center">
-          <h4 class="text-3xl font-black text-main">500+</h4>
-          <p class="text-sm font-bold text-slate-400 uppercase tracking-widest">Resources</p>
-        </div>
-        <div class="text-center border-x-0 md:border-x border-slate-200">
-          <h4 class="text-3xl font-black text-main">20+</h4>
-          <p class="text-sm font-bold text-slate-400 uppercase tracking-widest">Subjects</p>
-        </div>
-        <div class="text-center">
-          <h4 class="text-3xl font-black text-main">4</h4>
-          <p class="text-sm font-bold text-slate-400 uppercase tracking-widest">Curricula</p>
-        </div>
-      </div>
-
-    </div>
-  </primary-text>
-
-  <script type="module">
-    import { subjects } from "./public/subjects.js";
-
-    // Selectors
-    const primeBtn = document.getElementById('prime-btn');
-    const primeMenu = document.getElementById('prime-menu');
-    const primeLabel = document.getElementById('prime-label');
-
-    const subjectContainer = document.getElementById('subject-container');
-    const subjectBtn = document.getElementById('subject-btn');
-    const subjectMenu = document.getElementById('subject-menu');
-    const subjectLabel = document.getElementById('subject-label');
-
-    // 1. Prime Menu Logic
-    primeBtn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      primeMenu.classList.toggle('hidden');
-      subjectMenu.classList.add('hidden');
-    });
-
-    document.querySelectorAll('.prime-opt').forEach(opt => {
-      opt.addEventListener('click', function () {
-        const curriculum = this.dataset.value;
-        primeLabel.innerText = curriculum;
-        primeMenu.classList.add('hidden');
-
-        // Unlock Subject Dropdown
-        subjectContainer.classList.remove('opacity-20', 'pointer-events-none');
-        subjectBtn.querySelector('svg').classList.replace('text-slate-300', 'text-main');
-        subjectLabel.classList.remove('text-slate-400');
-        subjectLabel.innerText = "Select Subject";
-
-        populateSubjects(curriculum);
-      });
-    });
-
-    // 2. Populate Dropdown A (Subjects)
-    function populateSubjects(curriculumName) {
-      subjectMenu.innerHTML = '';
-      const list = subjects[curriculumName] || [];
-
-      list.forEach(item => {
-        const btn = document.createElement('button');
-        btn.className = "w-full text-left p-4 bg-gradient-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-semibold transition text-main";
-        btn.innerText = item.subject;
-        btn.onclick = () => {
-          // Navigation logic: Redirect to the resource page with state
-          // Simulate the transition to the resources page
-          window.location.href = `result.html?curr=${encodeURIComponent(curriculumName)}&subject=${encodeURIComponent(item.subject)}`;
-          // window.location.href = "result.html"
-        };
-        subjectMenu.appendChild(btn);
-      });
-    }
-
-    subjectBtn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      subjectMenu.classList.toggle('hidden');
-    });
-
-    // Global close
-    document.addEventListener('click', () => {
-      primeMenu.classList.add('hidden');
-      subjectMenu.classList.add('hidden');
-    });
-  </script>
-
+  <div class="flex items-center justify-center mx-auto my-8">
+    <figure class="flex flex-col items-center align-middle">
+      <img src="public/logo-trans.png" alt="Study Sprout Logo"
+        class="scale-50 md:scale-75 lg:scale-100 max-w-xs md:max-w-md w-full h-auto" />
+      <figcaption class="-mt-20 md:-mt-10 lg:mt-8 text-center text-main max-w-md">
+        We are a student-led organization that compiles study resources, competitions, and opportunities to help
+        students learn, grow, and achieve their goals.
+      </figcaption>
+    </figure>
+  </div>
 </body>
 
 </html>

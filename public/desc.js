@@ -266,133 +266,133 @@ export const desc = {
   "Psychology Hub - Exam Tips and Notes":
     "An online resource offering exam tips and comprehensive notes for each Psychology 9990 paper. Provides strategic guidance alongside content knowledge for exam success.",
 
-  "IGCSE Resources - Accounting Notes": "A comprehensive Google Sites repository providing detailed notes and practical tips on how to excel in IGCSE Accounting 0452. Created by students for students, this resource covers essential accounting concepts and exam strategies.",
-
+    "IGCSE Resources - Accounting Notes": "A comprehensive Google Sites repository providing detailed notes and practical tips on how to excel in IGCSE Accounting 0452. Created by students for students, this resource covers essential accounting concepts and exam strategies.",
+  
   "YouTube Playlist - Accounting Topics": "A complete video playlist offering clear explanations for each topic in the IGCSE Accounting syllabus. Perfect for visual learners who need step-by-step guidance through accounting principles and procedures.",
-
+  
   "IGCSE Accounts - Complete Resource Hub": "An extensive free website providing organized links to video tutorials, comprehensive notes, and past papers with mark schemes. Features topical past paper questions and revision games to help students practice and master accounting concepts.",
-
+  
   "YouTube Playlist - Accounting Concepts and Terms": "A detailed video series covering explanations of each IGCSE Accounting topic along with essential key terms to memorize. Ideal for building a strong foundation in accounting terminology and principles.",
-
+  
   "YouTube Playlist - Accounting Past Paper Walkthroughs": "A comprehensive walkthrough series of IGCSE Accounting past papers with detailed solutions. Helps students understand examiner expectations and improve their exam technique through practical examples.",
-
+  
   "YouTube Playlist - Additional Maths Full Syllabus": "A complete syllabus run-through for Additional Mathematics 0606 with detailed explanations and past paper question solving. Covers all topics systematically to ensure thorough understanding of the entire course.",
-
+  
   "Ginger Mathematician - YouTube Channel": "Run by an experienced Head of Mathematics, this channel provides expert tips, clear explanations, and comprehensive run-throughs of Additional Mathematics past papers. Features predicted papers and proven strategies to help students achieve top grades.",
-
+  
   "IGCSE Resources - Additional Maths Solutions": "A Google Sites collection focusing on solutions to difficult Additional Mathematics 0606 past paper questions. Particularly useful for tackling challenging problems and understanding complex solution methods.",
-
+  
   "Revise Right Now - Additional Maths Practice": "An online platform offering topical past paper questions with detailed solutions for Additional Mathematics 0606. Allows students to practice specific topics and track their progress through targeted exercises.",
-
+  
   "IITian Academy - Biology Resources": "A comprehensive learning platform offering structured notes, interactive flashcards, and an extensive question bank for IGCSE Biology 0610. Provides multiple study formats to suit different learning styles and needs.",
-
+  
   "ZNotes - Biology Complete Package": "An all-in-one resource providing concise notes, video explanations, and past paper walkthroughs for Biology 0610. Features well-organized content that makes revision efficient and comprehensive.",
-
+  
   "IGCSE Study Buddy - Biology Video Lectures": "A YouTube channel offering detailed video lectures covering each topic in the IGCSE Biology syllabus. Breaks down complex biological concepts into easy-to-understand explanations with visual aids.",
-
+  
   "Amoeba Sisters - Biology Fun Learning": "An engaging YouTube channel featuring animated videos that make biology concepts fun and easy to understand. Perfect for students who struggle with traditional textbook explanations and need a more entertaining approach.",
-
+  
   "Exam-Mate - Biology Papers Database": "An extensive online repository supplying past papers and topic-specific papers for IGCSE Biology 0610. Includes organized collections of questions by topic, making targeted revision straightforward.",
-
+  
   "IGCSE Resources - Business Studies Guide": "A Google Sites platform providing comprehensive guides and detailed notes for Business Studies 0450. Covers all syllabus topics with clear explanations and practical business examples.",
-
+  
   "IGCSE Aid - Business Studies Notes": "An online resource supplying well-structured notes for each topic in the Business Studies 0450 syllabus. Organized logically to help students build understanding progressively through the course.",
-
+  
   "YouTube Playlist - Business Studies Exam Tips": "A video series discussing effective tips, tricks, and model answers to maximize exam scores in Business Studies 0450. Reveals examiner insights and strategies for achieving top grades.",
-
+  
   "Cambridge Essentials - Business Studies Channel": "A YouTube channel offering breakdown analyses of model answers to Business Studies past paper questions. Helps students understand what examiners look for and how to structure high-scoring responses.",
-
+  
   "Exam-Mate - Chemistry Papers Database": "A comprehensive online repository supplying past papers and topic-specific papers for IGCSE Chemistry 0620. Enables focused practice on weak areas through organized topical questions.",
-
+  
   "ZNotes - Chemistry Complete Package": "An all-in-one resource providing clear notes, helpful videos, and past paper walkthroughs for Chemistry 0620. Covers the entire syllabus with concise explanations ideal for quick revision.",
-
+  
   "IITian Academy - Chemistry Resources": "A learning platform offering comprehensive notes, memorization flashcards, and an extensive question bank for IGCSE Chemistry 0620. Provides varied resources for both learning new content and testing knowledge.",
-
+  
   "IGCSE Study Buddy - Chemistry Video Lectures": "A YouTube channel delivering detailed video lectures explaining each topic in the IGCSE Chemistry syllabus. Makes difficult chemistry concepts accessible through clear visual demonstrations.",
-
+  
   "IGCSE Online - Chemistry Syllabus Summary": "A YouTube channel providing a concise summary of the entire Chemistry 0620 syllabus. Excellent for last-minute revision or getting a quick overview of all key topics before exams.",
-
+  
   "IGCSE Hub - Computer Science Notes": "A dedicated website featuring in-depth notes covering all Computer Science 0478 syllabus points with additional practice questions and past papers. Offers comprehensive coverage with practical coding examples and clear explanations.",
-
+  
   "Quizlet - Computer Science Flashcards": "A collection of Computer Science 0478 flashcards designed for active recall practice. Helps students memorize key definitions, concepts, and programming syntax through spaced repetition.",
-
+  
   "Mr Bulmer's Learning Zone - YouTube Channel": "A YouTube channel providing detailed explanations of different Computer Science topics and comprehensive past paper walkthroughs. Features clear teaching style that breaks down complex computational concepts.",
-
+  
   "Google Drive - Computer Science Past Papers 2015-Present": "A comprehensive compilation of Computer Science 0478 past papers from 2015 onwards. Includes both Paper 1 and Paper 2 questions, providing extensive practice material for exam preparation.",
-
+  
   "Google Drive - Computer Science Candidate Responses": "A collection of example candidate responses for different Computer Science past paper questions. Shows students what high-scoring answers look like and common mistakes to avoid.",
-
+  
   "Google Drive - 15-Mark Pseudocode Questions": "A compilation of previous 15-mark pseudocode questions from Paper 2 with their respective mark schemes. Essential for mastering the most challenging question type in Computer Science 0478.",
-
+  
   "YouTube Playlist - Computer Science Comprehensive Coverage": "An extensive playlist covering different chapters, past paper questions, and scenario-based problems for Computer Science 0478. Provides visual explanations for both theoretical and practical aspects of the syllabus.",
-
+  
   "Google Drive - Programming Syntax Guide": "A concise document covering basic programming syntax needed for Computer Science Paper 2. Serves as a quick reference guide for pseudocode and programming fundamentals during revision.",
-
+  
   "Google Drive - Paper 1 Diagrams": "A complete collection of all need-to-know diagrams for Computer Science Paper 1. Essential visual resource covering system architecture, network topologies, and data flow diagrams.",
-
+  
   "Google Drive - Computer Science Topical Notes": "Complete topical notes organized by subject area for Computer Science 0478. Provides comprehensive coverage of all syllabus points with examples and explanations for each topic.",
-
+  
   "YouTube Playlist - Economics Detailed Explanations": "An extensive playlist providing detailed explanations of each topic in the IGCSE Economics 0455 syllabus. Covers economic concepts with real-world examples to enhance understanding.",
-
+  
   "YouTube Video - Economics Concise Review": "A single comprehensive video offering concise explanations on all Economics topics, perfect for last-minute revision. Condenses the entire syllabus into an efficient review format.",
-
+  
   "YouTube Video - Economics Essential Diagrams": "A focused video explaining all essential diagrams that Economics students need to know for their exams. Covers supply and demand curves, production possibilities, and other key graphical representations.",
-
+  
   "Save My Exams - Economics Notes and Tips": "An online platform offering structured notes and valuable exam tips for IGCSE Economics 0455. Provides topic-by-topic breakdowns with examiner advice on how to approach different question types.",
-
+  
   "Tutors Plus - Economics Overview": "A resource providing a general overview of IGCSE Economics covering key concepts and themes. Useful for students starting the course or needing a refresher on core economic principles.",
-
+  
   "Jadeed Institute - YouTube Channel": "A YouTube channel providing detailed past paper walkthroughs and comprehensive breakdowns for Economics 0455. Helps students understand marking schemes and improve their answer techniques.",
-
+  
   "IGCSE1 English - Question and Sample Answers": "A WordPress blog displaying past English First Language 0500 questions with high-quality sample answers. Shows students what excellent responses look like across different question types.",
-
+  
   "IGCSE SUCCESS - YouTube Channel": "A YouTube channel discussing past paper questions, model answers, and practical ways to improve writing skills for English 0500. Focuses on techniques for achieving top grades in both reading and writing components.",
-
+  
   "Taughtly - YouTube Channel": "A YouTube channel showcasing exemplary, high-scoring answers for English First Language 0500. Demonstrates the quality and style of writing needed to achieve the highest grades.",
-
+  
   "Google Drive - English Explanations and Samples": "A comprehensive folder compiling a wide range of explanations and sample answers for each English 0500 topic. Provides extensive examples of different text types and question approaches.",
-
+  
   "Google Drive - English Text Structure Guide": "A resource explaining how to structure different types of texts for Papers 1 and 2 of English 0500. Covers narrative writing, descriptive writing, argumentative essays, and summary techniques.",
-
+  
   "Google Drive - English Paper Walkthroughs": "Complete walkthroughs of English First Language Papers 1 and 2 with helpful tips and tricks. Provides step-by-step guidance on approaching each section of the exam effectively.",
-
+  
   "Ginger Mathematician - Mathematics Video Channel": "A comprehensive YouTube channel by an experienced Head of Mathematics covering all topics for both Mathematics 0580 papers. Features clear explanations, exam predictions, and proven strategies for achieving A* grades.",
-
+  
   "Revise Right Now - Mathematics Video Explanations": "An online platform providing video explanations for all topics in the IGCSE Mathematics extended syllabus. Breaks down each concept with worked examples and practice opportunities.",
-
+  
   "Google Drive - Mathematics Comprehensive Notes": "A complete set of comprehensive notes covering all Mathematics 0580 topics in detail. Organized by topic with clear explanations, formulas, and worked examples throughout.",
-
+  
   "Google Drive - Mathematics Rules and Formulas": "A consolidated document covering different Mathematics rules and essential formulas for IGCSE 0580. Serves as a quick reference guide for all key mathematical relationships and equations.",
-
+  
   "DMath Academy - YouTube Channel": "A YouTube channel explaining questions from different Mathematics past papers spanning multiple years. Helps students understand various question styles and solution approaches.",
-
+  
   "Google Drive - Mathematics Topical Worksheets": "A collection of topical worksheets covering different Mathematics 0580 topics. Provides additional practice questions organized by subject area for targeted skill development.",
-
+  
   "Exam-Mate - Physics Papers Database": "An extensive online repository supplying past papers and topic-specific papers for IGCSE Physics 0625. Enables focused practice through organized collections of questions by syllabus topic.",
-
+  
   "ZNotes - Physics Complete Package": "An all-in-one resource providing concise notes, helpful videos, and past paper walkthroughs for Physics 0625. Covers the entire syllabus with clear explanations and visual aids.",
-
+  
   "IITian Academy - Physics Revision Resources": "A comprehensive platform offering structured notes, memorization flashcards, and an extensive question bank for IGCSE Physics 0625. Provides multiple study formats to reinforce understanding.",
-
+  
   "IGCSE Study Buddy - Physics Video Lectures": "A YouTube channel delivering detailed video lectures covering each topic in the IGCSE Physics syllabus. Makes complex physics concepts accessible through clear explanations and demonstrations.",
-
+  
   "Physics with Moali - YouTube Channel": "A specialized YouTube channel focusing on tricky Physics concepts and comprehensive past paper walkthroughs. Particularly helpful for challenging topics that students commonly struggle with.",
-
+  
   "IGCSE Online - Physics Syllabus Summary": "A YouTube channel providing a concise summary of the entire Physics 0625 syllabus. Excellent for quick revision sessions or getting an overview of all key topics before exams.",
 
   "Crimson Education - SAT Reading Practice Test": "A free online practice test with 18 questions designed by college admissions experts to predict your SAT Reading score. Instantly highlights your reading strengths and areas for improvement to help you prepare effectively for test day.",
-
+  
   "IITian Academy - Digital SAT Preparation": "Comprehensive platform offering exam-style practice questions and detailed notes for both Reading/Writing and Math sections of the digital SAT. Provides structured study materials that mirror the actual test format and difficulty.",
-
-  "College Board - Student Question Bank": "Official question bank from the SAT creators containing thousands of authentic SAT-style practice questions. Allows you to filter by section, skill, doprimary-text, and difficulty level for targeted practice based on your specific needs.",
-
+  
+  "College Board - Student Question Bank": "Official question bank from the SAT creators containing thousands of authentic SAT-style practice questions. Allows you to filter by section, skill, domain, and difficulty level for targeted practice based on your specific needs.",
+  
   "Khan Academy - SAT Reading and Writing Prep": "Free comprehensive notes and lessons covering all must-know topics for the SAT Reading and Writing sections. Features personalized study plans that adapt to your performance and focus on areas needing improvement.",
-
+  
   "College Board Bluebook - Digital SAT Practice": "The official digital testing app from College Board where you can practice on the actual SAT interface used on test day. Includes full-length adaptive practice tests with scoring, built-in tools like annotation and calculator, and accommodations support.",
-
+  
   "PrepScholar SAT Blog": "A comprehensive blog providing valuable advice, proven strategies, and insider tips from successful past SAT takers. Covers everything from study schedules to section-specific techniques for maximizing your score.",
-
+  
   "Crimson Education - SAT Math Practice Test": "A free online practice test with 18 questions designed by college admissions experts to predict your SAT Math score. Instantly highlights your math strengths and areas for improvement to guide your study focus.",
-
+  
   "Khan Academy - SAT Math Prep": "Free comprehensive notes and video lessons covering all must-know topics for the SAT Math section. Provides personalized practice recommendations and detailed explanations to build your mathematical problem-solving skills."
 };
