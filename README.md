@@ -9,7 +9,7 @@
   node -v
   ```
 
-2. Make a folder and download the files from the **main** branch
+2. Make a folder and download the files from the **primary-text** branch
 
 3. Install tailwind CLI by running this command in that folder with the files
 
