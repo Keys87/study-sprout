@@ -9,26 +9,42 @@
   <title>Study Sprout</title>
 </head>
 
-<body class="p-0 m-0 flex w-screen h-screen flex-col text-main font-main bg-grad-two">
+<body
+  class="p-0 m-0 flex w-screen h-screen flex-col md:flex-row text-main font-primary-text bg-primary-bg overflow-hidden">
 
-  <nav class=" w-screen py-8 flex justify-center items-center flex-row bg-grad-two shadow-xl shadow-shadow">
-
-    <div class="flex-auto ms-2">
+  <!-- Sidebar (Your existing Navigation) -->
+  <nav
+    class="h-fit md:h-screen md:w-56 md:p-2 md:gap-2 w-screen flex md:flex-col flex-row items-center bg-primary-bg shadow-xl shadow-shadow z-50">
+    <!-- Logo -->
+    <div class="ms-4 mt-8 mb-10">
       <a href="index.html">
-        <img src="public/logo-trans.png" alt="Logo/Home Button" class="h-16 w-auto object-contain" />
+        <img src="public/logo-trans.png" class="h-12 md:h-16 w-auto" />
       </a>
     </div>
-    <div class="flex flex-auto justify-center">
-      <a href="rss.html" class="p-1 text-main font-main underline hover:font-bold">Resources</a>
-      <a href="opportunities.html" class="p-1 text-main font-main underline hover:font-bold">Opportunities</a>
-      <a href="contact.html" class="p-1 text-main font-main underline hover:font-bold">Contact Us</a>
-    </div>
 
-    <div class="flex-auto h-full"></div>
+    <!-- Links with icons -->
+    <div class="flex md:flex-col flex-row items-center gap-8 text-center">
+      <a href="opportunities.html" class="flex flex-col items-center gap-2 text-main hover:font-bold transition group">
+        <img src="public/icons/door-open.svg" alt="Opportunities"
+          class="h-8 w-8 object-contain group-hover:scale-110 transition" />
+        <span class="text-xs md:text-base">Opportunities</span>
+      </a>
+      <a href="contact.html" class="flex flex-col items-center gap-2 text-main hover:font-bold transition group">
+        <img src="public/icons/telephone.svg" alt="Contact Us"
+          class="h-8 w-8 object-contain group-hover:scale-110 transition" />
+        <span class="text-xs md:text-base">Contact Us</span>
+      </a>
+    </div>
   </nav>
-  <section role="main" class="mt-6 w-full h-fit flex flex-col items-center justify-center gap-4">
-    <button type="button" onclick="navigator.clipboard.writeText('contact@studysprout.com')" class="inline-flex items-center text-main text-2xl justify-center w-36 md:w-56 md:h-20 lg:w-72 lg:h-24 p-2 rounded-2xl shadow-lg transition transform bg-gradient-to-r from-[#dde6ef] to-[#cfd9e2] hover:shadow-2xl hover:scale-110 hover:from-[#f5d8cc] hover:to-[#e3c7bc]">Our Email</button>
-    <a href="https://www.instagram.com/studysproutorg/" class="inline-flex items-center text-main text-2xl justify-center w-36 md:w-56 md:h-20 lg:w-72 lg:h-24 p-2 rounded-2xl shadow-lg transition transform bg-gradient-to-r from-[#dde6ef] to-[#cfd9e2] hover:shadow-2xl hover:scale-110 hover:from-[#f5d8cc] hover:to-[#e3c7bc]">Our Instagram</a>
+
+
+  <section role="primary-text" class="mt-6 w-full h-fit flex flex-col items-center justify-center gap-4">
+    <button type="button" onclick="() => {navigator.clipboard.writeText('studysprout.org@gmail.com'); }"
+      class="inline-flex items-center text-main text-2xl justify-center w-36 md:w-56 md:h-20 lg:w-72 lg:h-24 p-2 rounded-2xl shadow-lg transition transform bg-gradient-to-r from-primary to-primary-var1 hover:shadow-2xl hover:from-tertiary-var1 hover:to-tertiary-var2">Our
+      Email</button>
+    <a href="https://www.instagram.com/studysproutorg/"
+      class="inline-flex items-center text-main text-2xl justify-center w-fit p-2 rounded-2xl shadow-lg transition transform bg-gradient-to-r from-primary to-primary-var1 hover:shadow-2xl hover:from-tertiary-var1 hover:to-tertiary-var2 text-nowrap">Our
+      Instagram</a>
   </section>
 </body>
 
