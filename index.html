@@ -61,7 +61,7 @@
           <label
             class="text-[10px] font-bold uppercase tracking-[0.2em] text-slate-400 mb-2 block ml-2">Curricula</label>
           <button id="prime-btn"
-            class="w-full h-20 px-6 rounded-xl shadow-lg flex items-center justify-between hover:shadow-2xl transition bg-gradient-to-r from-primary to-primary-var1 hover:from-tertiary-var1 hover:to-tertiary-var2">
+            class="w-full h-20 px-6 rounded-xl shadow-lg flex items-center justify-between hover:shadow-2xl transition bg-linear-to-r from-primary to-primary-var1 hover:from-tertiary-var1 hover:to-tertiary-var2">
             <span id="prime-label" class="text-xl font-bold">Select Curriculum</span>
             <svg class="w-6 h-6 text-main" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
@@ -71,14 +71,14 @@
           <div id="prime-menu"
             class="hidden absolute top-full left-0 right-0 mt-3 p-2 bg-primary rounded-xl shadow-2xl border border-primary-text z-50">
             <button data-value="IBDP"
-              class="prime-opt w-full text-left p-4  bg-gradient-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">IBDP</button>
+              class="prime-opt w-full text-left p-4  bg-linear-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">IBDP</button>
             <button data-value="CIE IGCSE"
-              class="prime-opt w-full text-left p-4 bg-gradient-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">CIE
+              class="prime-opt w-full text-left p-4 bg-linear-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">CIE
               IGCSE</button>
             <button data-value="A-Levels"
-              class="prime-opt w-full text-left p-4 bg-gradient-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">A-Levels</button>
+              class="prime-opt w-full text-left p-4 bg-linear-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">A-Levels</button>
             <button data-value="SAT"
-              class="prime-opt w-full text-left p-4 bg-gradient-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">SAT</button>
+              class="prime-opt w-full text-left p-4 bg-linear-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">SAT</button>
           </div>
         </div>
 
@@ -94,7 +94,7 @@
           <label class="text-[10px] font-bold uppercase tracking-[0.2em] text-slate-400 mb-2 block ml-2">Subject</label>
           <div class="relative">
             <button id="subject-btn"
-              class="w-full h-20 px-6 rounded-xl shadow-lg flex items-center justify-between hover:shadow-2xl transition bg-gradient-to-r from-primary to-primary-var1 hover:from-tertiary-var1 hover:to-tertiary-var2">
+              class="w-full h-20 px-6 rounded-xl shadow-lg flex items-center justify-between hover:shadow-2xl transition bg-linear-to-r from-primary to-primary-var1 hover:from-tertiary-var1 hover:to-tertiary-var2">
               <span id="subject-label" class="text-xl font-bold text-slate-400">Select Subject</span>
               <svg class="w-6 h-6 text-slate-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
@@ -172,7 +172,7 @@
 
       list.forEach(item => {
         const btn = document.createElement('button');
-        btn.className = "w-full text-left p-4 bg-gradient-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-semibold transition text-main";
+        btn.className = "w-full text-left p-4 bg-linear-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-semibold transition text-main";
         btn.innerText = item.subject;
         btn.onclick = () => {
           // Navigation logic: Redirect to the resource page with state

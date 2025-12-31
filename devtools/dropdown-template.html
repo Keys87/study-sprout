@@ -34,7 +34,7 @@
     <div class="relative inline-block text-left" id="dropdown-parent">
       <!-- Trigger A: The Main Subject Select Button -->
       <button type="button" id="dropdown-button"
-        class="inline-flex items-center justify-between gap-3 text-main text-2xl w-36 md:w-56 md:h-20 lg:w-72 lg:h-24 p-6 rounded-2xl shadow-lg transition transform bg-gradient-to-r from-primary to-primary-var1 hover:shadow-2xl hover:scale-105 hover:from-tertiary-var1 hover:to-tertiary-var2">
+        class="inline-flex items-center justify-between gap-3 text-main text-2xl w-36 md:w-56 md:h-20 lg:w-72 lg:h-24 p-6 rounded-2xl shadow-lg transition transform bg-linear-to-r from-primary to-primary-var1 hover:shadow-2xl hover:scale-105 hover:from-tertiary-var1 hover:to-tertiary-var2">
         <span class="truncate">Select Subject</span>
         <svg class="w-6 h-6 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
@@ -93,7 +93,7 @@
         target="_blank"
         rel="noopener noreferrer"
         data-resource="${resourceName}"
-        class="resource-link w-full flex items-center justify-start gap-3 px-4 py-3 text-sm font-medium bg-gradient-to-r from-primary to-primary-var1 hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-lg transition-colors text-left no-underline text-main"
+        class="resource-link w-full flex items-center justify-start gap-3 px-4 py-3 text-sm font-medium bg-linear-to-r from-primary to-primary-var1 hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-lg transition-colors text-left no-underline text-main"
       >
         <svg class="w-4 h-4 shrink-0 opacity-60" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"></path>
@@ -108,7 +108,7 @@
         return `
         <div class="relative w-full group" id="subject-wrapper-${index}">
             <!-- Trigger B -->
-            <button type="button" id="subject-btn-${index}" class="w-full flex items-center justify-between gap-3 px-4 py-3 bg-gradient-to-r from-primary to-primary-var1 hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-lg transition-colors text-left">
+            <button type="button" id="subject-btn-${index}" class="w-full flex items-center justify-between gap-3 px-4 py-3 bg-linear-to-r from-primary to-primary-var1 hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-lg transition-colors text-left">
                 <span class="truncate font-medium">${subject}</span>
                 <svg class="w-4 h-4 shrink-0 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>

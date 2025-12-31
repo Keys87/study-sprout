@@ -13,7 +13,7 @@
 
   <!-- Sidebar (Your existing Navigation) -->
   <nav
-    class="h-fit md:h-screen md:w-24 md:p-2 md:gap-2 w-screen flex md:flex-col flex-row items-center bg-primary-bg shadow-xl shadow-shadow z-50">
+    class="h-fit md:h-screen md:w-56 md:p-2 md:gap-2 w-screen flex md:flex-col flex-row items-center bg-primary-bg shadow-xl shadow-shadow z-50">
     <!-- Logo -->
     <div class="mt-8 mb-10 ms-4">
       <a href="index.html">
@@ -36,7 +36,7 @@
   </nav>
 
   <!-- Search result section -->
-  <section role="primary-text" class="flex flex-col w-full p-2 overflow-y-scroll flex-nowrap gap-2 mt-6 md:mt-0"
+  <section role="primary-text" class="flex flex-col w-full p-2 px-0 overflow-y-scroll flex-nowrap gap-2 mt-6 md:mt-0"
     id="universe">
     <!-- Injection of resource components here -->
   </section>
@@ -60,14 +60,12 @@
     // Applicator function to create the HTML
     const resourceApplicator = (name, link, desc) => {
       // Check if viewport matches a media query
-      const isMobile = window.matchMedia('(max-width: 768px)').matches;
-      const isTablet = window.matchMedia('(min-width: 769px) and (max-width: 1024px)').matches;
-      const isDesktop = window.matchMedia('(min-width: 1025px)').matches;
+      const isMobile = window.matchMedia('(pointer: coarse)').matches;
 
       if (isMobile) {
         const element = `
-        <div class="relative group flex flex-col flex-nowrap bg-primary p-2 rounded-xl shadow-lg shadown-primary-text transition bg-gradient-to-r from-primary to-primary-var1">
-          <a class="font-bold text-xl text-main" href="${link}">${name}</a>
+        <div class="relative group flex flex-col w-full flex-nowrap p-2 border-b-2 border-primary transition">
+          <a class="font-bold text-xl text-main underline" href="${link}">${name}</a>
           <p class="">${desc}</p>
         </div>
         `
@@ -75,10 +73,12 @@
 
       } else {
         const element = `
-        <div class="relative group flex flex-col flex-nowrap bg-primary p-2 rounded-xl shadow-lg shadown-primary-text transition bg-gradient-to-r from-primary to-primary-var1">
-          <p class="font-bold text-xl text-main">${name}</p>
-          <p class="">${desc}</p>
-          <a href="${link}" class="absolute right-0 top-0 ps-28 pe-2 rounded-xl items-center align-baseline hidden group-hover:inline-flex h-full bg-linear-90 from-transparent from-10% to-tertiary-var2 to-90%">Click Here</a>
+        <div class="relative w-full group flex flex-row flex-nowrap rounded-xl rounded-b-none transition border-b-2 border-primary-var1 py-2">
+          <div class="flex flex-col w-full p-2 ps-4">
+            <p class="font-bold text-xl text-main">${name}</p>  
+            <p class="">${desc}</p>
+          </div>
+          <a href="${link}" class="p-2 w-fit me-2 text-nowrap transition overflow-clip rounded-xl items-center align-baseline hidden group-hover:inline-flex h-full bg-linear-90 from-primary from-10% to-primary-var1 to-95% hover:from-tertiary-var1 hover:to-tertiary-var2">Click Here</a>
         </div>
         `
         return element

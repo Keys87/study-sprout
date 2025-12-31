@@ -10,7 +10,7 @@
 </head>
 
 <body
-  class="p-0 m-0 flex w-screen h-screen flex-col md:flex-row text-main font-primary-text bg-primary-bg overflow-hidden">
+  class="p-0 m-0 flex w-screen h-screen flex-col items-center-safe align-middle md:flex-row text-main font-primary-text bg-primary-bg overflow-hidden">
 
   <!-- Sidebar (Your existing Navigation) -->
   <nav
@@ -38,13 +38,16 @@
   </nav>
 
 
-  <section role="primary-text" class="mt-6 w-full h-fit flex flex-col items-center justify-center gap-4">
+  <section role="primary-text" class="mt-6 w-fit h-full flex p-2 flex-col items-center gap-2 md:gap-4 md:w-full">
     <button type="button" onclick="() => {navigator.clipboard.writeText('studysprout.org@gmail.com'); }"
-      class="inline-flex items-center text-main text-2xl justify-center w-36 md:w-56 md:h-20 lg:w-72 lg:h-24 p-2 rounded-2xl shadow-lg transition transform bg-gradient-to-r from-primary to-primary-var1 hover:shadow-2xl hover:from-tertiary-var1 hover:to-tertiary-var2">Our
+      class="inline-flex items-center text-main text-2xl justify-center w-full md:w-md h-1/6 md:h-1/12 rounded-2xl shadow-lg transition transform bg-linear-to-r from-primary to-primary-var1 hover:shadow-2xl hover:from-tertiary-var1 hover:to-tertiary-var2">Our
       Email</button>
     <a href="https://www.instagram.com/studysproutorg/"
-      class="inline-flex items-center text-main text-2xl justify-center w-fit p-2 rounded-2xl shadow-lg transition transform bg-gradient-to-r from-primary to-primary-var1 hover:shadow-2xl hover:from-tertiary-var1 hover:to-tertiary-var2 text-nowrap">Our
+      class="inline-flex items-center text-main text-2xl justify-center w-full md:w-md h-1/6 md:h-1/12 rounded-2xl shadow-lg transition transform bg-linear-to-r from-primary to-primary-var1 hover:shadow-2xl hover:from-tertiary-var1 hover:to-tertiary-var2 text-nowrap">Our
       Instagram</a>
+    <a href="https://devblogstudysprout.blogspot.com/"
+      class="inline-flex items-center text-main text-2xl justify-center px-2 w-full md:w-md h-1/6 md:h-1/12 rounded-2xl shadow-lg transition transform bg-linear-to-r from-primary to-primary-var1 hover:shadow-2xl hover:from-tertiary-var1 hover:to-tertiary-var2">
+      Devblog & Bug Reporting</a>
   </section>
 </body>
 
