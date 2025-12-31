@@ -10,13 +10,12 @@
 </head>
 
 <body
-  class="p-0 m-0 flex w-screen h-screen flex-col md:flex-row text-main font-primary-text bg-primary-bg overflow-hidden">
+  class="p-0 m-0 flex w-screen h-screen flex-col md:flex-row text-main font-primary-text bg-primary-bg overflow-scroll">
 
   <!-- Sidebar (Your existing Navigation) -->
-  <nav
-    class="h-fit md:h-screen md:w-56 md:p-2 md:gap-2 w-screen flex md:flex-col flex-row items-center bg-primary-bg shadow-xl shadow-shadow z-50">
+  <nav class="flex md:flex-col flex-row h-fit md:h-screen md:w-56 md:p-2 md:gap-2 w-screen items-center bg-primary-bg shadow-xl shadow-shadow">
     <!-- Logo -->
-    <div class="ms-4 mt-8 mb-10">
+    <div class="ms-4 my-4">
       <a href="index.html">
         <img src="public/logo-trans.png" class="h-12 md:h-16 w-auto" />
       </a>
@@ -38,7 +37,7 @@
   </nav>
 
   <!-- Main Content Area -->
-  <primary-text class="flex-1 flex flex-col items-center justify-center p-4 md:p-10 relative overflow-hidden md:me-24">
+  <main class="flex flex-col flex-none items-center justify-center relative overflow-scroll">
 
     <!-- Background Logo Decor (Lower opacity so it doesn't distract) -->
     <img src="public/logo-trans.png" class="absolute opacity-5 w-1/2 pointer-events-none" alt="" />
@@ -127,7 +126,7 @@
       </div>
 
     </div>
-  </primary-text>
+  </main>
 
   <script type="module">
     import { subjects } from "./public/subjects.js";
