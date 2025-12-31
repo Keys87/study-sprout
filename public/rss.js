@@ -160,7 +160,7 @@ export const rss = {
     ["YouTube Playlist - Accounting Past Paper Walkthroughs", "https://www.youtube.com/watch?v=2hNMEuB-HK8&list=PL5U202Q1noklCDL9aanug54zFofnOlahW"]
   ],
   "Additional Mathematics (0606)": [
-    ["YouTube Playlist - Additional Maths Full Syllabus", "IGCSE/O Level Add Maths - Full Syllabus Run Through"],
+    ["YouTube Playlist - Additional Maths Full Syllabus", "https://www.youtube.com/@MathletebySaad"],
     ["Ginger Mathematician - YouTube Channel", "https://www.youtube.com/@GingerMathematician"],
     ["IGCSE Resources - Additional Maths Solutions", "https://sites.google.com/view/igcseresources/mathematics/additional-mathematics"],
     ["Revise Right Now - Additional Maths Practice", "https://reviserightnow.com/maths/igcse/additional-maths/straight-line-graphs/exam-questions/cie"]
