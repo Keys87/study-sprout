@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="public/logo-trans.png" type="image/x-icon" />
+  <link rel="stylesheet" href="out.css" />
+  <title>Study Sprout</title>
+</head>
+
+<body class="p-0 m-0 flex w-screen h-screen flex-col text-main font-main bg-grad-two">
+
+  <nav class=" w-screen py-8 flex justify-center items-center flex-row bg-grad-two shadow-xl shadow-shadow">
+
+    <div class="flex-auto ms-2">
+      <a href="index.html">
+        <img src="public/logo-trans.png" alt="Logo/Home Button" class="h-16 w-auto object-contain" />
+      </a>
+    </div>
+
+    <div class="flex flex-auto justify-center">
+      <a href="rss.html" class="p-1 text-main font-main underline hover:font-bold">Resources</a>
+      <a href="opportunities.html" class="p-1 text-main font-main underline hover:font-bold">Opportunities</a>
+      <a href="contact.html" class="p-1 text-main font-main underline hover:font-bold">Contact Us</a>
+    </div>
+
+    <div class="flex-auto h-full"></div>
+  </nav>
+
+  <section class="flex flex-row  w-screen justify-center">
+    <ul class="flex flex-col list-none text-center items-center">
+      <li class="mt-2">
+        <h1 class="font-bold text-6xl">Curricula</h1>
+      </li>
+      <li class="mt-2">
+        <div class="list-none flex items-center align-top lg:py-5 py-3 gap-6 text-center">
+          <!-- ========================================== -->
+          <!-- COMPONENT START: Triple Nested Dropdown    -->
+          <!-- ========================================== -->
+
+          <div class="relative inline-block text-left" id="dropdown-prime-container">
+            <!-- Dropdown Prime Trigger: Select Curriculum -->
+            <button type="button" id="prime-button" class="inline-flex items-center justify-between gap-3 text-main text-2xl w-48 md:w-64 md:h-20 lg:w-80 lg:h-24 p-6 rounded-2xl shadow-lg transition transform bg-linear-to-r from-[#dde6ef] to-[#cfd9e2] hover:shadow-2xl hover:scale-105 hover:from-[#f5d8cc] hover:to-[#e3c7bc]">
+              <span id="prime-label" class="truncate">Select Curriculum</span>
+              <svg class="w-6 h-6 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+              </svg>
+            </button>
+
+            <!-- Dropdown Prime Menu (Curricula List) -->
+            <div id="prime-menu" class="hidden absolute left-0 z-30 mt-4 w-72 origin-top-left rounded-xl shadow-2xl ring-1 ring-main bg-grad-two p-2 flex flex-col gap-2">
+              <!-- Items: IBDP, CIE IGCSE, SAT, etc. -->
+              <button data-curriculum="IBDP" class="curriculum-option w-full flex items-center justify-between gap-3 px-4 py-3 bg-linear-to-r from-[#dde6ef] to-[#cfd9e2] hover:from-[#f5d8cc] hover:to-[#e3c7bc] rounded-lg transition-colors text-left">IBDP</button>
+              <button data-curriculum="CIE IGCSE" class="curriculum-option w-full flex items-center justify-between gap-3 px-4 py-3 bg-linear-to-r from-[#dde6ef] to-[#cfd9e2] hover:from-[#f5d8cc] hover:to-[#e3c7bc] rounded-lg transition-colors text-left">CIE IGCSE</button>
+              <button data-curriculum="SAT" class="curriculum-option w-full flex items-center justify-between gap-3 px-4 py-3 bg-linear-to-r from-[#dde6ef] to-[#cfd9e2] hover:from-[#f5d8cc] hover:to-[#e3c7bc] rounded-lg transition-colors text-left">SAT</button>
+              <button data-curriculum="A-Levels" class="curriculum-option w-full flex items-center justify-between gap-3 px-4 py-3 bg-linear-to-r from-[#dde6ef] to-[#cfd9e2] hover:from-[#f5d8cc] hover:to-[#e3c7bc] rounded-lg transition-colors text-left">A-Levels</button>
+            </div>
+
+            <!-- Dropdown A Container: Will appear once a Curriculum is selected -->
+            <div id="subject-dropdown-container" class="hidden mt-6 w-72 md:w-80 bg-grad-two rounded-xl shadow-xl ring-1 ring-main p-2 flex flex-col gap-2 max-h-[60vh] overflow-y-auto">
+              <div id="subjects-list-target" class="flex flex-col gap-2">
+                <!-- Subjects (Dropdown A items) injected here -->
+              </div>
+            </div>
+          </div>
+
+          <!-- ========================================== -->
+          <!-- LOGIC START                                -->
+          <!-- ========================================== -->
+
+          <script type="module">
+            import { subjects } from "../public/subjects.js";
+            import { rss } from "../public/rss.js";
+            import { renderDesc, renderLinks } from "../scripts/rss-desc.js";
+
+            // State Management
+            const state = {
+              currentCurriculum: null,
+              currentSubject: null
+            };
+
+            // --- HTML Generators ---
+
+            // B-Level: Resource Link
+            const createResourceItem = (resourceName, resourceUrl) => `
+              <a href="${resourceUrl}" target="_blank" rel="noopener noreferrer" data-resource="${resourceName}" class="text-left resource-link w-full flex items-center justify-between gap-3 px-4 py-3 bg-linear-to-r from-[#dde6ef] to-[#cfd9e2] hover:from-[#f5d8cc] hover:to-[#e3c7bc] rounded-lg transition-colors">
+                <svg class="w-4 h-4 shrink-0 opacity-60" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"></path>
+                </svg>
+                <span class="truncate">${resourceName}</span>
+              </a>
+            `;
+
+            // A-Level: Subject Accordion
+            const createSubjectAccordion = (subjectName, index) => `
+              <div class="w-full flex flex-col gap-1 border-b-2 border-grad-one pb-2 last:border-0" id="subject-wrapper-${index}">
+                  <button type="button" id="subject-btn-${index}" class="w-full flex items-center justify-between gap-3 px-4 py-3 bg-linear-to-r from-[#dde6ef] to-[#cfd9e2] hover:from-[#f5d8cc] hover:to-[#e3c7bc] rounded-lg transition-colors text-left">
+                      <span class="truncate font-semibold text-sm">${subjectName}</span>
+                      <svg class="w-4 h-4 shrink-0 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                      </svg>
+                  </button>
+                  <div id="subject-menu-${index}" class="hidden w-full mt-1 flex flex-col gap-2 border-l-2 border-grad-one ml-4 pl-2">
+                    <!-- Resources injected here -->
+                  </div>
+              </div>
+            `;
+
+            // --- Logic Controllers ---
+
+            const primeBtn = document.getElementById('prime-button');
+            const primeMenu = document.getElementById('prime-menu');
+            const primeLabel = document.getElementById('prime-label');
+            const subjectContainer = document.getElementById('subject-dropdown-container');
+            const subjectListTarget = document.getElementById('subjects-list-target');
+
+            // Toggle Prime Menu
+            primeBtn.addEventListener('click', (e) => {
+              e.stopPropagation();
+              primeMenu.classList.toggle('hidden');
+            });
+
+            // Handle Curriculum Selection
+            document.querySelectorAll('.curriculum-option').forEach(opt => {
+              opt.addEventListener('click', function() {
+                const curriculum = this.dataset.curriculum;
+                state.currentCurriculum = curriculum;
+                primeLabel.innerText = curriculum;
+                primeMenu.classList.add('hidden');
+                
+                // Reveal Subject Dropdown (A) and render its contents
+                subjectContainer.classList.remove('hidden');
+                renderSubjects(curriculum);
+              });
+            });
+
+            function renderSubjects(curriculumName) {
+              subjectListTarget.innerHTML = ''; // Clear previous subjects
+              const curriculumData = subjects[curriculumName];
+
+              if (!curriculumData) {
+                subjectListTarget.innerHTML = '<p class="text-xs text-gray-400 p-4">No subjects found for this curriculum.</p>';
+                return;
+              }
+
+              curriculumData.forEach((item, i) => {
+                const subjectName = item.subject;
+                subjectListTarget.insertAdjacentHTML('beforeend', createSubjectAccordion(subjectName, i));
+
+                const btn = document.getElementById(`subject-btn-${i}`);
+                const menu = document.getElementById(`subject-menu-${i}`);
+
+                // Toggle Subject Resources (B Dropdown)
+                btn.addEventListener('click', (e) => {
+                  e.stopPropagation();
+                  // Accordion behavior: close others
+                  document.querySelectorAll('[id^="subject-menu-"]').forEach(el => {
+                    if (el.id !== `subject-menu-${i}`) el.classList.add('hidden');
+                  });
+                  
+                  // Populate resources if menu is about to open and is empty
+                  if (menu.classList.contains('hidden')) {
+                    renderResources(subjectName, menu);
+                  }
+                  
+                  menu.classList.toggle('hidden');
+                });
+              });
+            }
+
+            function renderResources(subjectName, targetElement) {
+              targetElement.innerHTML = ''; // Clear
+              const resourceList = rss[subjectName];
+
+              if (resourceList && resourceList.length > 0) {
+                resourceList.forEach(res => {
+                  const name = res[0];
+                  const url = res[1];
+                  targetElement.insertAdjacentHTML('beforeend', createResourceItem(name, url));
+                });
+              } else {
+                targetElement.innerHTML = '<p class="text-[10px] text-gray-400 p-2">Resources coming soon.</p>';
+              }
+
+              // Add tracking to the new links
+              targetElement.querySelectorAll('.resource-link').forEach(link => {
+                link.addEventListener('click', function() {
+                  window.appState = {
+                    currentSubject: subjectName,
+                    currentResource: this.dataset.resource
+                  };
+                  // Update external components if they exist
+                  try { renderDesc(); renderLinks(); } catch(e) {}
+                });
+              });
+            }
+
+            // Close menus when clicking outside
+            document.addEventListener('click', (e) => {
+              if (!primeMenu.contains(e.target) && !primeBtn.contains(e.target)) {
+                primeMenu.classList.add('hidden');
+              }
+            });
+
+          </script>
+        </div>
+      </li>
+    </ul>
+  </section>
+</body>
+
+</html>
