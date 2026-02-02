@@ -394,5 +394,24 @@ export const desc = {
 
   "Crimson Education - SAT Math Practice Test": "A free online practice test with 18 questions designed by college admissions experts to predict your SAT Math score. Instantly highlights your math strengths and areas for improvement to guide your study focus.",
 
-  "Khan Academy - SAT Math Prep": "Free comprehensive notes and video lessons covering all must-know topics for the SAT Math section. Provides personalized practice recommendations and detailed explanations to build your mathematical problem-solving skills."
+  "Khan Academy - SAT Math Prep": "Free comprehensive notes and video lessons covering all must-know topics for the SAT Math section. Provides personalized practice recommendations and detailed explanations to build your mathematical problem-solving skills.",
+
+  "IELTS.org - Preparation Resources": 
+    "The official IELTS website providing authentic sample test questions and videos to help candidates familiarize themselves with the exam format and scoring criteria.",
+  "IELTS Buddy - Examination Topics": 
+    "An extensive preparation site offering free lessons, model essays, and topical vocabulary to cover all core modules of the IELTS examination.",
+  "International House London - All About IELTS": 
+    "A professional guide from a renowned language school that breaks down the IELTS curriculum and provides expert insight into effective preparation strategies.",
+  "IELTS Liz - Practice Lessons and Tips": 
+    "A highly popular resource featuring comprehensive video lessons and tips specifically designed to help students achieve band scores of 7.0 and above.",
+  "Careers360 - IELTS Mock Tests": 
+    "An educational portal offering downloadable PDF guides and mock tests that simulate the actual exam environment for targeted skill building.",
+  "IDP IELTS - Prepare for Your Test": 
+    "The official IDP hub for test-takers, containing masterclasses, podcasts, and practice materials curated by the co-owners of the IELTS test.",
+  "YouTube Channel - IELTS Advantage": 
+    "A specialized YouTube channel focused on teaching simple, proven strategies to help candidates steadily improve their band scores in every section.",
+  "YouTube Video - Strategies to Score Highly": 
+    "A comprehensive video course that outlines essential techniques and time-management tips for mastering the Listening, Reading, Writing, and Speaking tests.",
+  "YouTube Channel - Ross IELTS Academy": 
+    "A channel featuring realistic mock speaking tests with expert examiner feedback to show exactly how different band scores are determined in practice."
 };

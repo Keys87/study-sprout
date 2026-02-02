@@ -78,6 +78,8 @@
               class="prime-opt w-full text-left p-4 bg-linear-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">A-Levels</button>
             <button data-value="SAT"
               class="prime-opt w-full text-left p-4 bg-linear-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">SAT</button>
+            <button data-value="IELTS"
+              class="prime-opt no-sub w-full text-left p-4 bg-linear-to-r bg-primary hover:from-tertiary-var1 hover:to-tertiary-var2 rounded-xl font-bold transition">IELTS</button>
           </div>
         </div>
 
@@ -153,13 +155,18 @@
         const curriculum = this.dataset.value;
         primeLabel.innerText = curriculum;
         primeMenu.classList.add('hidden');
+        console.log(curriculum)
 
         // Unlock Subject Dropdown
-        subjectContainer.classList.remove('opacity-20', 'pointer-events-none');
-        subjectBtn.querySelector('svg').classList.replace('text-slate-300', 'text-main');
-        subjectLabel.classList.remove('text-slate-400');
-        subjectLabel.innerText = "Select Subject";
-
+        if (!this.classList.contains('no-sub')) {
+                  subjectContainer.classList.remove('opacity-20', 'pointer-events-none');
+                  subjectBtn.querySelector('svg').classList.replace('text-slate-300', 'text-main');
+                  subjectLabel.classList.remove('text-slate-400');
+                  subjectLabel.innerText = "Select Subject";
+        } else {
+          
+          window.location.href = `result.html?curr=${encodeURIComponent(curriculum)}&subject=${encodeURIComponent(curriculum)}`
+        }
         populateSubjects(curriculum);
       });
     });

@@ -244,5 +244,16 @@ export const rss = {
     ["Khan Academy - SAT Math Prep", "https://www.khanacademy.org/test-prep/v2-sat-math"],
     ["College Board Bluebook - Digital SAT Practice", "https://bluebook.collegeboard.org/students"],
     ["PrepScholar SAT Blog", "https://blog.prepscholar.com/topic/sat"]
+  ],
+  "IELTS": [
+    ["IELTS.org - Preparation Resources", "https://ielts.org/take-a-test/preparation-resources"],
+    ["IELTS Buddy - Examination Topics", "https://www.ieltsbuddy.com/"],
+    ["International House London - All About IELTS", "https://www.ihlondon.com/blog/posts/2014/all-about-ielts/"],
+    ["IELTS Liz - Practice Lessons and Tips", "https://ieltsliz.com/"],
+    ["Careers360 - IELTS Mock Tests", "https://studyabroad.careers360.com/articles/ielts-mock-tests"],
+    ["IDP IELTS - Prepare for Your Test", "https://ielts.idp.com/prepare"],
+    ["YouTube Channel - IELTS Advantage", "https://www.youtube.com/@Ieltsadvantage"],
+    ["YouTube Video - Strategies to Score Highly", "https://www.youtube.com/watch?v=polUc1sfod8"],
+    ["YouTube Channel - Ross IELTS Academy", "https://www.youtube.com/@RossIELTSAcademy/videos"]
   ]
 };
