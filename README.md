@@ -1,5 +1,7 @@
 # Documentation
 
+Production Website is [here](https://keys87.github.io/study-sprout/)
+
 ### Development Setup
 
 1. Please ensure you have npm installed and nodejs. To test, please run this command in PowerShell
@@ -33,4 +35,3 @@ Additional documentation for tailwind is in **[tailwindcss.com](tailwindcss.com)
 1. `#c6ced5` and `#e8e7ea` for **gradients**
 2. `#471f0e` for **texts**
 3. `#a39f9f` for **shadows**
-
