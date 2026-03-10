@@ -1,0 +1,23 @@
+[
+  {
+    "name": "MIT THINK Competition",
+    "type": "competition",
+    "scope": "international",
+    "date": "soon",
+    "link": "https://think.mit.edu"
+  },
+  {
+    "name": "Google Science Fair",
+    "type": "competition",
+    "scope": "international",
+    "date": "month",
+    "link": "https://example.com"
+  },
+  {
+    "name": "Indonesian Biology Olympiad",
+    "type": "competition",
+    "scope": "national",
+    "date": "soon",
+    "link": "https://example.com"
+  }
+]

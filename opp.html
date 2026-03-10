@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="public/logo-trans.png"
+      type="image/x-icon"
+    />
+    <link rel="stylesheet" href="out.css" />
+    <title>Study Sprout</title>
+  </head>
+
+  <body
+    class="p-0 m-0 flex w-screen h-screen flex-col text-main font-main bg-grad-two"
+  >
+    <!-- NAVBAR -->
+    <nav
+      class="fixed top-0 left-0 h-screen w-56 flex flex-col items-center bg-grad-two shadow-xl shadow-shadow z-50"
+    >
+      <div class="mt-8 mb-10">
+        <a href="index.html">
+          <img src="public/logo-trans.png" class="h-16 w-auto" />
+        </a>
+      </div>
+
+      <div class="flex flex-col items-center gap-8 text-center">
+        <a
+          href="rss.html"
+          class="flex flex-col items-center gap-2 text-main font-main hover:font-bold transition"
+        >
+          <img src="public/icons/notes.png" class="h-8 w-8 object-contain" />
+          <span>Resources</span>
+        </a>
+
+        <a
+          href="#"
+          class="flex flex-col items-center gap-2 text-main font-main opacity-70 cursor-not-allowed"
+        >
+          <img src="public/icons/person.png" class="h-8 w-8 object-contain" />
+          <span>Coming Soon</span>
+        </a>
+
+        <a
+          href="contact.html"
+          class="flex flex-col items-center gap-2 text-main font-main hover:font-bold transition"
+        >
+          <img src="public/icons/contact.png" class="h-8 w-8 object-contain" />
+          <span>Contact Us</span>
+        </a>
+      </div>
+    </nav>
+
+    <!-- MAIN PAGE -->
+    <main class="ml-56 p-10 w-17/20 h-full overflow-y-auto">
+      <!-- SEARCH BAR -->
+      <div
+        class="flex items-center bg-white/40 rounded-xl px-6 py-3 shadow-md mb-6"
+      >
+        <input
+          id="searchInput"
+          type="text"
+          placeholder="Search opportunities..."
+          class="w-full bg-transparent outline-none text-lg"
+        />
+        <span class="text-xl">🔍</span>
+      </div>
+
+      <!-- FILTERS -->
+      <div class="flex gap-4 mb-8">
+        <select id="typeFilter" class="px-5 py-3 rounded-xl bg-white/40 shadow">
+          <option value="all">Filter By Type</option>
+          <option value="competition">Competition</option>
+          <option value="scholarship">Scholarship</option>
+          <option value="program">Program</option>
+        </select>
+
+        <select
+          id="scopeFilter"
+          class="px-5 py-3 rounded-xl bg-white/40 shadow"
+        >
+          <option value="all">Filter By Scope</option>
+          <option value="school">School</option>
+          <option value="national">National</option>
+          <option value="international">International</option>
+        </select>
+
+        <select id="dateFilter" class="px-5 py-3 rounded-xl bg-white/40 shadow">
+          <option value="all">Filter By Date</option>
+          <option value="soon">Closing Soon</option>
+          <option value="month">This Month</option>
+        </select>
+      </div>
+
+      <!-- RESULTS -->
+      <div id="resultsContainer" class="flex flex-col gap-4"></div>
+    </main>
+
+    <script>
+      let opportunities = [];
+
+      async function loadOpportunities() {
+        const response = await fetch("opp.json");
+        opportunities = await response.json();
+
+        displayOpportunities(opportunities);
+      }
+
+      function displayOpportunities(data) {
+        const container = document.getElementById("resultsContainer");
+        container.innerHTML = "";
+
+        data.forEach((op) => {
+          const div = document.createElement("div");
+
+          div.className =
+            "flex justify-between items-center bg-white/40 px-6 py-4 rounded-xl shadow";
+
+          div.innerHTML = `
+<span class="text-lg font-medium">
+${op.name}
+</span>
+
+<a href="${op.link}"
+target="_blank"
+class=" text-center px-4 py-2 bg-white rounded-lg shadow hover:bg-gray-200 transition">
+Click Here
+</a>
+`;
+
+          container.appendChild(div);
+        });
+      }
+
+      function filterResults() {
+        const search = document
+          .getElementById("searchInput")
+          .value.toLowerCase();
+
+        const type = document.getElementById("typeFilter").value;
+
+        const scope = document.getElementById("scopeFilter").value;
+
+        const date = document.getElementById("dateFilter").value;
+
+        const filtered = opportunities.filter((op) => {
+          const matchSearch = op.name.toLowerCase().includes(search);
+
+          const matchType = type === "all" || op.type === type;
+
+          const matchScope = scope === "all" || op.scope === scope;
+
+          const matchDate = date === "all" || op.date === date;
+
+          return matchSearch && matchType && matchScope && matchDate;
+        });
+
+        displayOpportunities(filtered);
+      }
+
+      document
+        .getElementById("searchInput")
+        .addEventListener("input", filterResults);
+
+      document
+        .getElementById("typeFilter")
+        .addEventListener("change", filterResults);
+
+      document
+        .getElementById("scopeFilter")
+        .addEventListener("change", filterResults);
+
+      document
+        .getElementById("dateFilter")
+        .addEventListener("change", filterResults);
+
+      loadOpportunities();
+    </script>
+  </body>
+</html>
