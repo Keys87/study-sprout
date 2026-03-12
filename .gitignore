@@ -72,3 +72,8 @@ build/
 logs/
 *.log
 
+# custom
+data/
+clean_data/
+*.xlsx
+*.csv
