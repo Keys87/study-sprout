@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 
 <head>
@@ -11,10 +11,9 @@
 
 <body
   class="p-0 m-0 flex w-screen h-screen flex-col md:flex-row text-main font-primary-text bg-primary-bg overflow-hidden">
-
   <!-- Sidebar (Your existing Navigation) -->
   <nav
-    class="h-fit md:h-screen md:w-56 md:p-2 md:gap-2 w-screen flex md:flex-col flex-row items-center bg-primary-bg shadow-xl shadow-shadow z-50">
+    class="h-full md:shrink-0 md:h-screen md:w-56 md:p-2 md:gap-2 w-screen flex md:flex-col flex-row items-center bg-primary-bg shadow-xl shadow-shadow z-50">
     <!-- Logo -->
     <div class="ms-4 mt-8 mb-10">
       <a href="index.html">
@@ -37,8 +36,141 @@
     </div>
   </nav>
 
-  <section role="primary-text" class="mt-6 w-full h-fit flex content-top justify-center-safe">
-    <p>Stay Tuned!</p>
+  <section role="primary-text" class="mt-6 w-full h-fit md:flex-1 md:h-screen flex content-top justify-center-safe">
+    <main class="w-full h-screen flex justify-center-safe flex-col items-center">
+      <!-- SEARCH BAR -->
+      <div class="w-full h-fit flex items-center justify-center-safe mb-4">
+        <input id="searchInput" type="text" placeholder="Search opportunities..."
+          class="flex items-center justify-between m-2 p-6 gap-3 outline-0 text-main text-lg md:h-20 lg:h-24 rounded-2xl shadow-lg transition transform bg-linear-to-r from-primary to-primary-var1 hover:shadow-2xl hover:scale-105 hover:from-tertiary-var1 hover:to-tertiary-var2 active:shadow-2xl active:from-tertiary-var1 active:to-tertiary-var2" />
+      </div>
+
+      <!-- FILTERS -->
+      <div class="flex justify-center flex-row md:w-fit gap-4 mb-8">
+        <select id="typeFilter"
+          class="p-2 w-fit md:w-full me-2 text-nowrap transition rounded-xl items-center align-baseline group-hover:inline-flex h-full bg-linear-90 from-primary from-10% to-primary-var1 to-95% hover:from-tertiary-var1 hover:to-tertiary-var2">
+          <option value="all">Filter By Type</option>
+          <option value="Competition">Competition</option>
+          <option value="Open Recruitment">Open Recruitment</option>
+          <option value="Summer Programme">Summer Programme</option>
+          <option value="Weekly Interactive Feature ">Weekly Interactive Feature</option>
+          <option value="Scholarship">Scholarship</option>
+          <option value="Internship">Internship</option>
+          <option value="Apprenticeship">Apprenticeship</option>
+          <option value="Volunteering">Volunteering</option>
+          <option value="">Unspecified</option>
+        </select>
+
+        <select id="scopeFilter"
+          class="p-2 w-fit md:w-full me-2 text-nowrap transition overflow-clip rounded-xl items-center align-baseline group-hover:inline-flex h-full bg-linear-90 from-primary from-10% to-primary-var1 to-95% hover:from-tertiary-var1 hover:to-tertiary-var2">
+          <option value="all">Filter By Scope</option>
+          <option value="US">US</option>
+          <option value="national">National</option>
+          <option value="international">International</option>
+          <option value="india">India</option>
+          <option value="united kingdoms">United Kingdoms</option>
+        </select>
+
+        <select id="dateFilter" disabled
+          class="p-2 w-fit md:w-full me-2 text-nowrap transition overflow-clip rounded-xl disabled:hidden items-center align-baseline group-hover:inline-flex h-full bg-linear-90 from-primary from-10% to-primary-var1 to-95% hover:from-tertiary-var1 hover:to-tertiary-var2">
+          <option value="all">Filter By Date</option>
+          <option value="soon">Closing Soon</option>
+          <option value="month">This Month</option>
+        </select>
+      </div>
+
+      <!-- RESULTS -->
+      <div id="resultsContainer" class="flex flex-col gap-4 w-full overflow-scroll"></div>
+    </main>
+
+    <script>
+      let opportunities = [];
+
+      async function loadOpportunities() {
+        const response = await fetch("public/merged_all.json");
+        opportunities = await response.json();
+
+        displayOpportunities(opportunities);
+      }
+
+      function displayOpportunities(data) {
+        const container = document.getElementById("resultsContainer");
+        container.innerHTML = "";
+
+        data.forEach((op) => {
+          const div = document.createElement("div");
+
+          // Check if viewport matches a media query
+          const isMobile = window.matchMedia('(pointer: coarse)').matches;
+
+          if (isMobile) {
+            div.innerHTML = `
+                  <div class="relative group flex flex-col w-full flex-nowrap p-2 border-b-2 border-primary transition">
+                    <a class="font-bold text-xl text-main underline" href="${op.link}">${op.title}</a>
+                    <p class="">${op.description}</p>
+                  </div>
+                  `;
+
+          } else {
+            div.innerHTML = `
+                  <div class="relative w-fit group flex h-auto flex-row items-stretch flex-nowrap rounded-xl rounded-b-none transition border-b-2 border-primary-var1 py-2">
+                    <div class="flex flex-col w-full p-2 ps-4">
+                      <p class="font-bold text-xl text-main">${op.title}</p>
+                      <p>${op.description}</p>
+                    </div>
+                    <a href="${op.link}" class="p-2 me-2 text-nowrap transition rounded-xl sm:hidden hidden group-hover:inline-flex h-full bg-linear-90 from-primary from-10% to-primary-var1 to-95% hover:from-tertiary-var1 hover:to-tertiary-var2">Click Here</a>
+                  </div>
+                  `;
+          }
+
+          container.appendChild(div);
+        });
+      }
+
+      function filterResults() {
+        const search = document
+          .getElementById("searchInput")
+          .value.toLowerCase();
+
+        const type = document.getElementById("typeFilter").value;
+
+        const scope = document.getElementById("scopeFilter").value;
+
+        const date = document.getElementById("dateFilter").value;
+
+        const filtered = opportunities.filter((op) => {
+          const matchSearch = op.title.toLowerCase().includes(search);
+
+          const matchType = type === "all" || op.type.toLowerCase().includes(type.toLowerCase());
+
+          const matchScope = scope === "all" || op.scope.toLowerCase() === scope;
+
+          const matchDate = date === "all" || op.date === date;
+
+          console.log(matchSearch && matchType && matchScope && matchDate)
+          return matchSearch && matchType && matchScope && matchDate;
+        });
+
+        displayOpportunities(filtered);
+      }
+
+      document
+        .getElementById("searchInput")
+        .addEventListener("input", filterResults);
+
+      document
+        .getElementById("typeFilter")
+        .addEventListener("change", filterResults);
+
+      document
+        .getElementById("scopeFilter")
+        .addEventListener("change", filterResults);
+
+      document
+        .getElementById("dateFilter")
+        .addEventListener("change", filterResults);
+
+      loadOpportunities();
+    </script>
   </section>
 </body>
 
