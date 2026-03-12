@@ -4,7 +4,7 @@
     "title": "Queen's Commonwealth Writing Competition",
     "description": "Queen's Commonwealth Writing Competition stands as the oldest international competition aimed at individuals aged 18 years and under managed by the Royal Commonwealth society to build writing skills, address global issues in a creative manner, and to empower young voices.",
     "link": "https:\/\/www.royalcwsociety.org\/writing-competition",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "4 March, 2026-Mid To Late May 2026",
     "requirements": null,
     "scope": "International"
@@ -14,7 +14,7 @@
     "title": "Volunteer as a Judge for The Queen\u2019s Commonwealth Writing Competition",
     "description": "Queen's Commonwealth Writing Competition is looking for volunteer judges to rate thousands of students' essays internationally. Its goal is to engage individuals as much as they can into the competition as a way to champion the voices of the young competitors.",
     "link": "https:\/\/www.royalcwsociety.org\/post\/volunteer-as-a-judge-for-the-queens-commonwealth-writing-competition-2026",
-    "type": "Open Recruitment",
+    "type": ["Open Recruitment"],
     "deadline": "7 February, 2026-Mid To Late May, 2026",
     "requirements": "- Be over 19 years old, - Have an interest in writing and\/or literature\/ the Commonwealth and\/or international affairs, - Be available between May 2026 and June 2026 in order to read and judge approximately 100-150 entries up to 1000 words each, - have reliable access to an internet connection during this period as the judging process is electronic.\u202fWe also encourage that judges have access to a computer or laptop rather than phone to ensure full access to the judging platform.  ",
     "scope": "International"
@@ -24,7 +24,7 @@
     "title": "Young Leaders And Changemakers Summer Camp",
     "description": "A 5-day action-packed summary camp that provides interactive workshops, group projects and live learning journeys ranging from policy-making to problem-solving, and work alongside peers from across the globe. It takes place in Lee Kuan Yew School of Public Policy, NUS, Singapore.",
     "link": "https:\/\/lkyspp.nus.edu.sg\/executive-education\/programmes\/young-leaders-and-changemakers-summer-camp\/",
-    "type": "Summer Programme",
+    "type": ["Summer Programme"],
     "deadline": "Deadline: 1 June, 2026",
     "requirements": "Cost: SGD 3,625 (regular); SGD 2,900 (early-bird discount), Aged 16+, Post-secondary, high-school or tertiary-level students, Aspiring youth leaders and changemakers\ninterested in public policy, governance, or social\ninnovation.",
     "scope": "International"
@@ -34,7 +34,7 @@
     "title": "QS ImpACT Skills Challenge 2026",
     "description": "A global competition where teams design digital games that address real world problems tied to the UN SDG challenges. You can participate even if you\u2019re new to coding.",
     "link": "https:\/\/qsimpact.org\/skills-challenge-2026\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 10 March, 2026",
     "requirements": "Participants aged 18-35, team sizes 2-5",
     "scope": "International"
@@ -44,7 +44,7 @@
     "title": "World IP Day Youth Video Competition 2026",
     "description": "Organised by the World Intellectual Property Organization (WIPO), this competition invites young creators (18\u201335) to produce a 60\u201390 second video about how intellectual property (IP) supports innovation and creativity in sports",
     "link": "https:\/\/www.wipo.int\/en\/web\/ipday\/2026\/video-competition",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 15 March, 2026",
     "requirements": "Participants aged 18-35, Participants can join individual or up to teams of 10",
     "scope": "International"
@@ -54,17 +54,17 @@
     "title": "The Mott Million Dollar Challenge",
     "description": "A national 30-90 second pitch competition for K-12 students in the United States. Funded by the Charles Stewart Mott Foundation to celebrate its centennial, the challenge invites young innovators to share ideas that improve their schools, homes, or communities.",
     "link": "https:\/\/mottmillion.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 27 February, 2026",
     "requirements": "- You must live in the United States (50 States and Washington D.C.).\n- You can go to public school, private school, charter school, homeschool, online school, or attend an out-of-school program.\n- The children or wards of employees of the Mott Foundation, the Network for Teaching Entrepreneurship (NFTE), and other affiliates are not eligible to win this competition. \n- You can make a team of up to three (3) students.  All team members must be in the same grade-level group (K-4, 5-8, 9-12).",
-    "scope": "National  "
+    "scope": "National"
   },
   {
     "index": 6,
     "title": "International Astronomy and Astrophysics Competition (IAAC) 2026",
     "description": "An online science competition lets students explore astronomy, astrophysics, and maths through multiple rounds of problem solving. Participants get certificates and awards based on performance, and it\u2019s open to high school and college students worldwide.",
     "link": "https:\/\/iaac.space\/en\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 26 May 2026",
     "requirements": "Junior: 10th Grade and below (and < 16 years of age)\nYouth: 11th to 13th Grade (and < 19 years of age)\nSenior: 1st Year College\/University and higher (or \u2265 19 years of age)",
     "scope": "International"
@@ -74,7 +74,7 @@
     "title": "Global Futures Challenge Competition (Immerse Education)",
     "description": "A creative competition for students aged 14\u201318 where you submit a brief response (written, visual, or video) about your vision for the future and how your skills and goals could contribute to it. ",
     "link": "https:\/\/www.immerse.education\/global-futures-challenge-competition\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "2 June 2026-31 July, 2026",
     "requirements": "Age: You must be between 14 and 18 years old.\nNationality: The competition is open to students from any country and all school types.\nParticipation Type: You can enter individually or as part of a team of up to 4 members. ",
     "scope": "International"
@@ -84,7 +84,7 @@
     "title": "Bow Seat Ocean Awareness Contest 2026",
     "description": "The Bow Seat Ocean Awareness Contest is a premier annual competition for students aged 11\u201318 worldwide, designed to leverage art and creativity for ocean conservation. It encourages young people to explore, through various media, the human-driven impacts on the ocean, promoting environmental advocacy and activism. ",
     "link": "https:\/\/bowseat.org\/programs\/ocean-awareness-contest\/contest-overview\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 8 June 2026",
     "requirements": "Age: Must be between 11-18, Entries may be submitted by an individual or group of unlimited size",
     "scope": "International"
@@ -94,7 +94,7 @@
     "title": "American Prot\u00e9g\u00e9 International Music Talent Competition 2026",
     "description": "The\u00a0American Prot\u00e9g\u00e9 International Music Talent Competition\u00a0is\u00a0a worldwide competition for musicians of all ages and nationalities, focusing on genres like piano, strings, voice, and winds. It is designed to boost careers by offering winners a performance opportunity at the\u00a0Weill Recital Hall at Carnegie Hall.\u00a0",
     "link": "https:\/\/americanprotege.com\/talent\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 31 April, 2026",
     "requirements": "Applicants must submit an online application, a biography (max 150 words), a portrait photo, and pay an application fee. ",
     "scope": "International"
@@ -104,7 +104,7 @@
     "title": "Open Letters: The New York Times Opinion-Writing Contest ",
     "description": "The New York Times Open Letter Contest is an annual opinion-writing competition for students (typically aged 13-19) to write a 500-word persuasive letter of protest or appeal to a specific, influential person or group. ",
     "link": "https:\/\/www.nytimes.com\/2026\/01\/22\/learning\/open-letters-our-opinion-writing-contest.html",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "25 Feb, 2026-8 April, 2026",
     "requirements": "\u2022 Your piece must be, in total, 500 words or fewer, not including the title.\n\u2022 You must be a student ages 13 to 19 in middle school or high school to participate. \n\u2022 You may work alone or in groups, but students should submit only one entry each.",
     "scope": "International"
@@ -114,7 +114,7 @@
     "title": "My List: A Different Kind of Review Contest",
     "description": "The New York Times \"My List\" Review Contest is a, curated, multimedia contest where students (ages 13\u201319) curate 3-5 works of art\/culture based on a theme and explain why others should check them out. ",
     "link": "https:\/\/www.nytimes.com\/2025\/11\/19\/learning\/my-list-a-different-kind-of-review-contest.html",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "14 January, 2026-25 February, 2026",
     "requirements": "\u2022 You must be a student ages 13 to 19 in middle school or high school to participate. \n\u2022 Your piece must be, in total, 600 words or fewer, not including the title.\n\u2022 Your collection should only cover works that fit into the following categories of creative expression that The New York Times reviews. ",
     "scope": "International"
@@ -124,7 +124,7 @@
     "title": "Audio Stories: The New York Times Podcast Contest",
     "description": "The\u00a0New York Times Student Podcast Contest\u00a0invites students aged 13\u201319 worldwide to submit original audio stories (maximum 5 minutes) on any topic.",
     "link": "https:\/\/www.nytimes.com\/2024\/08\/08\/learning\/our-student-podcast-contest.html",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "8 April, 2026-13 May, 2026",
     "requirements": "You must be a student ages 13 to 19 in middle school or high school to participate, be sure to use non-copyrighted sound effects or music, with some exceptions, and your piece should be no longer than five minutes. ",
     "scope": "International"
@@ -134,7 +134,7 @@
     "title": "Voice and Choice: The New York Times Summer Reading Contest",
     "description": "A weekly contest running over the summer in which students respond to journalism from The New York Times through short written reflections or brief videos. Best for students who enjoy reading, current events, and ongoing low-stakes writing practice.",
     "link": "https:\/\/www.nytimes.com\/2025\/03\/10\/learning\/our-16th-annual-summer-reading-contest.html#link-5ba013c5",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "5 June, 2025-14 August, 2026",
     "requirements": "Any teenager 13 to 19 years old anywhere in the world is invited to join, ",
     "scope": "International"
@@ -144,7 +144,7 @@
     "title": "The New York Times Conversation Challenge For Weekly Current Events",
     "description": "This challenge invites students to react to the news via our\u00a0daily writing prompts, and each week. They publish a selection of their comments in\u00a0a roundup for the world to read.\u00a0",
     "link": "https:\/\/www.nytimes.com\/column\/current-events-conversation",
-    "type": "Weekly Interactive Feature ",
+    "type": ["Weekly Interactive Feature"],
     "deadline": "All-Year Round",
     "requirements": null,
     "scope": "International"
@@ -154,7 +154,7 @@
     "title": "BBC Young Writers' Award 2026",
     "description": "BBC Young Writers' Award with Cambridge University\u00a0challenges young people in the UK aged between 14-18 years to submit stories of up to 1,000 words.\u00a0",
     "link": "https:\/\/www.bbc.co.uk\/programmes\/articles\/2cslf9QxZKznVCqplBS0SY0\/submissions-now-open-for-the-2026-bbc-young-writers-award",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 23 March, 2026",
     "requirements": "Aged 14-18 and living in the UK. ",
     "scope": "National"
@@ -164,7 +164,7 @@
     "title": "Chinese Government Scholarships",
     "description": "The 2026\/2027 Chinese Government Scholarship (CGS\/CSC), administered by the China Scholarship Council, is a fully funded program for international students (Bachelor's, Master's, PhD) covering tuition, accommodation, stipend (CNY 2,500\u20133,500\/month), and medical insurance",
     "link": "https:\/\/id.china-embassy.gov.cn\/eng\/sgdt\/202510\/t20251027_11741674.htm",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "December 31, 2025, and February 15, 2026",
     "requirements": "- be a citizen of a country other than the People\u2019s Republic of China, and be in good health both mentally\u2002and physically;\n- be a high school graduate under the age of 25 when applying for undergraduate programs;\n- be a bachelor\u2019s degree holder under the age of 35 when applying for master\u2019s programs;\n- be a master\u2019s degree holder under the age of 40 when applying for doctoral programs;\n- be a high school graduate (at least) under the age of 45 when applying for general scholar programs;\n- be a master\u2019s degree holder or an associate professor (or above) under the age of 50 when applying for senior scholar programs;\n-\u2002take the \"China Scholastic Competency Assessment (short as CSCA)\" and upload a valid score report\u2002(Appendix 4) when\u2002applying\u2002for bachelor programs.\u2002CSCA score report\u2002will be one of the necessary materials for admission review by universities. For more information about CSCA, please visit www.csca.cn;\n- have acquired the Chinese proficiency of HSK Level 3 when applying for Chinese-taught general scholar programs (studying Chinese language are exempted);\n- have acquired the Chinese proficiency of HSK Level 3 when applying for Chinese-taught senior scholar programs;\n- have acquired the Chinese proficiency of HSK Level 4 when applying for Chinese-taught master\u2019s or doctoral programs;\n- applicants who have obtained the degree from Chinese university using Chinese as teaching language do not need to provide relevant language proficiency certificates\uff1b\n- meet the admission requirements of the applied universities in terms of academic ability, language proficiency and other relevant criterial.",
     "scope": "International"
@@ -174,7 +174,7 @@
     "title": "Young Leaders Program 2026 in Canada",
     "description": "This is a prestigious, fully-funded one-year initiative by the Asia Pacific Foundation of Canada. It aims to deepen connections between Canada and the Indo-Pacific through virtual seminars, networking, and a one-week in-person learning tour in Canada. ",
     "link": "https:\/\/scholarshipunion.com\/young-leaders-program-2026-in-canada\/",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "May 2026 or June 2026",
     "requirements": "Hold citizenship or permanent residency in an Indo-Pacific country\/jurisdiction.\nEducation: An undergraduate degree (minimum) in a relevant field (e.g., Political Science, Public Policy, International Relations, Law, Economics, Sociology, History, Geography, Asian Studies, etc.).\nCurrent graduate students are also eligible.\nExperience: At least 5 years of relevant experience in one of the following sectors:\nGovernment\nInternational or regional organizations\nThink-tanks\nMedia outlets\nBusiness\nAcademia\nStrong understanding, experience, and interest in:\nPolitics\nEconomics\nSociety\nDiplomacy\nInternational Relations\nSecurity\nHistory\nEnvironmental Issues\nThe program is especially interested in early- to mid-career professionals.",
     "scope": "International"
@@ -184,7 +184,7 @@
     "title": "China University of Petroleum CSC Scholarship 2026",
     "description": "This is now open for international applicants who aspire to pursue Undergraduate, Master\u2019s, or PhD programs in China. This fully funded scholarship provides opportunities for students to gain world-class education and advanced research experience at one of China\u2019s top universities. ",
     "link": "https:\/\/scholarshipunion.com\/china-university-of-petroleum-csc-scholarship-2026-in-china\/",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 1 March 2026",
     "requirements": "Applicants who are under 25 years old and have completed high school.\nMaster\u2019s candidates: those under 35 with a bachelor\u2019s degree.\nDoctoral candidates: Those under 40 with a master\u2019s degree.\nLanguage prerequisites:\nDepending on the program level, Chinese-taught programs require HSK 4 or 5.\nIELTS 6.5, TOEFL 80, or documentation of English-medium training are prerequisites for English-taught programs.\nOnly residents of the Belt and Road nations are eligible for the Silk Road Program.\nThe particular prerequisites of each program must be fulfilled at the time of application.",
     "scope": "International"
@@ -194,7 +194,7 @@
     "title": "Beijing Normal University CSC Scholarship 2026 in China",
     "description": "This scholarship is an exceptional opportunity for international students aiming to pursue graduate studies in China. This fully funded scholarship is designed to support outstanding students by covering tuition fees, living expenses, travel costs, and comprehensive health insurance.",
     "link": "https:\/\/admission-is.bnu.edu.cn\/english\/international\/index.html",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 31 March, 2026",
     "requirements": "Not be receiving any other scholarships established by the Chinese government or social organizations.\nMeet the degree and age requirements:\nUndergraduate programs: must be a high school graduate and under 25 years old at the time of application.\nMaster\u2019s programs: must hold a bachelor\u2019s degree and be under 35 years old.\nDoctoral programs: must hold a master\u2019s degree and be under 40 years old.",
     "scope": "International"
@@ -204,7 +204,7 @@
     "title": "Wuhan University CSC Scholarships 2026",
     "description": "This is now open for international students who wish to pursue fully funded higher education in China. This prestigious scholarship allows students from all over the world to study at Wuhan University without tuition fees. ",
     "link": "https:\/\/admission.whu.edu.cn\/info\/1251\/5452.htm",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 25 February, 2026",
     "requirements": "Foreign citizenship, and in good health.\nApplicants who apply for a Master\u2019s degree should be under 35 years old and have a Bachelor\u2019s degree.\nApplicants who apply for a doctoral degree should be under 40 years old and have a Master\u2019s degree.\nApplicants of Chinese-medium programs should have at least HSK level four certificate (Chinese Proficiency Test)\nApplicants of English-medium programs should provide a score report of English Language test, TOEFL requires 80, IELTS requires 5.5 (You can apply without IELTS\/TOEFL if you can take English Proficiency Certificate from your last attending Institution).",
     "scope": "International"
@@ -214,7 +214,7 @@
     "title": "Sichuan University Chinese Government Scholarship 2026",
     "description": "This is for international students who want to pursue higher education. This fully funded program, offered under the CGS Type B \u2013 Chinese University Program, covers tuition fees, on-campus accommodation, a monthly living allowance, and comprehensive medical insurance for selected candidates.",
     "link": "https:\/\/global.scu.edu.cn\/oso\/article\/details\/ffb69423-aba9-4731-a263-b37f66604a29",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 26 February 2026",
     "requirements": "Must be a citizen of a country other than the People\u2019s Republic of China.\nAge limits:\nMaster\u2019s applicants: under 35 years old\nPhD applicants: under 40 years old\nAcademic qualifications:\nMaster\u2019s: Bachelor\u2019s degree\nPhD: Master\u2019s degree\nHealth: \nGood physical and mental health (Foreigner Physical Examination Form required)\nLanguage proficiency:\nChinese-taught programs: HSK Level\u202f4 (Science, Engineering, Medicine, Agriculture) or HSK Level\u202f5 (Liberal Arts, Management, Law, Arts)\nEnglish-taught programs: TOEFL iBT \u226580 or IELTS \u22656 (non-native English speakers)\nMust meet SCU departmental and university admission requirements.",
     "scope": "International"
@@ -224,7 +224,7 @@
     "title": "Youth of Excellence Scheme Scholarship 2026",
     "description": "The Youth of Excellence Scheme Scholarship 2026 is a prestigious initiative by the Chinese Government, designed to attract talented international students eager to pursue advanced studies in China.",
     "link": "https:\/\/fm.china-embassy.gov.cn\/eng\/zmgx\/202412\/t20241224_11517035.htm",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 31 March, 2026",
     "requirements": "Be a citizen of a country other than the People\u2019s Republic of China and be under the age of 45, in good health both mentally and physically.\nHave a bachelor\u2019s degree or higher, with at least three years of work experience. Applicants with professional training or work experience related to the proposed program will be given preference.\nFall into one of the following four categories:\nA government official at the division chief level (or equivalent) or above\nA senior manager of an institution or enterprise\nAn administrator of a university or scientific research institution\nAn individual with relevant employment or internship experience in international organizations.\nEnsure that the pre-admission letter provided by the university includes all necessary registration details\u2014such as personal information, admission date, and major information\u2014and does not contain any mention of having received or being promised a Chinese Government Scholarship.",
     "scope": "International"
@@ -234,7 +234,7 @@
     "title": "OIST Research Internship 2026",
     "description": "The OIST Research Internship 2026 is a prestigious, fully funded 3\u20136 month program in Japan at the Okinawa Institute of Science and Technology, designed for STEM undergraduate\/master's students and recent graduates.",
     "link": "https:\/\/www.oist.jp\/admissions\/research-internship\/apply-research-internship",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "Deadline: 15 April, 2026",
     "requirements": "Those who are currently enrolled in their last two years of a bachelor's degree, enrolled in any year of a master's degree in universities, colleges, junior colleges, and vocational schools in Japan or overseas, or those who have graduated with a bachelor's or master's degree, are eligible to apply for the Research Internship at OIST.\n\nCurrently enrolled students must have approval from their home institution. The academic background of applicants should be appropriate to their desired host unit(s) at OIST.\n\nOur Research Internship is intended for those who need more research experience and who are interested in joining OIST's PhD Program later. Current or graduated PhD students who wish to collaborate with OIST should look for other opportunities such as Workshops or Careers at OIST.\n\nResearch Interns who belong to a Japanese university\/institution are required to prepare and bring their own insurances when accepted to the OIST Research Internship Program. Acceptable insurances are the combination of Gakkensai and Gakkenbai, or other insurances with similar coverage.",
     "scope": "International"
@@ -244,7 +244,7 @@
     "title": "UNICEF Internship Programme",
     "description": "The UNICEF Internship Programme offers undergraduate, graduate, and recent graduates (within two years) hands-on, paid, 6\u201326 week opportunities to work in UNICEF offices globally",
     "link": "https:\/\/www.unicef.org\/careers\/internships",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "Deadline: All-Year Round",
     "requirements": "\u2022 At least 18 years old.\n\u2022 Enrolled in an undergraduate, graduate or PhD programme, or have graduated within the past two years.\n\u2022 Proficient in at least one of UNICEF's working languages: English, French or Spanish. Fluency in the working language of the office you are applying to, may also be required.\n\u2022 Have no immediate relatives (e.g., mother, father, sister, brother) working with UNICEF, or any other relatives in your reporting line of authority.\n\u2022 Have strong academic performance and motivation\n\u2022 Additional consideration will be given to any professional experience relevant to the function you\u2019re applying for.",
     "scope": "International"
@@ -254,27 +254,27 @@
     "title": "Google Student Researcher, 2026 Program",
     "description": "The Google Student Researcher, 2026 program is a paid,, flexible, research-focused opportunity for Bachelor's, Master's, and PhD students to collaborate with teams like Google DeepMind and Google Research",
     "link": "https:\/\/www.google.com\/about\/careers\/applications\/jobs\/results\/100753339674698438-student-researcher-2026?distance=50&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=TEMPORARY&employment_type=PART_TIME&employment_type=INTERN&company=GFiber&company=Verily%20Life%20Sciences&company=Wing&company=Waymo&company=DeepMind&company=Fitbit&company=Google&company=YouTube",
-    "type": "Internship\/Apprenticeship",
+    "type": ["Internship"],
     "deadline": "Deadline: 31 March, 2026",
     "requirements": "Minimum qualifications:\nCurrently enrolled in Bachelor's, Master's, or PhD degree program in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences.\nExperience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas).\n\nPreferred qualifications:\nCurrently enrolled in a full-time degree program and returning to the program after completion of the internship.\nExperience contributing research communities or efforts, including publishing papers in major conferences or journals.\nExperience with one or more general purpose programming languages (e.g., Python, Java, JavaScript, C\/C++, etc.).",
-    "scope": "Bengaluru, Karnataka, India"
+    "scope": "India"
   },
   {
     "index": 26,
     "title": "Digital Business Apprenticeship (October 2026 Start)",
     "description": "The Digital Business Apprenticeship (October 2026 Start) at Google is a 15-to-24-month paid program in London (UK) designed for early-career professionals. It combines on-the-job training in Sales, Marketing, or Partnerships with academic study",
     "link": "https:\/\/www.google.com\/about\/careers\/applications\/jobs\/results\/126782139373888198-digital-business-apprenticeship-october-2026-start?distance=50&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=TEMPORARY&employment_type=PART_TIME&employment_type=INTERN&company=GFiber&company=Verily%20Life%20Sciences&company=Wing&company=Waymo&company=DeepMind&company=Fitbit&company=Google&company=YouTube",
-    "type": "Apprenticeship",
+    "type": ["Apprenticeship"],
     "deadline": "Deadline: Before 10 March, 2026",
     "requirements": "Minimum qualifications:\nA pass at Level 2 for Maths and English.\nAbility to communicate in English fluently to communicate with colleagues.\n\nPreferred qualifications:\nAbility to work independently and within a team framework.\nWillingness to navigate ambiguous tasks, find suitable solutions and seek help\/advice where appropriate.\nAnalytical mindset and comfortable with working with data to deliver insights and support outstanding creative execution\nEnthusiasm and passion for measurement and new technologies, demonstrated through personal projects and interest in learning new skills.\nEffective communication and organizational skills, proactive, self-motivated, positive attitude, and excellent customer service capabilities.\nStrong project management skills.",
-    "scope": "London, UK"
+    "scope": "United Kingdoms"
   },
   {
     "index": 27,
     "title": "MIT Lincoln Laboratory Summer Research Program",
     "description": "The MIT Lincoln Laboratory Summer Research Program is a competitive, paid, 10-12 week internship (mid-May to mid-August) for undergraduate and graduate students, offering hands-on R&D in national security, engineering, and science, typically at their Lexington, MA site. ",
     "link": "https:\/\/www.ll.mit.edu\/careers\/student-opportunities\/summer-research-program",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "Deadline: 11 March, 2026",
     "requirements": "To be eligible for the Summer Research Program, students must have at least completed their sophomore year of college or be enrolled in a master's or doctoral program.  In addition, students must have maintained an excellent academic record and be a U.S. citizen.",
     "scope": "US"
@@ -284,7 +284,7 @@
     "title": "OECD Internship Programme ",
     "description": "The OECD Internship Programme offers motivated students from diverse backgrounds a chance to support evidence-based policy work at the Organisation for Economic Co-operation and Development",
     "link": "https:\/\/www.oecd.org\/en\/about\/careers\/internships.html",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "Deadline: 28 February, 2026",
     "requirements": "Are enrolled in a full-time degree programme* for the duration of the internship in a field or discipline related to the work of the OECD\nAre available for a minimum internship duration of one month\nHave an excellent command of one of the two official languages of the OECD (English and French) and a working knowledge of, or willingness to learn, the other. Knowledge of other languages could be an advantage\nHave good quantitative and IT skills\nHave good drafting and communication skills\nThrive in a multicultural and international team environment.",
     "scope": "International"
@@ -294,7 +294,7 @@
     "title": "International Economics Olympiad",
     "description": "The International Economics Olympiad (IEO) is an annual global competition for high school students designed to foster creative problem-solving in economics, business, and finance. Founded in 2018, it aims to identify and encourage young talent in these fields.",
     "link": "https:\/\/2026.ieo-official.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline For Official Team Applications: 30 April, 2026",
     "requirements": "Age Limit: Contestants must have been born after June 30, 2006 (meaning they must be under 20 years old on June 30, 2026).\nEducational Status: As of December 1, 2025, students must have been working toward receiving a high school (secondary school) diploma or an equivalent degree.\nAcademic Level: The competition is designed for students at ISCED Level 3 (typically senior high school). Students who have already started tertiary-level (university) studies are ineligible.\nResidency\/Citizenship: Contestants must be citizens or residents of the country they represent. International students attending school in a participating country on a student visa or residency permit are also eligible to join that country's team.",
     "scope": "International"
@@ -304,7 +304,7 @@
     "title": "International Young Physicists' Tournament",
     "description": "This is a prestigious annual team-based scientific competition for secondary school students. Teams research 17 open-ended, complex physics problems over several months, presenting and defending their solutions against opponents in structured \"Physics Fights\" evaluated by international experts. ",
     "link": "https:\/\/www.iypt.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 28 February, 2026",
     "requirements": "Student Status: Participants must be secondary school students or have graduated in the same calendar year as the tournament.\nTeam Size: Teams consist of 3 to 5 students.\nCitizenship\/Residence: Members must be citizens of the country they represent or be enrolled in a school in that country.\nTeam Leader: Each team must have a team leader (often a teacher or mentor).\nApplication Process: Teams usually qualify through national tournaments (e.g., CaYPT in Canada, USAYPT in the USA).\nLanguage: The competition is held in English.\nExperience: Teams generally cannot change their composition during the tournament. ",
     "scope": "International"
@@ -314,7 +314,7 @@
     "title": "International Greenwich Olympiad",
     "description": "This is a prestigious global project-based competition for students aged 10\u201319, hosted by North London Grammar School in London. It challenges young minds to innovate solutions for global issues, particularly in sustainability, engineering, and science, aligned with UN SDGs.",
     "link": "https:\/\/igolondon.co.uk\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 1 March, 2026",
     "requirements": "Secondary school students who are aged between 13 and 18 years old. Students are welcome to participate as individuals or in team of maximum three, not necessarily from the same school.",
     "scope": "International"
@@ -324,7 +324,7 @@
     "title": "World Maths Day 2026",
     "description": "This is a global, 24-hour online competition occurring on March 25, 2026, where students aged 4-18 compete in live, 60-second math games. It challenges learners to solve mental arithmetic problems against others worldwide. The 2026 theme is \"United by Numbers\". ",
     "link": "https:\/\/www.3plearning.com\/world-maths-day\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 25 March, 2026",
     "requirements": "Open to students aged 5 to 18.",
     "scope": "International"
@@ -334,7 +334,7 @@
     "title": "World Scholar's Cup",
     "description": "The World Scholar's Cup (WSC) is a premier international academic program and competition for students, bringing together over 50,000 participants from 60+ countries annually.",
     "link": "https:\/\/www.scholarscup.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadlines are approaching quickly, with some, such as the one mentioned for early 2026, closing on March 1, 2026.",
     "requirements": "Divisions:\nSkittles (Junior): Ages 8\u201312.\nJunior Division: Typically ages 11\u201313 (born on or after Jan 1, 2012, for 2026).\nSenior Division: Ages 14+ (born before Jan 1, 2012, for 2026).\nAcademic Level: Students up to their final year of pre-university schooling (high school, A-levels, IB).\nTeam Structure: Teams of 3 (preferred) or 2 members.\nIndependent Participants: Students can register independently or as part of a school team.\nLanguage: Competitions are conducted in English. ",
     "scope": "International"
@@ -344,7 +344,7 @@
     "title": "Science Without Borders Art Challenge",
     "description": "The Science Without Borders\u00ae Challenge is an annual international art contest run by the Khaled bin Sultan Living Oceans Foundation that engages students aged 11\u201319 in marine science and ocean conservation.",
     "link": "https:\/\/www.livingoceansfoundation.org\/science-without-borders-challenge\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 2 March, 2026",
     "requirements": "All students ages 11-19 who are enrolled in primary or secondary school, or the home school equivalent anywhere in the world may enter the Science Without Borders\u00ae Challenge. Students age 10 may participate as long as they turn 11 by March 2, 2026. College and university students are not eligible for this contest. Proof of age, identity, and\/or eligibility may be required.\nAll artwork must be an original work by the contestant and shall not infringe on any copyrights or any other rights of any third parties. Do not copy an idea from a past participants\u2019 work. Do not draw a character from a cartoon or movie. See the tips for success and grading rubric for more information on what the judges are (and are not) looking for.\nDo not submit artwork to the Science Without Borders\u00ae Challenge that you have entered into another art competition or a previous Science Without Borders\u00ae Challenge.",
     "scope": "International"
@@ -354,7 +354,7 @@
     "title": "Nami Island International Picture Book Illustration Concours",
     "description": "The Nami Island International Picture Book Illustration Concours (Nami Concours) is a major biennial international competition held in South Korea since 2013, aimed at encouraging creativity and enhancing the quality of children's book illustrations.",
     "link": "https:\/\/graphiccompetitions.com\/illustration\/nami-concours-2026",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: Expected Autumn 2026",
     "requirements": null,
     "scope": "International"
@@ -364,7 +364,7 @@
     "title": "Earth Partner Prize",
     "description": "The Earth Partner Prize (formerly #CreateCOP) is an annual international art competition for creatives aged 14\u201330, designed to accelerate climate action through culture",
     "link": "https:\/\/earthpartner.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 28 February, 2026",
     "requirements": "Artists, creatives, and photographers aged 14\u201330.",
     "scope": "International"
@@ -374,7 +374,7 @@
     "title": "International Thespian Festival ",
     "description": "The International Thespian Festival (ITF) is a premier annual, week-long event for student members of the Educational Theatre Association (EdTA), celebrating middle and high school theater through performances, workshops, and college auditions.",
     "link": "https:\/\/itf.schooltheatre.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: Standard Registration: 4 February, 2026-30 April, 2026 and Late Registration: 1 May, 2026-13 May, 2026",
     "requirements": "Participants: Students in grades 6-12.\nAdult Leaders\/Chaperones: Must be at least 21 years old.\nChaperone Requirement: All students must be chaperoned for the entire week, with gender-specific supervision (female students with a female chaperone, male students with a male chaperone) recommended.\nRegistration Process: Opens in early February (e.g., Feb 4, 2026), with options for individual or troupe registration.\nSafety: Background checks are required for all attendees aged 18+.\nCollege Auditions (Optional): Limited to inducted Thespians graduating in 2027 (rising seniors).\nNon-Affiliated Students: Students not in an active troupe may attend but must still be accompanied by an registered adult chaperone. ",
     "scope": "National"
@@ -384,7 +384,7 @@
     "title": "Golden Classical Music Awards",
     "description": "The Golden Classical Music Awards (GCMA) is an international competition designed to discover young musicians across strings, piano, wind, and vocal disciplines and launch their careers with opportunities like a performance at Carnegie Hall's Weill Recital Hall in New York.",
     "link": "https:\/\/www.goldenclassicalmusicawards.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 22 June, 2026",
     "requirements": "Disciplines: Piano, Strings (Violin, Viola, Cello, Double Bass, Guitar), Woodwinds (Flute, Oboe, Clarinet, Bassoon, Saxophone, Recorder), Brass (French Horn, Trumpet, Trombone, Tuba), and Vocal (Female\/Male).\nEnsembles: Piano duo, piano four-hands, and mixed chamber ensembles.\nAge Categories: Open to all ages, generally divided into groups such as Young Musician (under 12), Junior (13-18), and Senior (18+).\nRepertoire: One, two, or three pieces from Baroque, Classical, Romantic, or Contemporary periods.\nSubmission Material: Video or audio recordings must be submitted; they should represent the contestant's abilities but do not need professional-quality production.\nApplication: A completed online application form and payment of the non-refundable fee are required. ",
     "scope": "International"
@@ -394,7 +394,7 @@
     "title": "All American High School Film Festival",
     "description": "It's the world's largest, premier film festival for high school students. It provides a major platform for young filmmakers to screen their work, network with industry professionals, attend workshops, and win over $3.5 million in scholarships and prizes. ",
     "link": "https:\/\/www.hsfilmfest.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Free Submission Deadline: 2 March, 2026, Regular Submission Deadline: 27 April, 2026, Late Submission Deadline: 25 May, 2026, Final Deadline: 3 July, 2026",
     "requirements": "Target Demographic: Current high school students or those who graduated in the same year as the festival.\nOriginality: Films must be created by the student(s).\nTechnical Specs: Minimum 1080p resolution, submitted in .mp4 or .mov format.\nContent Restrictions: No copyrighted music\/images (must use licensed or original).\nRuntime: Varies by category, generally up to 40 minutes for shorts, 90 minutes for features.\nSubmission Platform: Typically through FilmFreeway.\nDeadlines: Early bird (typically March), Regular (July), and Late (August).\nAwards: Attendance is not required to win, but encouraged. ",
     "scope": "International"
@@ -404,7 +404,7 @@
     "title": "International Biology Olympiad (IBO)",
     "description": "It's the premier annual worldwide biology competition for top-performing pre-university students. It challenges gifted students through rigorous theoretical and practical exams, fostering talent in life sciences, promoting scientific careers, and facilitating international networking among young biologists from over 75 countries. ",
     "link": "https:\/\/www.ibo-info.org\/en\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 25 May, 2026",
     "requirements": "National Selection: You must win your country's official National Biology Olympiad (NBO). The IBO does not allow independent, direct registration.\nAge Limit: Candidates must be under 20 years old as of July 1 of the competition year.\nEducation Level: You must be a student in a regular secondary school (general education) and not have started full-time university\/college studies.\nParticipation Limit: A student may participate in the IBO a maximum of two times.\nCitizenship\/Residence: You must represent your country of citizenship or long-term residence.\nTraining Restriction: Participants cannot have received specific IBO training in a group of 50 or fewer students for more than two weeks. ",
     "scope": "International"
@@ -414,7 +414,7 @@
     "title": "International Chemistry Olympiad (IChO)",
     "description": "The International Chemistry Olympiad (IChO) is a premier annual academic competition for secondary school students, bringing together the world's most talented young minds in chemistry.",
     "link": "https:\/\/www.icho2026.uz\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "General Deadline: 28 February, 2026",
     "requirements": "Age: Under 20 years old on July 1 of the competition year.\nEducation: Secondary school students or recent graduates not yet in university.\nSelection: Must be chosen through their country\u2019s National Chemistry Olympiad.\nNationality: Participants must be citizens or passport holders of the country they represent.\nTeam Size: Each country sends a team of up to 4 students.\nPrevious Winners: Gold medal winners from previous IChO competitions are generally not eligible to compete again. ",
     "scope": "International"
@@ -424,7 +424,7 @@
     "title": "MUN Paris 2026",
     "description": "A major MUN conference held in Paris, France, from March 24\u201326, 2026, as part of the MUN EUROPE network---inviting high schools and universities to debate global issues, develop diplomatic skills, and simulate UN procedures in English or French. ",
     "link": "https:\/\/www.mun-france.fr\/en\/mun-paris-france\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 10 March, 2026",
     "requirements": "Target Audience: Students from high schools and colleges\/universities.\nExperience Level: Open to both beginners and experienced delegates.\nRequirements:\nSubmission of a position paper (deadline typically around Oct 2025 for a spring 2026 event).\nVisa for travel (if applicable).\nLanguage: The simulation is conducted in English.\nLocation: Paris, France (venue often at hotels like H\u00f4tel Mercure Paris Centre Tour Eiffel). ",
     "scope": "International"
@@ -434,7 +434,7 @@
     "title": "WIMUN Singapore 2026",
     "description": "WIMUN Singapore 2026 is the Southeast Asian edition of the WFUNA International Model United Nations (WIMUN) conference, widely recognized as the world's most accurate simulation of the United Nations",
     "link": "https:\/\/wfuna.org\/program\/wimun-singapore-2026\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Early Registration: February 28, 2026\nPriority Registration: May 31, 2026\nRegular Registration: June 30, 2026 ",
     "requirements": "Target Audience: Students (High School, University, Grad School) and young professionals aged 14\u201330.\nExperience Level: Open to beginners and experienced MUN participants, though familiarity with the WIMUN Approach is helpful.\nGeography: Open to participants from North America, Europe, Asia, South America, Africa, and Oceania.\nRequirements: High school students must have a chaperone. Individuals or groups can register.\nRegistration Deadline: Early bird deadline is Feb 28, 2026, and priority deadline is May 31, 2026.\nVenue: Suntec Convention Centre, Singapore.\nCost: Delegate fees are $289, with no scholarships offered by WFUNA. ",
     "scope": "International"
@@ -444,7 +444,7 @@
     "title": "John Peters Humphrey MUN 2026",
     "description": "It's a 3-day, in-person educational conference for high school students, held at St. Thomas University in Fredericton, NB from May 1\u20133, 2026. It simulates UN proceedings to teach diplomacy, research, and public speaking. ",
     "link": "https:\/\/jphmun.wordpress.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Early Bird Deadline: February 24, 2026.\nFinal Registration Deadline: March 24, 2026",
     "requirements": "Generally open to high school and university students interested in debating international affairs.",
     "scope": "International"
@@ -454,7 +454,7 @@
     "title": "Regeneron International Science and Engineering Fair",
     "description": "The Regeneron International Science and Engineering Fair (ISEF) is the world's largest pre-college STEM competition, held annually in the U.S. and managed by the Society for Science.",
     "link": "https:\/\/www.societyforscience.org\/isef\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Mid-February 2026: Registration opens for all approved affiliated fairs.\nBy February 9, 2026: Official Party Registration becomes available online.\nWithin 12 Days of Fair: Finalist Questionnaire and Official Party Registration must be submitted after your local\/regional fair.\nApril 13, 2026: Last day to hold an affiliated fair.\nApril 30, 2026: Deadline for registration fee checks\/transfers to be postmarked. ",
     "requirements": "Grade Level: Students must be in grades 9\u201312 or equivalent.\nAge: Students must not have reached age 20 on or before May 1st of the competition year.\nQualification: Students must compete in and win the right to attend from a Society for Science-affiliated fair.\nProject Scope: Projects can be individual or team-based (maximum 3 members).\nResearch Duration: Projects can include a maximum of 12 months of continuous research, and must not include research performed more than 18 months before the competition.\nCategories: The project must fit into one of the 22 ISEF categories. ",
     "scope": "International"
@@ -464,7 +464,7 @@
     "title": "Breakthrough Junior Challenge",
     "description": "The Breakthrough Junior Challenge is a global, annual science video competition for students aged 13\u201318 to explain complex concepts in life sciences, physics, or math via a < 2-minute video",
     "link": "\nhttps:\/\/breakthroughjuniorchallenge.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Typically April, 2026-15 September, 2026",
     "requirements": "Age: Must be at least 13 years old by May 1, 2025, and not older than 18 (not yet 19) on October 1, 2025.\nLocation: Open globally, provided the applicant does not reside in a country subject to U.S. sanctions.\nLanguage: Submissions must be in English.",
     "scope": "International"
@@ -474,7 +474,7 @@
     "title": "Adobe Certified Professional World Championship",
     "description": "Certiport's Adobe Certified Professional World Championship, formerly known as Adobe Certified Associate (ACA) World Championship, is a global competition that tests students' design skills using Adobe Photoshop, Illustrator, and InDesign",
     "link": "https:\/\/acpchampionship.certiport.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 1 May, 2026",
     "requirements": "Student Status: Must be enrolled in an accredited academic institution.\nAge: 13 to 22 years old as of December 31, 2026.\nCertification: Must earn an Adobe Certified Professional certification in Adobe Photoshop, Illustrator, or InDesign.\nProject Submission: Must submit an original design project for the qualifying rounds.\nRestrictions: Employees of Adobe, Certiport, and their affiliates are ineligible.\nPrior Winners: Previous top 3 winners of the World Championship are generally not eligible. ",
     "scope": "International"
@@ -484,7 +484,7 @@
     "title": "Tel-Aviv International Student Film Festival",
     "description": "It's the world's largest and most prestigious student film festival, founded in 1986 by Tel Aviv University students. Held annually in June at the Tel Aviv Cinematheque, it showcases over 150 short films from 50+ countries.",
     "link": "https:\/\/www.taufilmfest.com\/586-2\/?lang=en",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Final Deadline: 23 February, 2026",
     "requirements": "Applicant Status: Films must be made within school programs, universities, or professional institutes.\nProduction Date: Completed during 2025-2026.\nLength: Up to 30 minutes.\nSubmission Limit: Each school may submit up to 3 films.\nSubtitles: English subtitles are required for all films, including English-speaking ones.\nPremiere Status: No premiere status required.\nFormat: Screeners must be enabled for download.\nExperimental\/Video Art: Students or graduates (within 5 years) can submit to this category. ",
     "scope": "International"
@@ -494,7 +494,7 @@
     "title": "ImagiNation Student Film Festival",
     "description": "The ImagiNation International Student Film Festival (INISFF) is a global platform designed to nurture, showcase, and celebrate the creativity, storytelling, and filmmaking skills of young filmmakers.",
     "link": "https:\/\/inisff.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Extended Deadline: March 23, 2026\nNotification Date: April 10, 2026",
     "requirements": "Target Audience: Students and first-time filmmakers aged 11\u201318 (specifically mentioned in Instagram post), extending up to university (UG & PG) levels.",
     "scope": "International"
@@ -504,7 +504,7 @@
     "title": "International Genetically Engineered Machine Competition (iGEM)",
     "description": "The International Genetically Engineered Machine (iGEM) Competition is the world's premier synthetic biology competition, where multidisciplinary student teams (undergraduate, high school, and graduate) design and build biological systems using standardized, open-source genetic parts",
     "link": "https:\/\/competition.igem.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Regular Registration Deadline: April 2, 2026 (15:00 UTC)\nLate Registration Deadline: June 4, 2026 (15:00 UTC) ",
     "requirements": "Team Composition: Teams are generally formed within universities (Collegiate), high schools, or community labs.\nAge Requirement: All team members must be at least 13 years old as of March 31, 2026.\nSupervision: Each team must have a Primary PI who is a faculty member, teacher, or director of a community lab.\nProject Focus: Projects must involve synthetic biology and adhere to safety guidelines.\nDocumentation: Teams must document their work on a team wiki and submit safety forms.\nCommunity Labs: Teams from community labs must demonstrate access to a Biosafety Level 1 (BSL-1) lab, have a safety training program, and be an incorporated entity. ",
     "scope": "International"
@@ -514,7 +514,7 @@
     "title": "Queen's Commonwealth Writing Competition",
     "description": "Queen's Commonwealth Writing Competition stands as the oldest international competition aimed at individuals aged 18 years and under managed by the Royal Commonwealth society to build writing skills, address global issues in a creative manner, and to empower young voices.",
     "link": "https:\/\/www.royalcwsociety.org\/writing-competition",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "4 March, 2026-Mid To Late May 2026",
     "requirements": null,
     "scope": "International"
@@ -524,7 +524,7 @@
     "title": "Volunteer as a Judge for The Queen\u2019s Commonwealth Writing Competition",
     "description": "Queen's Commonwealth Writing Competition is looking for volunteer judges to rate thousands of students' essays internationally. Its goal is to engage individuals as much as they can into the competition as a way to champion the voices of the young competitors.",
     "link": "https:\/\/www.royalcwsociety.org\/post\/volunteer-as-a-judge-for-the-queens-commonwealth-writing-competition-2026",
-    "type": "Open Recruitment",
+    "type": ["Open Recruitment"],
     "deadline": "7 February, 2026-Mid To Late May, 2026",
     "requirements": "- Be over 19 years old, - Have an interest in writing and\/or literature\/ the Commonwealth and\/or international affairs, - Be available between May 2026 and June 2026 in order to read and judge approximately 100-150 entries up to 1000 words each, - have reliable access to an internet connection during this period as the judging process is electronic.\u202fWe also encourage that judges have access to a computer or laptop rather than phone to ensure full access to the judging platform.  ",
     "scope": "International"
@@ -534,7 +534,7 @@
     "title": "Young Leaders And Changemakers Summer Camp",
     "description": "A 5-day action-packed summary camp that provides interactive workshops, group projects and live learning journeys ranging from policy-making to problem-solving, and work alongside peers from across the globe. It takes place in Lee Kuan Yew School of Public Policy, NUS, Singapore.",
     "link": "https:\/\/lkyspp.nus.edu.sg\/executive-education\/programmes\/young-leaders-and-changemakers-summer-camp\/",
-    "type": "Summer Programme",
+    "type": ["Summer Programme"],
     "deadline": "Deadline: 1 June, 2026",
     "requirements": "Cost: SGD 3,625 (regular); SGD 2,900 (early-bird discount), Aged 16+, Post-secondary, high-school or tertiary-level students, Aspiring youth leaders and changemakers\ninterested in public policy, governance, or social\ninnovation.",
     "scope": "International"
@@ -544,7 +544,7 @@
     "title": "QS ImpACT Skills Challenge 2026",
     "description": "A global competition where teams design digital games that address real world problems tied to the UN SDG challenges. You can participate even if you\u2019re new to coding.",
     "link": "https:\/\/qsimpact.org\/skills-challenge-2026\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 10 March, 2026",
     "requirements": "Participants aged 18-35, team sizes 2-5",
     "scope": "International"
@@ -554,7 +554,7 @@
     "title": "World IP Day Youth Video Competition 2026",
     "description": "Organised by the World Intellectual Property Organization (WIPO), this competition invites young creators (18\u201335) to produce a 60\u201390 second video about how intellectual property (IP) supports innovation and creativity in sports",
     "link": "https:\/\/www.wipo.int\/en\/web\/ipday\/2026\/video-competition",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 15 March, 2026",
     "requirements": "Participants aged 18-35, Participants can join individual or up to teams of 10",
     "scope": "International"
@@ -564,17 +564,17 @@
     "title": "The Mott Million Dollar Challenge",
     "description": "A national 30-90 second pitch competition for K-12 students in the United States. Funded by the Charles Stewart Mott Foundation to celebrate its centennial, the challenge invites young innovators to share ideas that improve their schools, homes, or communities.",
     "link": "https:\/\/mottmillion.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 27 February, 2026",
     "requirements": "- You must live in the United States (50 States and Washington D.C.).\n- You can go to public school, private school, charter school, homeschool, online school, or attend an out-of-school program.\n- The children or wards of employees of the Mott Foundation, the Network for Teaching Entrepreneurship (NFTE), and other affiliates are not eligible to win this competition. \n- You can make a team of up to three (3) students.  All team members must be in the same grade-level group (K-4, 5-8, 9-12).",
-    "scope": "National  "
+    "scope": "National"
   },
   {
     "index": 6,
     "title": "International Astronomy and Astrophysics Competition (IAAC) 2026",
     "description": "An online science competition lets students explore astronomy, astrophysics, and maths through multiple rounds of problem solving. Participants get certificates and awards based on performance, and it\u2019s open to high school and college students worldwide.",
     "link": "https:\/\/iaac.space\/en\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 26 May 2026",
     "requirements": "Junior: 10th Grade and below (and < 16 years of age)\nYouth: 11th to 13th Grade (and < 19 years of age)\nSenior: 1st Year College\/University and higher (or \u2265 19 years of age)",
     "scope": "International"
@@ -584,7 +584,7 @@
     "title": "Global Futures Challenge Competition (Immerse Education)",
     "description": "A creative competition for students aged 14\u201318 where you submit a brief response (written, visual, or video) about your vision for the future and how your skills and goals could contribute to it. ",
     "link": "https:\/\/www.immerse.education\/global-futures-challenge-competition\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "2 June 2026-31 July, 2026",
     "requirements": "Age: You must be between 14 and 18 years old.\nNationality: The competition is open to students from any country and all school types.\nParticipation Type: You can enter individually or as part of a team of up to 4 members. ",
     "scope": "International"
@@ -594,7 +594,7 @@
     "title": "Bow Seat Ocean Awareness Contest 2026",
     "description": "The Bow Seat Ocean Awareness Contest is a premier annual competition for students aged 11\u201318 worldwide, designed to leverage art and creativity for ocean conservation. It encourages young people to explore, through various media, the human-driven impacts on the ocean, promoting environmental advocacy and activism. ",
     "link": "https:\/\/bowseat.org\/programs\/ocean-awareness-contest\/contest-overview\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 8 June 2026",
     "requirements": "Age: Must be between 11-18, Entries may be submitted by an individual or group of unlimited size",
     "scope": "International"
@@ -604,7 +604,7 @@
     "title": "American Prot\u00e9g\u00e9 International Music Talent Competition 2026",
     "description": "The\u00a0American Prot\u00e9g\u00e9 International Music Talent Competition\u00a0is\u00a0a worldwide competition for musicians of all ages and nationalities, focusing on genres like piano, strings, voice, and winds. It is designed to boost careers by offering winners a performance opportunity at the\u00a0Weill Recital Hall at Carnegie Hall.\u00a0",
     "link": "https:\/\/americanprotege.com\/talent\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 31 April, 2026",
     "requirements": "Applicants must submit an online application, a biography (max 150 words), a portrait photo, and pay an application fee. ",
     "scope": "International"
@@ -614,7 +614,7 @@
     "title": "Open Letters: The New York Times Opinion-Writing Contest ",
     "description": "The New York Times Open Letter Contest is an annual opinion-writing competition for students (typically aged 13-19) to write a 500-word persuasive letter of protest or appeal to a specific, influential person or group. ",
     "link": "https:\/\/www.nytimes.com\/2026\/01\/22\/learning\/open-letters-our-opinion-writing-contest.html",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "25 Feb, 2026-8 April, 2026",
     "requirements": "\u2022 Your piece must be, in total, 500 words or fewer, not including the title.\n\u2022 You must be a student ages 13 to 19 in middle school or high school to participate. \n\u2022 You may work alone or in groups, but students should submit only one entry each.",
     "scope": "International"
@@ -624,7 +624,7 @@
     "title": "My List: A Different Kind of Review Contest",
     "description": "The New York Times \"My List\" Review Contest is a, curated, multimedia contest where students (ages 13\u201319) curate 3-5 works of art\/culture based on a theme and explain why others should check them out. ",
     "link": "https:\/\/www.nytimes.com\/2025\/11\/19\/learning\/my-list-a-different-kind-of-review-contest.html",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "14 January, 2026-25 February, 2026",
     "requirements": "\u2022 You must be a student ages 13 to 19 in middle school or high school to participate. \n\u2022 Your piece must be, in total, 600 words or fewer, not including the title.\n\u2022 Your collection should only cover works that fit into the following categories of creative expression that The New York Times reviews. ",
     "scope": "International"
@@ -634,7 +634,7 @@
     "title": "Audio Stories: The New York Times Podcast Contest",
     "description": "The\u00a0New York Times Student Podcast Contest\u00a0invites students aged 13\u201319 worldwide to submit original audio stories (maximum 5 minutes) on any topic.",
     "link": "https:\/\/www.nytimes.com\/2024\/08\/08\/learning\/our-student-podcast-contest.html",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "8 April, 2026-13 May, 2026",
     "requirements": "You must be a student ages 13 to 19 in middle school or high school to participate, be sure to use non-copyrighted sound effects or music, with some exceptions, and your piece should be no longer than five minutes. ",
     "scope": "International"
@@ -644,7 +644,7 @@
     "title": "Voice and Choice: The New York Times Summer Reading Contest",
     "description": "A weekly contest running over the summer in which students respond to journalism from The New York Times through short written reflections or brief videos. Best for students who enjoy reading, current events, and ongoing low-stakes writing practice.",
     "link": "https:\/\/www.nytimes.com\/2025\/03\/10\/learning\/our-16th-annual-summer-reading-contest.html#link-5ba013c5",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "5 June, 2025-14 August, 2026",
     "requirements": "Any teenager 13 to 19 years old anywhere in the world is invited to join, ",
     "scope": "International"
@@ -654,7 +654,7 @@
     "title": "The New York Times Conversation Challenge For Weekly Current Events",
     "description": "This challenge invites students to react to the news via our\u00a0daily writing prompts, and each week. They publish a selection of their comments in\u00a0a roundup for the world to read.\u00a0",
     "link": "https:\/\/www.nytimes.com\/column\/current-events-conversation",
-    "type": "Weekly Interactive Feature ",
+    "type": ["Weekly Interactive Feature"],
     "deadline": "All-Year Round",
     "requirements": null,
     "scope": "International"
@@ -664,7 +664,7 @@
     "title": "BBC Young Writers' Award 2026",
     "description": "BBC Young Writers' Award with Cambridge University\u00a0challenges young people in the UK aged between 14-18 years to submit stories of up to 1,000 words.\u00a0",
     "link": "https:\/\/www.bbc.co.uk\/programmes\/articles\/2cslf9QxZKznVCqplBS0SY0\/submissions-now-open-for-the-2026-bbc-young-writers-award",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 23 March, 2026",
     "requirements": "Aged 14-18 and living in the UK. ",
     "scope": "National"
@@ -674,7 +674,7 @@
     "title": "Chinese Government Scholarships",
     "description": "The 2026\/2027 Chinese Government Scholarship (CGS\/CSC), administered by the China Scholarship Council, is a fully funded program for international students (Bachelor's, Master's, PhD) covering tuition, accommodation, stipend (CNY 2,500\u20133,500\/month), and medical insurance",
     "link": "https:\/\/id.china-embassy.gov.cn\/eng\/sgdt\/202510\/t20251027_11741674.htm",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "December 31, 2025, and February 15, 2026",
     "requirements": "- be a citizen of a country other than the People\u2019s Republic of China, and be in good health both mentally\u2002and physically;\n- be a high school graduate under the age of 25 when applying for undergraduate programs;\n- be a bachelor\u2019s degree holder under the age of 35 when applying for master\u2019s programs;\n- be a master\u2019s degree holder under the age of 40 when applying for doctoral programs;\n- be a high school graduate (at least) under the age of 45 when applying for general scholar programs;\n- be a master\u2019s degree holder or an associate professor (or above) under the age of 50 when applying for senior scholar programs;\n-\u2002take the \"China Scholastic Competency Assessment (short as CSCA)\" and upload a valid score report\u2002(Appendix 4) when\u2002applying\u2002for bachelor programs.\u2002CSCA score report\u2002will be one of the necessary materials for admission review by universities. For more information about CSCA, please visit www.csca.cn;\n- have acquired the Chinese proficiency of HSK Level 3 when applying for Chinese-taught general scholar programs (studying Chinese language are exempted);\n- have acquired the Chinese proficiency of HSK Level 3 when applying for Chinese-taught senior scholar programs;\n- have acquired the Chinese proficiency of HSK Level 4 when applying for Chinese-taught master\u2019s or doctoral programs;\n- applicants who have obtained the degree from Chinese university using Chinese as teaching language do not need to provide relevant language proficiency certificates\uff1b\n- meet the admission requirements of the applied universities in terms of academic ability, language proficiency and other relevant criterial.",
     "scope": "International"
@@ -684,7 +684,7 @@
     "title": "Young Leaders Program 2026 in Canada",
     "description": "This is a prestigious, fully-funded one-year initiative by the Asia Pacific Foundation of Canada. It aims to deepen connections between Canada and the Indo-Pacific through virtual seminars, networking, and a one-week in-person learning tour in Canada. ",
     "link": "https:\/\/scholarshipunion.com\/young-leaders-program-2026-in-canada\/",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "May 2026 or June 2026",
     "requirements": "Hold citizenship or permanent residency in an Indo-Pacific country\/jurisdiction.\nEducation: An undergraduate degree (minimum) in a relevant field (e.g., Political Science, Public Policy, International Relations, Law, Economics, Sociology, History, Geography, Asian Studies, etc.).\nCurrent graduate students are also eligible.\nExperience: At least 5 years of relevant experience in one of the following sectors:\nGovernment\nInternational or regional organizations\nThink-tanks\nMedia outlets\nBusiness\nAcademia\nStrong understanding, experience, and interest in:\nPolitics\nEconomics\nSociety\nDiplomacy\nInternational Relations\nSecurity\nHistory\nEnvironmental Issues\nThe program is especially interested in early- to mid-career professionals.",
     "scope": "International"
@@ -694,7 +694,7 @@
     "title": "China University of Petroleum CSC Scholarship 2026",
     "description": "This is now open for international applicants who aspire to pursue Undergraduate, Master\u2019s, or PhD programs in China. This fully funded scholarship provides opportunities for students to gain world-class education and advanced research experience at one of China\u2019s top universities. ",
     "link": "https:\/\/scholarshipunion.com\/china-university-of-petroleum-csc-scholarship-2026-in-china\/",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 1 March 2026",
     "requirements": "Applicants who are under 25 years old and have completed high school.\nMaster\u2019s candidates: those under 35 with a bachelor\u2019s degree.\nDoctoral candidates: Those under 40 with a master\u2019s degree.\nLanguage prerequisites:\nDepending on the program level, Chinese-taught programs require HSK 4 or 5.\nIELTS 6.5, TOEFL 80, or documentation of English-medium training are prerequisites for English-taught programs.\nOnly residents of the Belt and Road nations are eligible for the Silk Road Program.\nThe particular prerequisites of each program must be fulfilled at the time of application.",
     "scope": "International"
@@ -704,7 +704,7 @@
     "title": "Beijing Normal University CSC Scholarship 2026 in China",
     "description": "This scholarship is an exceptional opportunity for international students aiming to pursue graduate studies in China. This fully funded scholarship is designed to support outstanding students by covering tuition fees, living expenses, travel costs, and comprehensive health insurance.",
     "link": "https:\/\/admission-is.bnu.edu.cn\/english\/international\/index.html",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 31 March, 2026",
     "requirements": "Not be receiving any other scholarships established by the Chinese government or social organizations.\nMeet the degree and age requirements:\nUndergraduate programs: must be a high school graduate and under 25 years old at the time of application.\nMaster\u2019s programs: must hold a bachelor\u2019s degree and be under 35 years old.\nDoctoral programs: must hold a master\u2019s degree and be under 40 years old.",
     "scope": "International"
@@ -714,7 +714,7 @@
     "title": "Wuhan University CSC Scholarships 2026",
     "description": "This is now open for international students who wish to pursue fully funded higher education in China. This prestigious scholarship allows students from all over the world to study at Wuhan University without tuition fees. ",
     "link": "https:\/\/admission.whu.edu.cn\/info\/1251\/5452.htm",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 25 February, 2026",
     "requirements": "Foreign citizenship, and in good health.\nApplicants who apply for a Master\u2019s degree should be under 35 years old and have a Bachelor\u2019s degree.\nApplicants who apply for a doctoral degree should be under 40 years old and have a Master\u2019s degree.\nApplicants of Chinese-medium programs should have at least HSK level four certificate (Chinese Proficiency Test)\nApplicants of English-medium programs should provide a score report of English Language test, TOEFL requires 80, IELTS requires 5.5 (You can apply without IELTS\/TOEFL if you can take English Proficiency Certificate from your last attending Institution).",
     "scope": "International"
@@ -724,7 +724,7 @@
     "title": "Sichuan University Chinese Government Scholarship 2026",
     "description": "This is for international students who want to pursue higher education. This fully funded program, offered under the CGS Type B \u2013 Chinese University Program, covers tuition fees, on-campus accommodation, a monthly living allowance, and comprehensive medical insurance for selected candidates.",
     "link": "https:\/\/global.scu.edu.cn\/oso\/article\/details\/ffb69423-aba9-4731-a263-b37f66604a29",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 26 February 2026",
     "requirements": "Must be a citizen of a country other than the People\u2019s Republic of China.\nAge limits:\nMaster\u2019s applicants: under 35 years old\nPhD applicants: under 40 years old\nAcademic qualifications:\nMaster\u2019s: Bachelor\u2019s degree\nPhD: Master\u2019s degree\nHealth: \nGood physical and mental health (Foreigner Physical Examination Form required)\nLanguage proficiency:\nChinese-taught programs: HSK Level\u202f4 (Science, Engineering, Medicine, Agriculture) or HSK Level\u202f5 (Liberal Arts, Management, Law, Arts)\nEnglish-taught programs: TOEFL iBT \u226580 or IELTS \u22656 (non-native English speakers)\nMust meet SCU departmental and university admission requirements.",
     "scope": "International"
@@ -734,7 +734,7 @@
     "title": "Youth of Excellence Scheme Scholarship 2026",
     "description": "The Youth of Excellence Scheme Scholarship 2026 is a prestigious initiative by the Chinese Government, designed to attract talented international students eager to pursue advanced studies in China.",
     "link": "https:\/\/fm.china-embassy.gov.cn\/eng\/zmgx\/202412\/t20241224_11517035.htm",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 31 March, 2026",
     "requirements": "Be a citizen of a country other than the People\u2019s Republic of China and be under the age of 45, in good health both mentally and physically.\nHave a bachelor\u2019s degree or higher, with at least three years of work experience. Applicants with professional training or work experience related to the proposed program will be given preference.\nFall into one of the following four categories:\nA government official at the division chief level (or equivalent) or above\nA senior manager of an institution or enterprise\nAn administrator of a university or scientific research institution\nAn individual with relevant employment or internship experience in international organizations.\nEnsure that the pre-admission letter provided by the university includes all necessary registration details\u2014such as personal information, admission date, and major information\u2014and does not contain any mention of having received or being promised a Chinese Government Scholarship.",
     "scope": "International"
@@ -744,7 +744,7 @@
     "title": "OIST Research Internship 2026",
     "description": "The OIST Research Internship 2026 is a prestigious, fully funded 3\u20136 month program in Japan at the Okinawa Institute of Science and Technology, designed for STEM undergraduate\/master's students and recent graduates.",
     "link": "https:\/\/www.oist.jp\/admissions\/research-internship\/apply-research-internship",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "Deadline: 15 April, 2026",
     "requirements": "Those who are currently enrolled in their last two years of a bachelor's degree, enrolled in any year of a master's degree in universities, colleges, junior colleges, and vocational schools in Japan or overseas, or those who have graduated with a bachelor's or master's degree, are eligible to apply for the Research Internship at OIST.\n\nCurrently enrolled students must have approval from their home institution. The academic background of applicants should be appropriate to their desired host unit(s) at OIST.\n\nOur Research Internship is intended for those who need more research experience and who are interested in joining OIST's PhD Program later. Current or graduated PhD students who wish to collaborate with OIST should look for other opportunities such as Workshops or Careers at OIST.\n\nResearch Interns who belong to a Japanese university\/institution are required to prepare and bring their own insurances when accepted to the OIST Research Internship Program. Acceptable insurances are the combination of Gakkensai and Gakkenbai, or other insurances with similar coverage.",
     "scope": "International"
@@ -754,7 +754,7 @@
     "title": "UNICEF Internship Programme",
     "description": "The UNICEF Internship Programme offers undergraduate, graduate, and recent graduates (within two years) hands-on, paid, 6\u201326 week opportunities to work in UNICEF offices globally",
     "link": "https:\/\/www.unicef.org\/careers\/internships",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "Deadline: All-Year Round",
     "requirements": "\u2022 At least 18 years old.\n\u2022 Enrolled in an undergraduate, graduate or PhD programme, or have graduated within the past two years.\n\u2022 Proficient in at least one of UNICEF's working languages: English, French or Spanish. Fluency in the working language of the office you are applying to, may also be required.\n\u2022 Have no immediate relatives (e.g., mother, father, sister, brother) working with UNICEF, or any other relatives in your reporting line of authority.\n\u2022 Have strong academic performance and motivation\n\u2022 Additional consideration will be given to any professional experience relevant to the function you\u2019re applying for.",
     "scope": "International"
@@ -764,27 +764,27 @@
     "title": "Google Student Researcher, 2026 Program",
     "description": "The Google Student Researcher, 2026 program is a paid,, flexible, research-focused opportunity for Bachelor's, Master's, and PhD students to collaborate with teams like Google DeepMind and Google Research",
     "link": "https:\/\/www.google.com\/about\/careers\/applications\/jobs\/results\/100753339674698438-student-researcher-2026?distance=50&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=TEMPORARY&employment_type=PART_TIME&employment_type=INTERN&company=GFiber&company=Verily%20Life%20Sciences&company=Wing&company=Waymo&company=DeepMind&company=Fitbit&company=Google&company=YouTube",
-    "type": "Internship\/Apprenticeship",
+    "type": ["Internship"],
     "deadline": "Deadline: 31 March, 2026",
     "requirements": "Minimum qualifications:\nCurrently enrolled in Bachelor's, Master's, or PhD degree program in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences.\nExperience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas).\n\nPreferred qualifications:\nCurrently enrolled in a full-time degree program and returning to the program after completion of the internship.\nExperience contributing research communities or efforts, including publishing papers in major conferences or journals.\nExperience with one or more general purpose programming languages (e.g., Python, Java, JavaScript, C\/C++, etc.).",
-    "scope": "Bengaluru, Karnataka, India"
+    "scope": "India"
   },
   {
     "index": 26,
     "title": "Digital Business Apprenticeship (October 2026 Start)",
     "description": "The Digital Business Apprenticeship (October 2026 Start) at Google is a 15-to-24-month paid program in London (UK) designed for early-career professionals. It combines on-the-job training in Sales, Marketing, or Partnerships with academic study",
     "link": "https:\/\/www.google.com\/about\/careers\/applications\/jobs\/results\/126782139373888198-digital-business-apprenticeship-october-2026-start?distance=50&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=TEMPORARY&employment_type=PART_TIME&employment_type=INTERN&company=GFiber&company=Verily%20Life%20Sciences&company=Wing&company=Waymo&company=DeepMind&company=Fitbit&company=Google&company=YouTube",
-    "type": "Apprenticeship",
+    "type": ["Apprenticeship"],
     "deadline": "Deadline: Before 10 March, 2026",
     "requirements": "Minimum qualifications:\nA pass at Level 2 for Maths and English.\nAbility to communicate in English fluently to communicate with colleagues.\n\nPreferred qualifications:\nAbility to work independently and within a team framework.\nWillingness to navigate ambiguous tasks, find suitable solutions and seek help\/advice where appropriate.\nAnalytical mindset and comfortable with working with data to deliver insights and support outstanding creative execution\nEnthusiasm and passion for measurement and new technologies, demonstrated through personal projects and interest in learning new skills.\nEffective communication and organizational skills, proactive, self-motivated, positive attitude, and excellent customer service capabilities.\nStrong project management skills.",
-    "scope": "London, UK"
+    "scope": "United Kingdoms"
   },
   {
     "index": 27,
     "title": "MIT Lincoln Laboratory Summer Research Program",
     "description": "The MIT Lincoln Laboratory Summer Research Program is a competitive, paid, 10-12 week internship (mid-May to mid-August) for undergraduate and graduate students, offering hands-on R&D in national security, engineering, and science, typically at their Lexington, MA site. ",
     "link": "https:\/\/www.ll.mit.edu\/careers\/student-opportunities\/summer-research-program",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "Deadline: 11 March, 2026",
     "requirements": "To be eligible for the Summer Research Program, students must have at least completed their sophomore year of college or be enrolled in a master's or doctoral program.  In addition, students must have maintained an excellent academic record and be a U.S. citizen.",
     "scope": "US"
@@ -794,7 +794,7 @@
     "title": "OECD Internship Programme ",
     "description": "The OECD Internship Programme offers motivated students from diverse backgrounds a chance to support evidence-based policy work at the Organisation for Economic Co-operation and Development",
     "link": "https:\/\/www.oecd.org\/en\/about\/careers\/internships.html",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "Deadline: 28 February, 2026",
     "requirements": "Are enrolled in a full-time degree programme* for the duration of the internship in a field or discipline related to the work of the OECD\nAre available for a minimum internship duration of one month\nHave an excellent command of one of the two official languages of the OECD (English and French) and a working knowledge of, or willingness to learn, the other. Knowledge of other languages could be an advantage\nHave good quantitative and IT skills\nHave good drafting and communication skills\nThrive in a multicultural and international team environment.",
     "scope": "International"
@@ -804,7 +804,7 @@
     "title": "International Economics Olympiad",
     "description": "The International Economics Olympiad (IEO) is an annual global competition for high school students designed to foster creative problem-solving in economics, business, and finance. Founded in 2018, it aims to identify and encourage young talent in these fields.",
     "link": "https:\/\/2026.ieo-official.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline For Official Team Applications: 30 April, 2026",
     "requirements": "Age Limit: Contestants must have been born after June 30, 2006 (meaning they must be under 20 years old on June 30, 2026).\nEducational Status: As of December 1, 2025, students must have been working toward receiving a high school (secondary school) diploma or an equivalent degree.\nAcademic Level: The competition is designed for students at ISCED Level 3 (typically senior high school). Students who have already started tertiary-level (university) studies are ineligible.\nResidency\/Citizenship: Contestants must be citizens or residents of the country they represent. International students attending school in a participating country on a student visa or residency permit are also eligible to join that country's team.",
     "scope": "International"
@@ -814,7 +814,7 @@
     "title": "International Young Physicists' Tournament",
     "description": "This is a prestigious annual team-based scientific competition for secondary school students. Teams research 17 open-ended, complex physics problems over several months, presenting and defending their solutions against opponents in structured \"Physics Fights\" evaluated by international experts. ",
     "link": "https:\/\/www.iypt.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 28 February, 2026",
     "requirements": "Student Status: Participants must be secondary school students or have graduated in the same calendar year as the tournament.\nTeam Size: Teams consist of 3 to 5 students.\nCitizenship\/Residence: Members must be citizens of the country they represent or be enrolled in a school in that country.\nTeam Leader: Each team must have a team leader (often a teacher or mentor).\nApplication Process: Teams usually qualify through national tournaments (e.g., CaYPT in Canada, USAYPT in the USA).\nLanguage: The competition is held in English.\nExperience: Teams generally cannot change their composition during the tournament. ",
     "scope": "International"
@@ -824,7 +824,7 @@
     "title": "International Greenwich Olympiad",
     "description": "This is a prestigious global project-based competition for students aged 10\u201319, hosted by North London Grammar School in London. It challenges young minds to innovate solutions for global issues, particularly in sustainability, engineering, and science, aligned with UN SDGs.",
     "link": "https:\/\/igolondon.co.uk\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 1 March, 2026",
     "requirements": "Secondary school students who are aged between 13 and 18 years old. Students are welcome to participate as individuals or in team of maximum three, not necessarily from the same school.",
     "scope": "International"
@@ -834,7 +834,7 @@
     "title": "World Maths Day 2026",
     "description": "This is a global, 24-hour online competition occurring on March 25, 2026, where students aged 4-18 compete in live, 60-second math games. It challenges learners to solve mental arithmetic problems against others worldwide. The 2026 theme is \"United by Numbers\". ",
     "link": "https:\/\/www.3plearning.com\/world-maths-day\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 25 March, 2026",
     "requirements": "Open to students aged 5 to 18.",
     "scope": "International"
@@ -844,7 +844,7 @@
     "title": "World Scholar's Cup",
     "description": "The World Scholar's Cup (WSC) is a premier international academic program and competition for students, bringing together over 50,000 participants from 60+ countries annually.",
     "link": "https:\/\/www.scholarscup.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadlines are approaching quickly, with some, such as the one mentioned for early 2026, closing on March 1, 2026.",
     "requirements": "Divisions:\nSkittles (Junior): Ages 8\u201312.\nJunior Division: Typically ages 11\u201313 (born on or after Jan 1, 2012, for 2026).\nSenior Division: Ages 14+ (born before Jan 1, 2012, for 2026).\nAcademic Level: Students up to their final year of pre-university schooling (high school, A-levels, IB).\nTeam Structure: Teams of 3 (preferred) or 2 members.\nIndependent Participants: Students can register independently or as part of a school team.\nLanguage: Competitions are conducted in English. ",
     "scope": "International"
@@ -854,7 +854,7 @@
     "title": "Science Without Borders Art Challenge",
     "description": "The Science Without Borders\u00ae Challenge is an annual international art contest run by the Khaled bin Sultan Living Oceans Foundation that engages students aged 11\u201319 in marine science and ocean conservation.",
     "link": "https:\/\/www.livingoceansfoundation.org\/science-without-borders-challenge\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 2 March, 2026",
     "requirements": "All students ages 11-19 who are enrolled in primary or secondary school, or the home school equivalent anywhere in the world may enter the Science Without Borders\u00ae Challenge. Students age 10 may participate as long as they turn 11 by March 2, 2026. College and university students are not eligible for this contest. Proof of age, identity, and\/or eligibility may be required.\nAll artwork must be an original work by the contestant and shall not infringe on any copyrights or any other rights of any third parties. Do not copy an idea from a past participants\u2019 work. Do not draw a character from a cartoon or movie. See the tips for success and grading rubric for more information on what the judges are (and are not) looking for.\nDo not submit artwork to the Science Without Borders\u00ae Challenge that you have entered into another art competition or a previous Science Without Borders\u00ae Challenge.",
     "scope": "International"
@@ -864,7 +864,7 @@
     "title": "Nami Island International Picture Book Illustration Concours",
     "description": "The Nami Island International Picture Book Illustration Concours (Nami Concours) is a major biennial international competition held in South Korea since 2013, aimed at encouraging creativity and enhancing the quality of children's book illustrations.",
     "link": "https:\/\/graphiccompetitions.com\/illustration\/nami-concours-2026",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: Expected Autumn 2026",
     "requirements": null,
     "scope": "International"
@@ -874,7 +874,7 @@
     "title": "Earth Partner Prize",
     "description": "The Earth Partner Prize (formerly #CreateCOP) is an annual international art competition for creatives aged 14\u201330, designed to accelerate climate action through culture",
     "link": "https:\/\/earthpartner.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 28 February, 2026",
     "requirements": "Artists, creatives, and photographers aged 14\u201330.",
     "scope": "International"
@@ -884,7 +884,7 @@
     "title": "International Thespian Festival ",
     "description": "The International Thespian Festival (ITF) is a premier annual, week-long event for student members of the Educational Theatre Association (EdTA), celebrating middle and high school theater through performances, workshops, and college auditions.",
     "link": "https:\/\/itf.schooltheatre.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: Standard Registration: 4 February, 2026-30 April, 2026 and Late Registration: 1 May, 2026-13 May, 2026",
     "requirements": "Participants: Students in grades 6-12.\nAdult Leaders\/Chaperones: Must be at least 21 years old.\nChaperone Requirement: All students must be chaperoned for the entire week, with gender-specific supervision (female students with a female chaperone, male students with a male chaperone) recommended.\nRegistration Process: Opens in early February (e.g., Feb 4, 2026), with options for individual or troupe registration.\nSafety: Background checks are required for all attendees aged 18+.\nCollege Auditions (Optional): Limited to inducted Thespians graduating in 2027 (rising seniors).\nNon-Affiliated Students: Students not in an active troupe may attend but must still be accompanied by an registered adult chaperone. ",
     "scope": "National"
@@ -894,7 +894,7 @@
     "title": "Golden Classical Music Awards",
     "description": "The Golden Classical Music Awards (GCMA) is an international competition designed to discover young musicians across strings, piano, wind, and vocal disciplines and launch their careers with opportunities like a performance at Carnegie Hall's Weill Recital Hall in New York.",
     "link": "https:\/\/www.goldenclassicalmusicawards.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 22 June, 2026",
     "requirements": "Disciplines: Piano, Strings (Violin, Viola, Cello, Double Bass, Guitar), Woodwinds (Flute, Oboe, Clarinet, Bassoon, Saxophone, Recorder), Brass (French Horn, Trumpet, Trombone, Tuba), and Vocal (Female\/Male).\nEnsembles: Piano duo, piano four-hands, and mixed chamber ensembles.\nAge Categories: Open to all ages, generally divided into groups such as Young Musician (under 12), Junior (13-18), and Senior (18+).\nRepertoire: One, two, or three pieces from Baroque, Classical, Romantic, or Contemporary periods.\nSubmission Material: Video or audio recordings must be submitted; they should represent the contestant's abilities but do not need professional-quality production.\nApplication: A completed online application form and payment of the non-refundable fee are required. ",
     "scope": "International"
@@ -904,7 +904,7 @@
     "title": "All American High School Film Festival",
     "description": "It's the world's largest, premier film festival for high school students. It provides a major platform for young filmmakers to screen their work, network with industry professionals, attend workshops, and win over $3.5 million in scholarships and prizes. ",
     "link": "https:\/\/www.hsfilmfest.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Free Submission Deadline: 2 March, 2026, Regular Submission Deadline: 27 April, 2026, Late Submission Deadline: 25 May, 2026, Final Deadline: 3 July, 2026",
     "requirements": "Target Demographic: Current high school students or those who graduated in the same year as the festival.\nOriginality: Films must be created by the student(s).\nTechnical Specs: Minimum 1080p resolution, submitted in .mp4 or .mov format.\nContent Restrictions: No copyrighted music\/images (must use licensed or original).\nRuntime: Varies by category, generally up to 40 minutes for shorts, 90 minutes for features.\nSubmission Platform: Typically through FilmFreeway.\nDeadlines: Early bird (typically March), Regular (July), and Late (August).\nAwards: Attendance is not required to win, but encouraged. ",
     "scope": "International"
@@ -914,7 +914,7 @@
     "title": "International Biology Olympiad (IBO)",
     "description": "It's the premier annual worldwide biology competition for top-performing pre-university students. It challenges gifted students through rigorous theoretical and practical exams, fostering talent in life sciences, promoting scientific careers, and facilitating international networking among young biologists from over 75 countries. ",
     "link": "https:\/\/www.ibo-info.org\/en\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 25 May, 2026",
     "requirements": "National Selection: You must win your country's official National Biology Olympiad (NBO). The IBO does not allow independent, direct registration.\nAge Limit: Candidates must be under 20 years old as of July 1 of the competition year.\nEducation Level: You must be a student in a regular secondary school (general education) and not have started full-time university\/college studies.\nParticipation Limit: A student may participate in the IBO a maximum of two times.\nCitizenship\/Residence: You must represent your country of citizenship or long-term residence.\nTraining Restriction: Participants cannot have received specific IBO training in a group of 50 or fewer students for more than two weeks. ",
     "scope": "International"
@@ -924,7 +924,7 @@
     "title": "International Chemistry Olympiad (IChO)",
     "description": "The International Chemistry Olympiad (IChO) is a premier annual academic competition for secondary school students, bringing together the world's most talented young minds in chemistry.",
     "link": "https:\/\/www.icho2026.uz\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "General Deadline: 28 February, 2026",
     "requirements": "Age: Under 20 years old on July 1 of the competition year.\nEducation: Secondary school students or recent graduates not yet in university.\nSelection: Must be chosen through their country\u2019s National Chemistry Olympiad.\nNationality: Participants must be citizens or passport holders of the country they represent.\nTeam Size: Each country sends a team of up to 4 students.\nPrevious Winners: Gold medal winners from previous IChO competitions are generally not eligible to compete again. ",
     "scope": "International"
@@ -934,7 +934,7 @@
     "title": "MUN Paris 2026",
     "description": "A major MUN conference held in Paris, France, from March 24\u201326, 2026, as part of the MUN EUROPE network---inviting high schools and universities to debate global issues, develop diplomatic skills, and simulate UN procedures in English or French. ",
     "link": "https:\/\/www.mun-france.fr\/en\/mun-paris-france\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 10 March, 2026",
     "requirements": "Target Audience: Students from high schools and colleges\/universities.\nExperience Level: Open to both beginners and experienced delegates.\nRequirements:\nSubmission of a position paper (deadline typically around Oct 2025 for a spring 2026 event).\nVisa for travel (if applicable).\nLanguage: The simulation is conducted in English.\nLocation: Paris, France (venue often at hotels like H\u00f4tel Mercure Paris Centre Tour Eiffel). ",
     "scope": "International"
@@ -944,7 +944,7 @@
     "title": "WIMUN Singapore 2026",
     "description": "WIMUN Singapore 2026 is the Southeast Asian edition of the WFUNA International Model United Nations (WIMUN) conference, widely recognized as the world's most accurate simulation of the United Nations",
     "link": "https:\/\/wfuna.org\/program\/wimun-singapore-2026\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Early Registration: February 28, 2026\nPriority Registration: May 31, 2026\nRegular Registration: June 30, 2026 ",
     "requirements": "Target Audience: Students (High School, University, Grad School) and young professionals aged 14\u201330.\nExperience Level: Open to beginners and experienced MUN participants, though familiarity with the WIMUN Approach is helpful.\nGeography: Open to participants from North America, Europe, Asia, South America, Africa, and Oceania.\nRequirements: High school students must have a chaperone. Individuals or groups can register.\nRegistration Deadline: Early bird deadline is Feb 28, 2026, and priority deadline is May 31, 2026.\nVenue: Suntec Convention Centre, Singapore.\nCost: Delegate fees are $289, with no scholarships offered by WFUNA. ",
     "scope": "International"
@@ -954,7 +954,7 @@
     "title": "John Peters Humphrey MUN 2026",
     "description": "It's a 3-day, in-person educational conference for high school students, held at St. Thomas University in Fredericton, NB from May 1\u20133, 2026. It simulates UN proceedings to teach diplomacy, research, and public speaking. ",
     "link": "https:\/\/jphmun.wordpress.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Early Bird Deadline: February 24, 2026.\nFinal Registration Deadline: March 24, 2026",
     "requirements": "Generally open to high school and university students interested in debating international affairs.",
     "scope": "International"
@@ -964,7 +964,7 @@
     "title": "Regeneron International Science and Engineering Fair",
     "description": "The Regeneron International Science and Engineering Fair (ISEF) is the world's largest pre-college STEM competition, held annually in the U.S. and managed by the Society for Science.",
     "link": "https:\/\/www.societyforscience.org\/isef\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Mid-February 2026: Registration opens for all approved affiliated fairs.\nBy February 9, 2026: Official Party Registration becomes available online.\nWithin 12 Days of Fair: Finalist Questionnaire and Official Party Registration must be submitted after your local\/regional fair.\nApril 13, 2026: Last day to hold an affiliated fair.\nApril 30, 2026: Deadline for registration fee checks\/transfers to be postmarked. ",
     "requirements": "Grade Level: Students must be in grades 9\u201312 or equivalent.\nAge: Students must not have reached age 20 on or before May 1st of the competition year.\nQualification: Students must compete in and win the right to attend from a Society for Science-affiliated fair.\nProject Scope: Projects can be individual or team-based (maximum 3 members).\nResearch Duration: Projects can include a maximum of 12 months of continuous research, and must not include research performed more than 18 months before the competition.\nCategories: The project must fit into one of the 22 ISEF categories. ",
     "scope": "International"
@@ -974,7 +974,7 @@
     "title": "Breakthrough Junior Challenge",
     "description": "The Breakthrough Junior Challenge is a global, annual science video competition for students aged 13\u201318 to explain complex concepts in life sciences, physics, or math via a < 2-minute video",
     "link": "\nhttps:\/\/breakthroughjuniorchallenge.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Typically April, 2026-15 September, 2026",
     "requirements": "Age: Must be at least 13 years old by May 1, 2025, and not older than 18 (not yet 19) on October 1, 2025.\nLocation: Open globally, provided the applicant does not reside in a country subject to U.S. sanctions.\nLanguage: Submissions must be in English.",
     "scope": "International"
@@ -984,7 +984,7 @@
     "title": "Adobe Certified Professional World Championship",
     "description": "Certiport's Adobe Certified Professional World Championship, formerly known as Adobe Certified Associate (ACA) World Championship, is a global competition that tests students' design skills using Adobe Photoshop, Illustrator, and InDesign",
     "link": "https:\/\/acpchampionship.certiport.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 1 May, 2026",
     "requirements": "Student Status: Must be enrolled in an accredited academic institution.\nAge: 13 to 22 years old as of December 31, 2026.\nCertification: Must earn an Adobe Certified Professional certification in Adobe Photoshop, Illustrator, or InDesign.\nProject Submission: Must submit an original design project for the qualifying rounds.\nRestrictions: Employees of Adobe, Certiport, and their affiliates are ineligible.\nPrior Winners: Previous top 3 winners of the World Championship are generally not eligible. ",
     "scope": "International"
@@ -994,7 +994,7 @@
     "title": "Tel-Aviv International Student Film Festival",
     "description": "It's the world's largest and most prestigious student film festival, founded in 1986 by Tel Aviv University students. Held annually in June at the Tel Aviv Cinematheque, it showcases over 150 short films from 50+ countries.",
     "link": "https:\/\/www.taufilmfest.com\/586-2\/?lang=en",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Final Deadline: 23 February, 2026",
     "requirements": "Applicant Status: Films must be made within school programs, universities, or professional institutes.\nProduction Date: Completed during 2025-2026.\nLength: Up to 30 minutes.\nSubmission Limit: Each school may submit up to 3 films.\nSubtitles: English subtitles are required for all films, including English-speaking ones.\nPremiere Status: No premiere status required.\nFormat: Screeners must be enabled for download.\nExperimental\/Video Art: Students or graduates (within 5 years) can submit to this category. ",
     "scope": "International"
@@ -1004,7 +1004,7 @@
     "title": "ImagiNation Student Film Festival",
     "description": "The ImagiNation International Student Film Festival (INISFF) is a global platform designed to nurture, showcase, and celebrate the creativity, storytelling, and filmmaking skills of young filmmakers.",
     "link": "https:\/\/inisff.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Extended Deadline: March 23, 2026\nNotification Date: April 10, 2026",
     "requirements": "Target Audience: Students and first-time filmmakers aged 11\u201318 (specifically mentioned in Instagram post), extending up to university (UG & PG) levels.",
     "scope": "International"
@@ -1014,7 +1014,7 @@
     "title": "International Genetically Engineered Machine Competition (iGEM)",
     "description": "The International Genetically Engineered Machine (iGEM) Competition is the world's premier synthetic biology competition, where multidisciplinary student teams (undergraduate, high school, and graduate) design and build biological systems using standardized, open-source genetic parts",
     "link": "https:\/\/competition.igem.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Regular Registration Deadline: April 2, 2026 (15:00 UTC)\nLate Registration Deadline: June 4, 2026 (15:00 UTC) ",
     "requirements": "Team Composition: Teams are generally formed within universities (Collegiate), high schools, or community labs.\nAge Requirement: All team members must be at least 13 years old as of March 31, 2026.\nSupervision: Each team must have a Primary PI who is a faculty member, teacher, or director of a community lab.\nProject Focus: Projects must involve synthetic biology and adhere to safety guidelines.\nDocumentation: Teams must document their work on a team wiki and submit safety forms.\nCommunity Labs: Teams from community labs must demonstrate access to a Biosafety Level 1 (BSL-1) lab, have a safety training program, and be an incorporated entity. ",
     "scope": "International"
@@ -1024,147 +1024,147 @@
     "title": "NIBS Worldwide Case Competition Volunteer Opportunity",
     "description": "Volunteer leadership roles for business students at an international case competition hosted by the University of Guelph-Humber",
     "link": "https:\/\/nibscasecompetition.org\/be-a-supporter\/volunteer\/",
-    "type": "Volunteering (event support)",
+    "type": ["Volunteering"],
     "deadline": "febuary 2026",
     "requirements": null,
-    "scope": "international"
+    "scope": "International"
   },
   {
     "index": 1,
     "title": "AIESEC Global Volunteer",
     "description": "Volunteer abroad programs linked to the UN Sustainable Development Goals  cultural immersion, practical service projects.",
     "link": "https:\/\/aiesec.org\/global-volunteer",
-    "type": "Volunteering abroad",
+    "type": ["Volunteering"],
     "deadline": "Ongoing (varies by project)",
     "requirements": "inconclusive",
-    "scope": "international"
+    "scope": "International"
   },
   {
     "index": 2,
     "title": "Google Summer of Code",
     "description": "Annual international program where students contribute to open-source software and receive a stipend",
     "link": "https:\/\/summerofcode.withgoogle.com",
-    "type": "Internship \/ project program",
+    "type": [["Internship"], "Project"],
     "deadline": "march-april annually",
     "requirements": "College-level coding skills",
-    "scope": "international"
+    "scope": "International"
   },
   {
     "index": 3,
     "title": "International Greenwich Olympiad",
     "description": "Annual global STEAM research & project competition for students ~10\u201319",
     "link": "https:\/\/igolondon.co.uk",
-    "type": "Academic competition",
+    "type": ["Competition"],
     "deadline": "september 1 - march 1",
     "requirements": "Student with STEAM project",
-    "scope": "international"
+    "scope": "International"
   },
   {
     "index": 4,
     "title": "International Students\u2019 Creativity Competition (ISCC)",
     "description": "Creative competition including essays, posters, poetry, and more for university & student creatives",
     "link": "https:\/\/s.id\/iscc2025",
-    "type": "Competition (creative arts & writing)",
+    "type": ["Competition"],
     "deadline": "august 11- september30",
     "requirements": "University\/college students",
-    "scope": "international "
+    "scope": "International"
   },
   {
     "index": 5,
     "title": "Projects Abroad \u2014 Teen Volunteer & Internship Programs",
     "description": "Structured international volunteer and internship options in community development, healthcare, education, and conservation.",
     "link": "https:\/\/www.projects-abroad.org",
-    "type": "Volunteering & internships",
+    "type": [["Volunteering"], ["Internship"]],
     "deadline": "Year-round (program cycles vary)",
     "requirements": "14+ students for designated teen tracks",
-    "scope": "international"
+    "scope": "International"
   },
   {
     "index": 6,
     "title": "Volunteer World Platform",
     "description": "Search & compare ethical volunteer abroad programs",
     "link": "https:\/\/www.volunteerworld.com\/en",
-    "type": "Volunteering",
+    "type": ["Volunteering"],
     "deadline": "Ongoing via platform",
     "requirements": "inconclusive",
-    "scope": "international"
+    "scope": "International"
   },
   {
     "index": 7,
     "title": "PCMA Global Student Competition",
     "description": "Real-world business challenge requiring strategic proposals from student teams worldwide.",
     "link": "https:\/\/www.pcma.org\/chapters\/student-chapters\/student-competition\/",
-    "type": "Competition (business & events)",
+    "type": ["Competition"],
     "deadline": "august 1- oct 19",
     "requirements": "Student team",
-    "scope": "international"
+    "scope": "International"
   },
   {
     "index": 8,
     "title": "IUI 2026 Student Volunteer Program",
     "description": "Volunteer roles at the Conference on Intelligent User Interfaces \u2014 interact with researchers, attend sessions, and receive free registration.",
     "link": "https:\/\/iui.acm.org\/2026\/student-volunteers\/",
-    "type": "Volunteering",
+    "type": ["Volunteering"],
     "deadline": "dec12- jan 28",
     "requirements": "Undergraduate or postgraduate students",
-    "scope": "international"
+    "scope": "International"
   },
   {
     "index": 9,
     "title": "ASCEND Indonesia 2026",
     "description": "National engineering & satellite design challenge with international launch opportunity.",
     "link": "https:\/\/www.theglobalcitizeneducation.com\/events",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "10 jan- 7 march",
     "requirements": null,
-    "scope": "international"
+    "scope": "International"
   },
   {
     "index": 10,
     "title": "IMO & International Math Olympiad Related Opportunities",
     "description": "High-level math olympiad representing national teams.",
     "link": "https:\/\/www.imo-official.org",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "30 dec-20march",
     "requirements": null,
-    "scope": "international"
+    "scope": "International"
   },
   {
     "index": 11,
     "title": "International Environmental Olympiad 2026",
     "description": "Online environmental science olympiad for High School students.",
     "link": "https:\/\/www.env-olympiad.com",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "23 aug-13sept",
     "requirements": "high school student",
-    "scope": "international"
+    "scope": "International"
   },
   {
     "index": 12,
     "title": "World Geothermal Congress 2026 Student Volunteer Program",
     "description": "Volunteer at a major international energy & sustainability conference",
     "link": "https:\/\/www.wgc2026.com\/get-involved",
-    "type": "Volunteering",
+    "type": ["Volunteering"],
     "deadline": "now open- spring 2026",
     "requirements": null,
-    "scope": "international"
+    "scope": "International"
   },
   {
     "index": 13,
     "title": "IEEE VR 2026 Student Volunteers",
     "description": "Volunteerin",
     "link": "https:\/\/ieeevr.org\/2026\/contribute\/studentVolunteers\/",
-    "type": "Volunteering",
+    "type": ["Volunteering"],
     "deadline": "dec1-jan9",
     "requirements": null,
-    "scope": "international"
+    "scope": "International"
   },
   {
     "index": 0,
     "title": "WSC Jakarta regionals",
     "description": "The World Scholar's Cup (WSC) is an international academic competition for middle and high school students, featuring debates, collaborative writing, quizzes, and team challenges. Students compete in teams at regional and global rounds, promoting critical thinking, teamwork, and global awareness.",
     "link": "https:\/\/www.scholarscup.org\/calendar\/#jakarta-round",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Around March - April (Not yet announced but competition date is May 2-4)",
     "requirements": "Payment, English speaking, reading and writing skills",
     "scope": "National"
@@ -1174,7 +1174,7 @@
     "title": "LABSCHOOL MUN",
     "description": "LABSCHOOL MUN is a dynamic Model United Nations conference that empowers students to engage in global diplomacy, debate pressing international issues, and develop leadership skills. Through collaboration, critical thinking, and public speaking, delegates simulate real UN committees in a professional, intellectually enriching environment.\n",
     "link": "https:\/\/www.instagram.com\/labschoolmun?igsh=MWY3djRxMXozZGg2OA==",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Not announced yet (Competition date is May 2 - 3)",
     "requirements": "Payment, English speaking skills ",
     "scope": "National"
@@ -1184,7 +1184,7 @@
     "title": "GM MUN",
     "description": "Beginner-friendly international MUN under Puspresnas (Ministry of Education, Indonesia), with committee sessions and debate training.",
     "link": "https:\/\/clicky.id\/gmmun",
-    "type": "Competition ",
+    "type": ["Competition"],
     "deadline": "Not specified but is still open until the slots are full (Competition is on 12-14 June 2026)",
     "requirements": "Payment, English speaking skills ",
     "scope": "National"
@@ -1194,7 +1194,7 @@
     "title": "IMUN",
     "description": "IMUN (Indonesian MUN) is a student-led Model United Nations conference in Indonesia that fosters diplomacy, debate, and global awareness through realistic UN simulations, leadership training, and cross-cultural collaboration among high school and university delegates.",
     "link": "https:\/\/forms.zohopublic.in\/internationalmun1\/form\/IMUNJAKARTA\/formperma\/DRpEZ2tVo5IXmUJHKVn2WfKUJfQcP6QNXWbve0IPfic",
-    "type": "Competition ",
+    "type": ["Competition"],
     "deadline": "Deadline is February 15, but late registration is available ",
     "requirements": "Payment, English speaking skills (For highschool and university students)",
     "scope": "National"
@@ -1204,7 +1204,7 @@
     "title": "Freelance Live Host Streaming\n\nPT Eblo Teknologi Indonesia",
     "description": "An internship opportunity in marketing through a live stream.",
     "link": "https:\/\/id.jobstreet.com\/job\/90305207?type=standard&ref=search-standalone#sol=5cc39510bb13b34af8a97da60d4ef49b26036505",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "Not specified as they're still hiring ",
     "requirements": "Minimum 1 year of experience as a live streaming host is preferred.\nDisciplined, honest, and fluent in communication.\nWilling to work live on a rolling shift basis.\nWilling to work live on religious holidays\/national holidays.\nQuickly adapts to the environment and quickly masteres product knowledge to be promoted. (Age was not specified)",
     "scope": "National"
@@ -1214,27 +1214,27 @@
     "title": "The Cambridge Re:Think Essay Competition)",
     "description": "The Cambridge Re:Think Essay Competition is a global contest for secondary-school students that promotes critical thinking on contemporary and controversial topics. Participants submit research-based essays judged by academics, with top winners invited to Cambridge for awards and recognition.",
     "link": "https:\/\/ccir.smapply.org\/prog\/cambridge_rethink_2026\/",
-    "type": "Competition ",
+    "type": ["Competition"],
     "deadline": "January 15th - May 10th 2026",
     "requirements": "Open to students aged 15\u201317 years old\nThere is no nationality restriction (students worldwide can enter)\nEssays are submitted online in Word or PDF format",
-    "scope": "International "
+    "scope": "International"
   },
   {
     "index": 6,
     "title": "Globy Speech Competition ",
     "description": "Globy Speech Competition is an academic speaking competition designed to develop students' critical thinking, public speaking skills, and confidence from an early age.",
     "link": "https:\/\/clicky.id\/globyevent",
-    "type": "Competition ",
+    "type": ["Competition"],
     "deadline": "January 27th - February 26th 2026",
     "requirements": "Be an elementary school student, a junior high school student, or a senior high school student. Payment and english speaking skills are also required.",
-    "scope": "National "
+    "scope": "National"
   },
   {
     "index": 7,
     "title": "KOMPETISI SAINS SISWA LKN 2.0  (Lembaga Kompetisi Sains Nasional) 2.0",
     "description": "KOMPETISI SAINS SISWA LKN 2.0 is a nationwide online science competition organized by Lembaga Kompetisi Nasional for Indonesian elementary, junior, and senior high students. It aims to develop scientific knowledge, competitive skills, credibility, and experience through original, Indonesia-level science questions.",
     "link": "https:\/\/www.elkaen.my.id\/event\/ksslduaiklan?#daftar",
-    "type": "Competition ",
+    "type": ["Competition"],
     "deadline": "January 28th - February 22nd 2026",
     "requirements": "Registration Fee:\na. PREMIUM (No Terms and Conditions) Rp 95,000\nb. FREE with terms and conditions.\nTerms and Conditions:\n1. Follow @lembagakompetisinasional\n@berita.olimpiade and @lembagasainsindonesia\n@olimpiadesainsnasional\n2. Mention at least 7 friends in the comments section.\n3. Share this post to your 3 study groups, WhatsApp, Facebook, Telegram, etc.\n4. Registration Link\nhttps:\/\/www.elkaen.my.id\/event\/kssl\n5. Complete implementation guidelines can be found here\nhttps:\/\/bit.ly\/KSSLKN\n6. Install your twibbon and upload it to your Instagram feed and story. You can download the twibbon template at\nhttps:\/\/twb.nz\/ksslkn\n7. Follow the Olympic Center WhatsApp channel at the following link:\nhttps:\/\/whatsapp.com\/channel\/\n0029VbAXLLqHFxP12aSjRL1U",
     "scope": "National"
@@ -1244,7 +1244,7 @@
     "title": "Find IT! UGM 2026",
     "description": "Find IT! UGM 2026 is a prestigious annual technology competition by Universitas Gadjah Mada that brings students together to explore innovation, solve real-world IT challenges, and showcase skills in programming, cybersecurity, data analytics, design, and hackathon events.",
     "link": "https:\/\/find-it.id\/",
-    "type": "Competition ",
+    "type": ["Competition"],
     "deadline": "February 12th - February 28th 2026",
     "requirements": "Payment (Fees) and teams are optional (Depends on the event)",
     "scope": "National"
@@ -1254,7 +1254,7 @@
     "title": "ARTICULARES 2026",
     "description": "ARTICULARES 2026 is an academic and innovation competition that encourages participants to explore interdisciplinary research, problem-solving, and creative solutions in science and technology, fostering collaboration, critical thinking, and impactful ideas through structured challenges and project-based evaluations.",
     "link": "HTTPS:\/\/LINKTR.EE\/ARTICULARES2026",
-    "type": "Competition ",
+    "type": ["Competition"],
     "deadline": "February 1st - March 25th 2026",
     "requirements": "High School Students \/\nEquivalent\n\u2022 One team consists of\ntwo people\n\u2022 Registration fee\nRp. 150,000\/team\n\u2022 Winners will receive\na discount on the Faculty of Medicine's DPP, a trophy, and a certificate",
     "scope": "National"
@@ -1264,7 +1264,7 @@
     "title": "INNOVERSE 2026",
     "description": "Innoverse 2026 is a global invention and innovation expo showcasing projects in emerging technologies like blockchain and the metaverse, bringing participants together for workshops, networking, judging, and awards that celebrate cutting-edge ideas and future-focused innovation.",
     "link": "https:\/\/innoverse.world",
-    "type": "Competition ",
+    "type": ["Competition"],
     "deadline": "February 2nd - March 25th 2026",
     "requirements": "Payment",
     "scope": "National"
@@ -1274,7 +1274,7 @@
     "title": "ESO English and Science Olympiad",
     "description": "ESO Science and English Olympiad is an international academic competition assessing students\u2019 scientific knowledge and English proficiency through challenging tests, promoting critical thinking, global communication skills, and academic excellence while offering medals, certificates, and recognition to top-performing participants worldwide annually.",
     "link": "https:\/\/sites.google.com\/view\/eso-2026\/halaman-muka\/tata-cara-pendaftaran?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleAP-qoBleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafjrVy24Wcz680fqwOwsITzmhoKKTfigHHxkqEM0RS2qxInKUS0BPbNZ-Ce-g_aem_4Ow2RrFDsMxGUl-RzHrZ9A",
-    "type": "Competition ",
+    "type": ["Competition"],
     "deadline": "Registration ends on February 20th 2026",
     "requirements": "ENGLISH & SCIENCE OLYMPIAD (ESO) 2026 Registration Procedures\n\nParticipants must follow the Instagram account @elitescholars.id\n\nShare the ESO 2026 post on your Instagram story (Post)\n\nComment \"Let's join ESO 2026\" and tag 5 friends who should test their skills in ESO 2026 in the following post (Post)\n\nShare the twibbon on your Instagram story for 15 hours and tag @elitescholars.id (Twibbon Link)\n\nScreenshot requirements 2, 3, and 4 and send them to the admin on WhatsApp at 085178037193\n\nNote:\n*Registration must be done using your primary Instagram account.\n**Registration requirements sent to the admin on WhatsApp will be verified for completeness. Participation status will be confirmed once all registration requirements have been met.\n***If a participant commits a violation, they will be given sanctions up to and including cancellation of their participant status.",
     "scope": "National"
@@ -1284,7 +1284,7 @@
     "title": "BSJ MUN",
     "description": "BSJ MUN is a student-led Model United Nations conference that fosters diplomacy, debate, and global awareness. Delegates represent countries, discuss international issues, draft resolutions, and develop public speaking, critical thinking, and leadership skills in a collaborative academic simulation.",
     "link": "https:\/\/www.instagram.com\/bsjmun?igsh=amYxNXA0OW9qNTQ3",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "February 11th 2026 - yet to be announced",
     "requirements": "Payment and currently only open to school delegations (Solo delegates registrations are yet to be announced)",
     "scope": "National"
@@ -1294,17 +1294,17 @@
     "title": "Global Poetry Competition ",
     "description": "An international poetry competition organized through a collaboration between Academy Indonesia \u00d7 UC\nLibrary. This competition provides a global platform for students, university students, and the general public to express creativity, literary talent, and critical perspectives through original poetry while exploring humanitarian values and visions of the future.",
     "link": "https:\/\/s.id\/Global-Poetry",
-    "type": "Competition ",
+    "type": ["Competition"],
     "deadline": "February 15th - March 15th 2026",
     "requirements": "Payment",
-    "scope": "International "
+    "scope": "International"
   },
   {
     "index": 14,
     "title": "SPARC 2026",
     "description": "The Smart Predictive Analytics Research Competition (SPARC) 2026 is a national-level data science competition organized by the ISB Student Union, Ciputra University.\nThis competition is aimed at those interested in data, analysis, and insight-based decision-making.",
     "link": "https:\/\/bit.ly\/RegistSPARC",
-    "type": "Competition ",
+    "type": ["Competition"],
     "deadline": "February 9th - February 19th 2026",
     "requirements": "Terms of participants\n\u2022 Open to Students (S1 & S2)\n\u2022 Participants can be individuals or teams (Max. (3\nman\/team with 1 team leader)\n\u015e Registration Fee:\n\u2022 Early Bird: Rp75.000 (28 Januari - 8 Februari 2026)\n\u2022 Regular Price: Rp90.000 (9 Februari - 19 Februari 2026)",
     "scope": "National"
@@ -1314,7 +1314,7 @@
     "title": "British School Jakarta Model United Nations (BSJMUN)",
     "description": "BSJMUN is a Model United Nations competiton held by the British School Jakarta where students can represent different countries in a heated debate about international crisis' in different councils and committees.",
     "link": "https:\/\/www.instagram.com\/bsjmun?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "10 February, 2026 - 28 March, 2026",
     "requirements": "1. Delegation sign up requires a school teacher to be the main point of contact.\n2. Ages from 12-18",
     "scope": "National"
@@ -1324,7 +1324,7 @@
     "title": "Monesh University, Indonesia NextGen Digital Impact Competition",
     "description": "Students explore real world problems and submit a sattement in essay format. Chosen essays will then be tranformed into compelling poster presentations, allowing students to demonstrate their analytical thinking and creativity in proposing future-ready digital solutions. The winner will then be granted a 100% scholarship to Monash University, Indonesia.",
     "link": "https:\/\/www.monash.edu\/indonesia\/competition\/nextgen-digital-impact-competition#Eligibility_Rules-4",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "5 February, 2026 - 31 March, 2026",
     "requirements": "1. Participants must be in Grade 12 of high school and ready to enrol in July 2026.\n2. The competition is open to individuals (single person) only.",
     "scope": "International"
@@ -1334,7 +1334,7 @@
     "title": "Intern, Marketing - 2026 Mastercard Summer Internship Program - Jakarta, Indonesia",
     "description": "An Internship opportinity at a global technology company behind the world\u2019s fastest payments processing network. The 2026 Marketing Summer Internship Program in Jakarta offers students hands-on, real-world experience within this fast-paced global organization, challenging interns to work on meaningful projects that develop professional skills while contributing to the company\u2019s goals.",
     "link": "https:\/\/careers.mastercard.com\/us\/en\/job\/R-270667\/Intern-Marketing-2026-Mastercard-Summer-Internship-Program-Jakarta-Indonesia",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "End at 6 March, 2026",
     "requirements": "1. Evidence of strong academics.\n2. Fluency in both English and Bahasa Indonesia (spoken and written).\n3. Currently enrolled in a bachelor's program with expected graduation date between December 2026 and July 2027\n4. Able to commit to an internship period from 6 July 2026 \u2013 28 August 2026 (Note: designated start\/end dates cannot be negotiated).\n5. Indonesian citizen or possess relevant full working rights to work and do not require visa sponsorship now or in the future",
     "scope": "International"
@@ -1344,7 +1344,7 @@
     "title": "International Olympiad in Artificial Intelligence (IOAI)",
     "description": "The International Olympiad in Artificial Intelligence (IOAI) is a global annual competition and emerging International Science Olympiad dedicated to artificial intelligence (AI), designed for top high school students selected through national contests to compete, collaborate, and exchange ideas. Focused on areas such as machine learning, natural language processing, and computer vision",
     "link": "https:\/\/ioai-official.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Early Bird: 1 December, 2025 - 31 January, 2026\nStandard Registration: 1 February, 2026 - 30 April, 2026\nLate Registration: 1 May, 2026 - 1 June, 2026",
     "requirements": "1. Contestants must be 20 years old or younger on 1 July of the IOAI year in which they are participating.\n2. Contestants must have been enrolled in full-time primary or secondary education on or after 1 December of the year prior to the IOAI.\n3. Home-schooled students must not have received a high school diploma (or equivalent) and must be actively working toward such a credential on 1 December of the year prior to the IOAI.\n4. Contestants should be selected based on performance in national-level competitions in artificial intelligence, informatics, mathematics, linguistics, or related fields.\n5. These qualifying competitions must be organized by the officially recognized national body (accredited organization).\n6. The competitions must be open to all residents of the country who are receiving their education there.",
     "scope": "International"
@@ -1354,7 +1354,7 @@
     "title": "Love Bonito - Marketing Intern (Influencer & Community - Indonesia)",
     "description": "The internship at Love, Bonito focuses on influencer outreach, KOL management, campaign coordination, and event support. Interns research partners, manage communications, track performance, and assist offline activations, gaining hands-on experience in fashion marketing within a fast-paced, collaborative environment.",
     "link": "https:\/\/apply.workable.com\/lovebonito\/j\/8ABFB0C7DE\/",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "No Specified Deadline",
     "requirements": "1. Available for 4-6 months internship program\n2. Open for final year students and fresh graduates! \n3. Previous internship in fashion\/ beauty\/ digital media\/ lifestyle brands related companies are preferred \n4. Reachable during working hours",
     "scope": "National"
@@ -1364,7 +1364,7 @@
     "title": "Love Bonito - Marketing Intern (Social - Indonesia)",
     "description": "The internship at Love, Bonito focuses on managing Instagram content for regional accounts, including daily Stories, weekly posts, UTM tracking, and Link in Bio updates. Interns support content creation, caption writing, community engagement, quality checks, and trend research while collaborating with design and social teams in a fast-paced, fashion-driven environment.",
     "link": "https:\/\/apply.workable.com\/lovebonito\/j\/EA7B6096B3\/",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "No Specified Deadline",
     "requirements": "1. Available for 4-6 months internship program\n2. Open for final year students and fresh graduates! \n3. Previous internship in fashion\/ beauty\/ digital media\/ lifestyle brands related companies are preferred \n4. Reachable & fast response during working hours ",
     "scope": "National"
@@ -1374,7 +1374,7 @@
     "title": "Lomba Karya Tulis Siswa Nasional",
     "description": "An Essay writing competition held by Department of History Education\n, Faculty of Social and Political Sciences,\nYogyakarta State University with the topic of Sustainable Development Goals (SDG's) where national students of indonesia can learn and immerse themselves in real worlds wide problems.",
     "link": "https:\/\/www.kabarlomba.com\/2026\/02\/lomba-karya-tulis-siswa-nasional-2026.html?utm_source=chatgpt.com",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "29 Januray, 2026 - 26 February, 2026",
     "requirements": "1. Active high school\/vocational school\/equivalent students from all over Indonesia, as evidenced by sending a scan of their student card.\n2. Each team must have 1 supervising teacher.",
     "scope": "National"
@@ -1384,7 +1384,7 @@
     "title": "Inforamtics Festival (IFEST) Mobile UI\/UX\nCompetition (MUC)",
     "description": "The Mobile UI\/UX Competition, A part of the IFEST, organized by HIMAFORKA UAJY, focuses on designing mobile app interfaces and user experiences. Under the theme \u201cBeyond Restriction Towards Greater Innovation,\u201d it invites students to create innovative, inclusive, and functional apps that assist children who are deaf or mute in communication and daily learning.",
     "link": "https:\/\/ifest14.my.id\/muc",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "9 February, 2026 - 28 February, 2026",
     "requirements": null,
     "scope": "National"
@@ -1394,7 +1394,7 @@
     "title": "Inforamtics Festival (IFEST) Web Development\nCompetition (WDC)",
     "description": "The Web Development Competition, A part of the IFEST, organized by HIMAFORKA UAJY, focuses on designing digital systems and website information architecture. With the theme \u201cEmpowering Students Through Innovative Productivity Tools,\u201d it challenges university students to create simple, functional, and innovative web solutions that enhance learning productivity.",
     "link": "https:\/\/ifest14.my.id\/wdc",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "22 February, 2026 - 7 March, 2026",
     "requirements": null,
     "scope": "National"
@@ -1404,7 +1404,7 @@
     "title": "Try our Sigam by KSE UNAIR and Pahamify",
     "description": "An online competition held by KSE UNAIR and Pahamify meant for high school students who are currently in a gap year and semi-gap year giving them a chance to be recommended a sholarship to the school of KSE UNARI.",
     "link": "https:\/\/www.instagram.com\/rumbelcendekia?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "16 January, 2026 - 4 March, 2026",
     "requirements": null,
     "scope": "National"
@@ -1414,7 +1414,7 @@
     "title": "GOTO Media Relations Intern",
     "description": "The internship in Media Relations involves supporting news monitoring, drafting press materials, coordinating media events, maintaining contact databases, and reporting coverage. Interns gain hands-on experience in corporate communications, media engagement, and storytelling within a dynamic, collaborative team environment.",
     "link": "https:\/\/jobs.lever.co\/GoToGroup\/73f4c41b-80bf-4a7f-842f-5b1be1ed7824",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "No Specified Deadline",
     "requirements": "1. Final-year student or a recent graduate with a Bachelor\u2019s degree in Communications, Media, International Relations, Journalism, or a related field.\n2. Excellent command of English, both written and spoken, with the ability to draft various communication materials (e.g., press releases, briefing documents, editorial summaries).\n3. Strong writing skills in both Bahasa Indonesia and English, particularly in journalistic style, will be a plus.\n4. Available for 6-month internship (Full Time)",
     "scope": "National"
@@ -1424,7 +1424,7 @@
     "title": "Marriott Intern, Area Human Resources, Indonesia",
     "description": "Interns will experience an innovative learning environment that will provide an opportunity to build skills and gain exposure in the exciting world of hospitality through meaningful projects, on-the-job training, coaching, and support. You\u2019ll gain hands-on experience in the exciting world of hotel operations and hospitality from a corporate view. You\u2019ll build skills to help prepare you to develop a career path.",
     "link": "https:\/\/careers.marriott.com\/intern-area-human-resources-indonesia\/job\/8BC28B98BD9A02F93A46FD16EE26BDDA",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "No Specified Deadline",
     "requirements": "1. Undergraduate in Human Resources, Business Management, or hospitality management preferred \n2. Indonesian.\n3. Eligible for undergraduate in an Indonesia registered university program.\n4. Prepared to commit to a six months\u2019 internship. ",
     "scope": "National"
@@ -1434,7 +1434,7 @@
     "title": "Astra Land Indonesia MA - Legal Intern",
     "description": "As a legal intern, able to enter legal document data into the control register, archive hardcopy legal documents according to their type and classification\nas well as numbering and labeling of legal hardcopy documents",
     "link": "https:\/\/astraproperty.co.id\/en\/career\/job-detail\/ma-legal-intern",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "No Specified Deadline",
     "requirements": "1. Final year student or Fresh Graduate in law fields.\n2. Willing to join the internship program for minimum 3 months (WFO)\n3. Have internship experience is a plus.\n4. Placement in Menara Astra.",
     "scope": "National"
@@ -1444,7 +1444,7 @@
     "title": "Astra Land Indonesia MA - IT Auditor Intern",
     "description": "Interns would be responsible for assisting in conducting Vulnerability Assessment & Penetration Testing (VAPT) on web applications, mobile applications, and servers, as well as supporting IT Audit activities and other IT Security Assessments.",
     "link": "https:\/\/astraproperty.co.id\/career\/job-detail\/ma-IT-Auditor-Intern",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "No Specified Deadline",
     "requirements": "1. Fast learner with strong analytical skills and a keen interest in IT Audit and Cybersecurity.\n2.  Basic understanding of cybersecurity concepts, IT infrastructure, and systems.\n3. Familiar with vulnerability concepts, CVE, and OWASP Top 10.\n4. Experience using security tools (e.g., Nmap, Burp Suite) is a plus.\n5.  Willing to join a 3-month internship program.",
     "scope": "National"
@@ -1454,7 +1454,7 @@
     "title": "Astra Land Indonesia Arumaya Residence - Resident Relation Intern",
     "description": "Interns would be responsible for updating resident and facility administration data, creating weekly and monthly reports, performing customer service work and operating the MAP application.",
     "link": "https:\/\/astraproperty.co.id\/career\/job-detail\/arumaya-residence-resident-relation-intern",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "No Specified Deadline",
     "requirements": "1. Proficiency in Ms. Word and Excel\n2. Good communication skills (verbal and written).\n3.  Able to work and coordinate with a team.\n4. Good command of English and Indonesian",
     "scope": "National"
@@ -1464,7 +1464,7 @@
     "title": "Queen's Commonwealth Writing Competition",
     "description": "Queen's Commonwealth Writing Competition stands as the oldest international competition aimed at individuals aged 18 years and under managed by the Royal Commonwealth society to build writing skills, address global issues in a creative manner, and to empower young voices.",
     "link": "https:\/\/www.royalcwsociety.org\/writing-competition",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "4 March, 2026-Mid To Late May 2026",
     "requirements": null,
     "scope": "International"
@@ -1474,7 +1474,7 @@
     "title": "Volunteer as a Judge for The Queen\u2019s Commonwealth Writing Competition",
     "description": "Queen's Commonwealth Writing Competition is looking for volunteer judges to rate thousands of students' essays internationally. Its goal is to engage individuals as much as they can into the competition as a way to champion the voices of the young competitors.",
     "link": "https:\/\/www.royalcwsociety.org\/post\/volunteer-as-a-judge-for-the-queens-commonwealth-writing-competition-2026",
-    "type": "Open Recruitment",
+    "type": ["Open Recruitment"],
     "deadline": "7 February, 2026-Mid To Late May, 2026",
     "requirements": "- Be over 19 years old, - Have an interest in writing and\/or literature\/ the Commonwealth and\/or international affairs, - Be available between May 2026 and June 2026 in order to read and judge approximately 100-150 entries up to 1000 words each, - have reliable access to an internet connection during this period as the judging process is electronic.\u202fWe also encourage that judges have access to a computer or laptop rather than phone to ensure full access to the judging platform.  ",
     "scope": "International"
@@ -1484,7 +1484,7 @@
     "title": "Young Leaders And Changemakers Summer Camp",
     "description": "A 5-day action-packed summary camp that provides interactive workshops, group projects and live learning journeys ranging from policy-making to problem-solving, and work alongside peers from across the globe. It takes place in Lee Kuan Yew School of Public Policy, NUS, Singapore.",
     "link": "https:\/\/lkyspp.nus.edu.sg\/executive-education\/programmes\/young-leaders-and-changemakers-summer-camp\/",
-    "type": "Summer Programme",
+    "type": ["Summer Programme"],
     "deadline": "Deadline: 1 June, 2026",
     "requirements": "Cost: SGD 3,625 (regular); SGD 2,900 (early-bird discount), Aged 16+, Post-secondary, high-school or tertiary-level students, Aspiring youth leaders and changemakers\ninterested in public policy, governance, or social\ninnovation.",
     "scope": "International"
@@ -1494,7 +1494,7 @@
     "title": "QS ImpACT Skills Challenge 2026",
     "description": "A global competition where teams design digital games that address real world problems tied to the UN SDG challenges. You can participate even if you\u2019re new to coding.",
     "link": "https:\/\/qsimpact.org\/skills-challenge-2026\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 10 March, 2026",
     "requirements": "Participants aged 18-35, team sizes 2-5",
     "scope": "International"
@@ -1504,7 +1504,7 @@
     "title": "World IP Day Youth Video Competition 2026",
     "description": "Organised by the World Intellectual Property Organization (WIPO), this competition invites young creators (18\u201335) to produce a 60\u201390 second video about how intellectual property (IP) supports innovation and creativity in sports",
     "link": "https:\/\/www.wipo.int\/en\/web\/ipday\/2026\/video-competition",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 15 March, 2026",
     "requirements": "Participants aged 18-35, Participants can join individual or up to teams of 10",
     "scope": "International"
@@ -1514,17 +1514,17 @@
     "title": "The Mott Million Dollar Challenge",
     "description": "A national 30-90 second pitch competition for K-12 students in the United States. Funded by the Charles Stewart Mott Foundation to celebrate its centennial, the challenge invites young innovators to share ideas that improve their schools, homes, or communities.",
     "link": "https:\/\/mottmillion.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 27 February, 2026",
     "requirements": "- You must live in the United States (50 States and Washington D.C.).\n- You can go to public school, private school, charter school, homeschool, online school, or attend an out-of-school program.\n- The children or wards of employees of the Mott Foundation, the Network for Teaching Entrepreneurship (NFTE), and other affiliates are not eligible to win this competition. \n- You can make a team of up to three (3) students.  All team members must be in the same grade-level group (K-4, 5-8, 9-12).",
-    "scope": "National  "
+    "scope": "National"
   },
   {
     "index": 6,
     "title": "International Astronomy and Astrophysics Competition (IAAC) 2026",
     "description": "An online science competition lets students explore astronomy, astrophysics, and maths through multiple rounds of problem solving. Participants get certificates and awards based on performance, and it\u2019s open to high school and college students worldwide.",
     "link": "https:\/\/iaac.space\/en\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 26 May 2026",
     "requirements": "Junior: 10th Grade and below (and < 16 years of age)\nYouth: 11th to 13th Grade (and < 19 years of age)\nSenior: 1st Year College\/University and higher (or \u2265 19 years of age)",
     "scope": "International"
@@ -1534,7 +1534,7 @@
     "title": "Global Futures Challenge Competition (Immerse Education)",
     "description": "A creative competition for students aged 14\u201318 where you submit a brief response (written, visual, or video) about your vision for the future and how your skills and goals could contribute to it. ",
     "link": "https:\/\/www.immerse.education\/global-futures-challenge-competition\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "2 June 2026-31 July, 2026",
     "requirements": "Age: You must be between 14 and 18 years old.\nNationality: The competition is open to students from any country and all school types.\nParticipation Type: You can enter individually or as part of a team of up to 4 members. ",
     "scope": "International"
@@ -1544,7 +1544,7 @@
     "title": "Bow Seat Ocean Awareness Contest 2026",
     "description": "The Bow Seat Ocean Awareness Contest is a premier annual competition for students aged 11\u201318 worldwide, designed to leverage art and creativity for ocean conservation. It encourages young people to explore, through various media, the human-driven impacts on the ocean, promoting environmental advocacy and activism. ",
     "link": "https:\/\/bowseat.org\/programs\/ocean-awareness-contest\/contest-overview\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 8 June 2026",
     "requirements": "Age: Must be between 11-18, Entries may be submitted by an individual or group of unlimited size",
     "scope": "International"
@@ -1554,7 +1554,7 @@
     "title": "American Prot\u00e9g\u00e9 International Music Talent Competition 2026",
     "description": "The\u00a0American Prot\u00e9g\u00e9 International Music Talent Competition\u00a0is\u00a0a worldwide competition for musicians of all ages and nationalities, focusing on genres like piano, strings, voice, and winds. It is designed to boost careers by offering winners a performance opportunity at the\u00a0Weill Recital Hall at Carnegie Hall.\u00a0",
     "link": "https:\/\/americanprotege.com\/talent\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 31 April, 2026",
     "requirements": "Applicants must submit an online application, a biography (max 150 words), a portrait photo, and pay an application fee. ",
     "scope": "International"
@@ -1564,7 +1564,7 @@
     "title": "Open Letters: The New York Times Opinion-Writing Contest ",
     "description": "The New York Times Open Letter Contest is an annual opinion-writing competition for students (typically aged 13-19) to write a 500-word persuasive letter of protest or appeal to a specific, influential person or group. ",
     "link": "https:\/\/www.nytimes.com\/2026\/01\/22\/learning\/open-letters-our-opinion-writing-contest.html",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "25 Feb, 2026-8 April, 2026",
     "requirements": "\u2022 Your piece must be, in total, 500 words or fewer, not including the title.\n\u2022 You must be a student ages 13 to 19 in middle school or high school to participate. \n\u2022 You may work alone or in groups, but students should submit only one entry each.",
     "scope": "International"
@@ -1574,7 +1574,7 @@
     "title": "My List: A Different Kind of Review Contest",
     "description": "The New York Times \"My List\" Review Contest is a, curated, multimedia contest where students (ages 13\u201319) curate 3-5 works of art\/culture based on a theme and explain why others should check them out. ",
     "link": "https:\/\/www.nytimes.com\/2025\/11\/19\/learning\/my-list-a-different-kind-of-review-contest.html",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "14 January, 2026-25 February, 2026",
     "requirements": "\u2022 You must be a student ages 13 to 19 in middle school or high school to participate. \n\u2022 Your piece must be, in total, 600 words or fewer, not including the title.\n\u2022 Your collection should only cover works that fit into the following categories of creative expression that The New York Times reviews. ",
     "scope": "International"
@@ -1584,7 +1584,7 @@
     "title": "Audio Stories: The New York Times Podcast Contest",
     "description": "The\u00a0New York Times Student Podcast Contest\u00a0invites students aged 13\u201319 worldwide to submit original audio stories (maximum 5 minutes) on any topic.",
     "link": "https:\/\/www.nytimes.com\/2024\/08\/08\/learning\/our-student-podcast-contest.html",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "8 April, 2026-13 May, 2026",
     "requirements": "You must be a student ages 13 to 19 in middle school or high school to participate, be sure to use non-copyrighted sound effects or music, with some exceptions, and your piece should be no longer than five minutes. ",
     "scope": "International"
@@ -1594,7 +1594,7 @@
     "title": "Voice and Choice: The New York Times Summer Reading Contest",
     "description": "A weekly contest running over the summer in which students respond to journalism from The New York Times through short written reflections or brief videos. Best for students who enjoy reading, current events, and ongoing low-stakes writing practice.",
     "link": "https:\/\/www.nytimes.com\/2025\/03\/10\/learning\/our-16th-annual-summer-reading-contest.html#link-5ba013c5",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "5 June, 2025-14 August, 2026",
     "requirements": "Any teenager 13 to 19 years old anywhere in the world is invited to join, ",
     "scope": "International"
@@ -1604,7 +1604,7 @@
     "title": "The New York Times Conversation Challenge For Weekly Current Events",
     "description": "This challenge invites students to react to the news via our\u00a0daily writing prompts, and each week. They publish a selection of their comments in\u00a0a roundup for the world to read.\u00a0",
     "link": "https:\/\/www.nytimes.com\/column\/current-events-conversation",
-    "type": "Weekly Interactive Feature ",
+    "type": ["Weekly Interactive Feature"],
     "deadline": "All-Year Round",
     "requirements": null,
     "scope": "International"
@@ -1614,7 +1614,7 @@
     "title": "BBC Young Writers' Award 2026",
     "description": "BBC Young Writers' Award with Cambridge University\u00a0challenges young people in the UK aged between 14-18 years to submit stories of up to 1,000 words.\u00a0",
     "link": "https:\/\/www.bbc.co.uk\/programmes\/articles\/2cslf9QxZKznVCqplBS0SY0\/submissions-now-open-for-the-2026-bbc-young-writers-award",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 23 March, 2026",
     "requirements": "Aged 14-18 and living in the UK. ",
     "scope": "National"
@@ -1624,7 +1624,7 @@
     "title": "Chinese Government Scholarships",
     "description": "The 2026\/2027 Chinese Government Scholarship (CGS\/CSC), administered by the China Scholarship Council, is a fully funded program for international students (Bachelor's, Master's, PhD) covering tuition, accommodation, stipend (CNY 2,500\u20133,500\/month), and medical insurance",
     "link": "https:\/\/id.china-embassy.gov.cn\/eng\/sgdt\/202510\/t20251027_11741674.htm",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "December 31, 2025, and February 15, 2026",
     "requirements": "- be a citizen of a country other than the People\u2019s Republic of China, and be in good health both mentally\u2002and physically;\n- be a high school graduate under the age of 25 when applying for undergraduate programs;\n- be a bachelor\u2019s degree holder under the age of 35 when applying for master\u2019s programs;\n- be a master\u2019s degree holder under the age of 40 when applying for doctoral programs;\n- be a high school graduate (at least) under the age of 45 when applying for general scholar programs;\n- be a master\u2019s degree holder or an associate professor (or above) under the age of 50 when applying for senior scholar programs;\n-\u2002take the \"China Scholastic Competency Assessment (short as CSCA)\" and upload a valid score report\u2002(Appendix 4) when\u2002applying\u2002for bachelor programs.\u2002CSCA score report\u2002will be one of the necessary materials for admission review by universities. For more information about CSCA, please visit www.csca.cn;\n- have acquired the Chinese proficiency of HSK Level 3 when applying for Chinese-taught general scholar programs (studying Chinese language are exempted);\n- have acquired the Chinese proficiency of HSK Level 3 when applying for Chinese-taught senior scholar programs;\n- have acquired the Chinese proficiency of HSK Level 4 when applying for Chinese-taught master\u2019s or doctoral programs;\n- applicants who have obtained the degree from Chinese university using Chinese as teaching language do not need to provide relevant language proficiency certificates\uff1b\n- meet the admission requirements of the applied universities in terms of academic ability, language proficiency and other relevant criterial.",
     "scope": "International"
@@ -1634,7 +1634,7 @@
     "title": "Young Leaders Program 2026 in Canada",
     "description": "This is a prestigious, fully-funded one-year initiative by the Asia Pacific Foundation of Canada. It aims to deepen connections between Canada and the Indo-Pacific through virtual seminars, networking, and a one-week in-person learning tour in Canada. ",
     "link": "https:\/\/scholarshipunion.com\/young-leaders-program-2026-in-canada\/",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "May 2026 or June 2026",
     "requirements": "Hold citizenship or permanent residency in an Indo-Pacific country\/jurisdiction.\nEducation: An undergraduate degree (minimum) in a relevant field (e.g., Political Science, Public Policy, International Relations, Law, Economics, Sociology, History, Geography, Asian Studies, etc.).\nCurrent graduate students are also eligible.\nExperience: At least 5 years of relevant experience in one of the following sectors:\nGovernment\nInternational or regional organizations\nThink-tanks\nMedia outlets\nBusiness\nAcademia\nStrong understanding, experience, and interest in:\nPolitics\nEconomics\nSociety\nDiplomacy\nInternational Relations\nSecurity\nHistory\nEnvironmental Issues\nThe program is especially interested in early- to mid-career professionals.",
     "scope": "International"
@@ -1644,7 +1644,7 @@
     "title": "China University of Petroleum CSC Scholarship 2026",
     "description": "This is now open for international applicants who aspire to pursue Undergraduate, Master\u2019s, or PhD programs in China. This fully funded scholarship provides opportunities for students to gain world-class education and advanced research experience at one of China\u2019s top universities. ",
     "link": "https:\/\/scholarshipunion.com\/china-university-of-petroleum-csc-scholarship-2026-in-china\/",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 1 March 2026",
     "requirements": "Applicants who are under 25 years old and have completed high school.\nMaster\u2019s candidates: those under 35 with a bachelor\u2019s degree.\nDoctoral candidates: Those under 40 with a master\u2019s degree.\nLanguage prerequisites:\nDepending on the program level, Chinese-taught programs require HSK 4 or 5.\nIELTS 6.5, TOEFL 80, or documentation of English-medium training are prerequisites for English-taught programs.\nOnly residents of the Belt and Road nations are eligible for the Silk Road Program.\nThe particular prerequisites of each program must be fulfilled at the time of application.",
     "scope": "International"
@@ -1654,7 +1654,7 @@
     "title": "Beijing Normal University CSC Scholarship 2026 in China",
     "description": "This scholarship is an exceptional opportunity for international students aiming to pursue graduate studies in China. This fully funded scholarship is designed to support outstanding students by covering tuition fees, living expenses, travel costs, and comprehensive health insurance.",
     "link": "https:\/\/admission-is.bnu.edu.cn\/english\/international\/index.html",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 31 March, 2026",
     "requirements": "Not be receiving any other scholarships established by the Chinese government or social organizations.\nMeet the degree and age requirements:\nUndergraduate programs: must be a high school graduate and under 25 years old at the time of application.\nMaster\u2019s programs: must hold a bachelor\u2019s degree and be under 35 years old.\nDoctoral programs: must hold a master\u2019s degree and be under 40 years old.",
     "scope": "International"
@@ -1664,7 +1664,7 @@
     "title": "Wuhan University CSC Scholarships 2026",
     "description": "This is now open for international students who wish to pursue fully funded higher education in China. This prestigious scholarship allows students from all over the world to study at Wuhan University without tuition fees. ",
     "link": "https:\/\/admission.whu.edu.cn\/info\/1251\/5452.htm",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 25 February, 2026",
     "requirements": "Foreign citizenship, and in good health.\nApplicants who apply for a Master\u2019s degree should be under 35 years old and have a Bachelor\u2019s degree.\nApplicants who apply for a doctoral degree should be under 40 years old and have a Master\u2019s degree.\nApplicants of Chinese-medium programs should have at least HSK level four certificate (Chinese Proficiency Test)\nApplicants of English-medium programs should provide a score report of English Language test, TOEFL requires 80, IELTS requires 5.5 (You can apply without IELTS\/TOEFL if you can take English Proficiency Certificate from your last attending Institution).",
     "scope": "International"
@@ -1674,7 +1674,7 @@
     "title": "Sichuan University Chinese Government Scholarship 2026",
     "description": "This is for international students who want to pursue higher education. This fully funded program, offered under the CGS Type B \u2013 Chinese University Program, covers tuition fees, on-campus accommodation, a monthly living allowance, and comprehensive medical insurance for selected candidates.",
     "link": "https:\/\/global.scu.edu.cn\/oso\/article\/details\/ffb69423-aba9-4731-a263-b37f66604a29",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 26 February 2026",
     "requirements": "Must be a citizen of a country other than the People\u2019s Republic of China.\nAge limits:\nMaster\u2019s applicants: under 35 years old\nPhD applicants: under 40 years old\nAcademic qualifications:\nMaster\u2019s: Bachelor\u2019s degree\nPhD: Master\u2019s degree\nHealth: \nGood physical and mental health (Foreigner Physical Examination Form required)\nLanguage proficiency:\nChinese-taught programs: HSK Level\u202f4 (Science, Engineering, Medicine, Agriculture) or HSK Level\u202f5 (Liberal Arts, Management, Law, Arts)\nEnglish-taught programs: TOEFL iBT \u226580 or IELTS \u22656 (non-native English speakers)\nMust meet SCU departmental and university admission requirements.",
     "scope": "International"
@@ -1684,7 +1684,7 @@
     "title": "Youth of Excellence Scheme Scholarship 2026",
     "description": "The Youth of Excellence Scheme Scholarship 2026 is a prestigious initiative by the Chinese Government, designed to attract talented international students eager to pursue advanced studies in China.",
     "link": "https:\/\/fm.china-embassy.gov.cn\/eng\/zmgx\/202412\/t20241224_11517035.htm",
-    "type": "Scholarship",
+    "type": ["Scholarship"],
     "deadline": "Deadline: 31 March, 2026",
     "requirements": "Be a citizen of a country other than the People\u2019s Republic of China and be under the age of 45, in good health both mentally and physically.\nHave a bachelor\u2019s degree or higher, with at least three years of work experience. Applicants with professional training or work experience related to the proposed program will be given preference.\nFall into one of the following four categories:\nA government official at the division chief level (or equivalent) or above\nA senior manager of an institution or enterprise\nAn administrator of a university or scientific research institution\nAn individual with relevant employment or internship experience in international organizations.\nEnsure that the pre-admission letter provided by the university includes all necessary registration details\u2014such as personal information, admission date, and major information\u2014and does not contain any mention of having received or being promised a Chinese Government Scholarship.",
     "scope": "International"
@@ -1694,7 +1694,7 @@
     "title": "OIST Research Internship 2026",
     "description": "The OIST Research Internship 2026 is a prestigious, fully funded 3\u20136 month program in Japan at the Okinawa Institute of Science and Technology, designed for STEM undergraduate\/master's students and recent graduates.",
     "link": "https:\/\/www.oist.jp\/admissions\/research-internship\/apply-research-internship",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "Deadline: 15 April, 2026",
     "requirements": "Those who are currently enrolled in their last two years of a bachelor's degree, enrolled in any year of a master's degree in universities, colleges, junior colleges, and vocational schools in Japan or overseas, or those who have graduated with a bachelor's or master's degree, are eligible to apply for the Research Internship at OIST.\n\nCurrently enrolled students must have approval from their home institution. The academic background of applicants should be appropriate to their desired host unit(s) at OIST.\n\nOur Research Internship is intended for those who need more research experience and who are interested in joining OIST's PhD Program later. Current or graduated PhD students who wish to collaborate with OIST should look for other opportunities such as Workshops or Careers at OIST.\n\nResearch Interns who belong to a Japanese university\/institution are required to prepare and bring their own insurances when accepted to the OIST Research Internship Program. Acceptable insurances are the combination of Gakkensai and Gakkenbai, or other insurances with similar coverage.",
     "scope": "International"
@@ -1704,7 +1704,7 @@
     "title": "UNICEF Internship Programme",
     "description": "The UNICEF Internship Programme offers undergraduate, graduate, and recent graduates (within two years) hands-on, paid, 6\u201326 week opportunities to work in UNICEF offices globally",
     "link": "https:\/\/www.unicef.org\/careers\/internships",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "Deadline: All-Year Round",
     "requirements": "\u2022 At least 18 years old.\n\u2022 Enrolled in an undergraduate, graduate or PhD programme, or have graduated within the past two years.\n\u2022 Proficient in at least one of UNICEF's working languages: English, French or Spanish. Fluency in the working language of the office you are applying to, may also be required.\n\u2022 Have no immediate relatives (e.g., mother, father, sister, brother) working with UNICEF, or any other relatives in your reporting line of authority.\n\u2022 Have strong academic performance and motivation\n\u2022 Additional consideration will be given to any professional experience relevant to the function you\u2019re applying for.",
     "scope": "International"
@@ -1714,27 +1714,27 @@
     "title": "Google Student Researcher, 2026 Program",
     "description": "The Google Student Researcher, 2026 program is a paid,, flexible, research-focused opportunity for Bachelor's, Master's, and PhD students to collaborate with teams like Google DeepMind and Google Research",
     "link": "https:\/\/www.google.com\/about\/careers\/applications\/jobs\/results\/100753339674698438-student-researcher-2026?distance=50&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=TEMPORARY&employment_type=PART_TIME&employment_type=INTERN&company=GFiber&company=Verily%20Life%20Sciences&company=Wing&company=Waymo&company=DeepMind&company=Fitbit&company=Google&company=YouTube",
-    "type": "Internship\/Apprenticeship",
+    "type": ["Internship"],
     "deadline": "Deadline: 31 March, 2026",
     "requirements": "Minimum qualifications:\nCurrently enrolled in Bachelor's, Master's, or PhD degree program in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences.\nExperience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas).\n\nPreferred qualifications:\nCurrently enrolled in a full-time degree program and returning to the program after completion of the internship.\nExperience contributing research communities or efforts, including publishing papers in major conferences or journals.\nExperience with one or more general purpose programming languages (e.g., Python, Java, JavaScript, C\/C++, etc.).",
-    "scope": "Bengaluru, Karnataka, India"
+    "scope": "India"
   },
   {
     "index": 26,
     "title": "Digital Business Apprenticeship (October 2026 Start)",
     "description": "The Digital Business Apprenticeship (October 2026 Start) at Google is a 15-to-24-month paid program in London (UK) designed for early-career professionals. It combines on-the-job training in Sales, Marketing, or Partnerships with academic study",
     "link": "https:\/\/www.google.com\/about\/careers\/applications\/jobs\/results\/126782139373888198-digital-business-apprenticeship-october-2026-start?distance=50&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=TEMPORARY&employment_type=PART_TIME&employment_type=INTERN&company=GFiber&company=Verily%20Life%20Sciences&company=Wing&company=Waymo&company=DeepMind&company=Fitbit&company=Google&company=YouTube",
-    "type": "Apprenticeship",
+    "type": ["Apprenticeship"],
     "deadline": "Deadline: Before 10 March, 2026",
     "requirements": "Minimum qualifications:\nA pass at Level 2 for Maths and English.\nAbility to communicate in English fluently to communicate with colleagues.\n\nPreferred qualifications:\nAbility to work independently and within a team framework.\nWillingness to navigate ambiguous tasks, find suitable solutions and seek help\/advice where appropriate.\nAnalytical mindset and comfortable with working with data to deliver insights and support outstanding creative execution\nEnthusiasm and passion for measurement and new technologies, demonstrated through personal projects and interest in learning new skills.\nEffective communication and organizational skills, proactive, self-motivated, positive attitude, and excellent customer service capabilities.\nStrong project management skills.",
-    "scope": "London, UK"
+    "scope": "United Kingdoms"
   },
   {
     "index": 27,
     "title": "MIT Lincoln Laboratory Summer Research Program",
     "description": "The MIT Lincoln Laboratory Summer Research Program is a competitive, paid, 10-12 week internship (mid-May to mid-August) for undergraduate and graduate students, offering hands-on R&D in national security, engineering, and science, typically at their Lexington, MA site. ",
     "link": "https:\/\/www.ll.mit.edu\/careers\/student-opportunities\/summer-research-program",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "Deadline: 11 March, 2026",
     "requirements": "To be eligible for the Summer Research Program, students must have at least completed their sophomore year of college or be enrolled in a master's or doctoral program.  In addition, students must have maintained an excellent academic record and be a U.S. citizen.",
     "scope": "US"
@@ -1744,7 +1744,7 @@
     "title": "OECD Internship Programme ",
     "description": "The OECD Internship Programme offers motivated students from diverse backgrounds a chance to support evidence-based policy work at the Organisation for Economic Co-operation and Development",
     "link": "https:\/\/www.oecd.org\/en\/about\/careers\/internships.html",
-    "type": "Internship",
+    "type": ["Internship"],
     "deadline": "Deadline: 28 February, 2026",
     "requirements": "Are enrolled in a full-time degree programme* for the duration of the internship in a field or discipline related to the work of the OECD\nAre available for a minimum internship duration of one month\nHave an excellent command of one of the two official languages of the OECD (English and French) and a working knowledge of, or willingness to learn, the other. Knowledge of other languages could be an advantage\nHave good quantitative and IT skills\nHave good drafting and communication skills\nThrive in a multicultural and international team environment.",
     "scope": "International"
@@ -1754,7 +1754,7 @@
     "title": "International Economics Olympiad",
     "description": "The International Economics Olympiad (IEO) is an annual global competition for high school students designed to foster creative problem-solving in economics, business, and finance. Founded in 2018, it aims to identify and encourage young talent in these fields.",
     "link": "https:\/\/2026.ieo-official.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline For Official Team Applications: 30 April, 2026",
     "requirements": "Age Limit: Contestants must have been born after June 30, 2006 (meaning they must be under 20 years old on June 30, 2026).\nEducational Status: As of December 1, 2025, students must have been working toward receiving a high school (secondary school) diploma or an equivalent degree.\nAcademic Level: The competition is designed for students at ISCED Level 3 (typically senior high school). Students who have already started tertiary-level (university) studies are ineligible.\nResidency\/Citizenship: Contestants must be citizens or residents of the country they represent. International students attending school in a participating country on a student visa or residency permit are also eligible to join that country's team.",
     "scope": "International"
@@ -1764,7 +1764,7 @@
     "title": "International Young Physicists' Tournament",
     "description": "This is a prestigious annual team-based scientific competition for secondary school students. Teams research 17 open-ended, complex physics problems over several months, presenting and defending their solutions against opponents in structured \"Physics Fights\" evaluated by international experts. ",
     "link": "https:\/\/www.iypt.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 28 February, 2026",
     "requirements": "Student Status: Participants must be secondary school students or have graduated in the same calendar year as the tournament.\nTeam Size: Teams consist of 3 to 5 students.\nCitizenship\/Residence: Members must be citizens of the country they represent or be enrolled in a school in that country.\nTeam Leader: Each team must have a team leader (often a teacher or mentor).\nApplication Process: Teams usually qualify through national tournaments (e.g., CaYPT in Canada, USAYPT in the USA).\nLanguage: The competition is held in English.\nExperience: Teams generally cannot change their composition during the tournament. ",
     "scope": "International"
@@ -1774,7 +1774,7 @@
     "title": "International Greenwich Olympiad",
     "description": "This is a prestigious global project-based competition for students aged 10\u201319, hosted by North London Grammar School in London. It challenges young minds to innovate solutions for global issues, particularly in sustainability, engineering, and science, aligned with UN SDGs.",
     "link": "https:\/\/igolondon.co.uk\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 1 March, 2026",
     "requirements": "Secondary school students who are aged between 13 and 18 years old. Students are welcome to participate as individuals or in team of maximum three, not necessarily from the same school.",
     "scope": "International"
@@ -1784,7 +1784,7 @@
     "title": "World Maths Day 2026",
     "description": "This is a global, 24-hour online competition occurring on March 25, 2026, where students aged 4-18 compete in live, 60-second math games. It challenges learners to solve mental arithmetic problems against others worldwide. The 2026 theme is \"United by Numbers\". ",
     "link": "https:\/\/www.3plearning.com\/world-maths-day\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 25 March, 2026",
     "requirements": "Open to students aged 5 to 18.",
     "scope": "International"
@@ -1794,7 +1794,7 @@
     "title": "World Scholar's Cup",
     "description": "The World Scholar's Cup (WSC) is a premier international academic program and competition for students, bringing together over 50,000 participants from 60+ countries annually.",
     "link": "https:\/\/www.scholarscup.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadlines are approaching quickly, with some, such as the one mentioned for early 2026, closing on March 1, 2026.",
     "requirements": "Divisions:\nSkittles (Junior): Ages 8\u201312.\nJunior Division: Typically ages 11\u201313 (born on or after Jan 1, 2012, for 2026).\nSenior Division: Ages 14+ (born before Jan 1, 2012, for 2026).\nAcademic Level: Students up to their final year of pre-university schooling (high school, A-levels, IB).\nTeam Structure: Teams of 3 (preferred) or 2 members.\nIndependent Participants: Students can register independently or as part of a school team.\nLanguage: Competitions are conducted in English. ",
     "scope": "International"
@@ -1804,7 +1804,7 @@
     "title": "Science Without Borders Art Challenge",
     "description": "The Science Without Borders\u00ae Challenge is an annual international art contest run by the Khaled bin Sultan Living Oceans Foundation that engages students aged 11\u201319 in marine science and ocean conservation.",
     "link": "https:\/\/www.livingoceansfoundation.org\/science-without-borders-challenge\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 2 March, 2026",
     "requirements": "All students ages 11-19 who are enrolled in primary or secondary school, or the home school equivalent anywhere in the world may enter the Science Without Borders\u00ae Challenge. Students age 10 may participate as long as they turn 11 by March 2, 2026. College and university students are not eligible for this contest. Proof of age, identity, and\/or eligibility may be required.\nAll artwork must be an original work by the contestant and shall not infringe on any copyrights or any other rights of any third parties. Do not copy an idea from a past participants\u2019 work. Do not draw a character from a cartoon or movie. See the tips for success and grading rubric for more information on what the judges are (and are not) looking for.\nDo not submit artwork to the Science Without Borders\u00ae Challenge that you have entered into another art competition or a previous Science Without Borders\u00ae Challenge.",
     "scope": "International"
@@ -1814,7 +1814,7 @@
     "title": "Nami Island International Picture Book Illustration Concours",
     "description": "The Nami Island International Picture Book Illustration Concours (Nami Concours) is a major biennial international competition held in South Korea since 2013, aimed at encouraging creativity and enhancing the quality of children's book illustrations.",
     "link": "https:\/\/graphiccompetitions.com\/illustration\/nami-concours-2026",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: Expected Autumn 2026",
     "requirements": null,
     "scope": "International"
@@ -1824,7 +1824,7 @@
     "title": "Earth Partner Prize",
     "description": "The Earth Partner Prize (formerly #CreateCOP) is an annual international art competition for creatives aged 14\u201330, designed to accelerate climate action through culture",
     "link": "https:\/\/earthpartner.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 28 February, 2026",
     "requirements": "Artists, creatives, and photographers aged 14\u201330.",
     "scope": "International"
@@ -1834,7 +1834,7 @@
     "title": "International Thespian Festival ",
     "description": "The International Thespian Festival (ITF) is a premier annual, week-long event for student members of the Educational Theatre Association (EdTA), celebrating middle and high school theater through performances, workshops, and college auditions.",
     "link": "https:\/\/itf.schooltheatre.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: Standard Registration: 4 February, 2026-30 April, 2026 and Late Registration: 1 May, 2026-13 May, 2026",
     "requirements": "Participants: Students in grades 6-12.\nAdult Leaders\/Chaperones: Must be at least 21 years old.\nChaperone Requirement: All students must be chaperoned for the entire week, with gender-specific supervision (female students with a female chaperone, male students with a male chaperone) recommended.\nRegistration Process: Opens in early February (e.g., Feb 4, 2026), with options for individual or troupe registration.\nSafety: Background checks are required for all attendees aged 18+.\nCollege Auditions (Optional): Limited to inducted Thespians graduating in 2027 (rising seniors).\nNon-Affiliated Students: Students not in an active troupe may attend but must still be accompanied by an registered adult chaperone. ",
     "scope": "National"
@@ -1844,7 +1844,7 @@
     "title": "Golden Classical Music Awards",
     "description": "The Golden Classical Music Awards (GCMA) is an international competition designed to discover young musicians across strings, piano, wind, and vocal disciplines and launch their careers with opportunities like a performance at Carnegie Hall's Weill Recital Hall in New York.",
     "link": "https:\/\/www.goldenclassicalmusicawards.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 22 June, 2026",
     "requirements": "Disciplines: Piano, Strings (Violin, Viola, Cello, Double Bass, Guitar), Woodwinds (Flute, Oboe, Clarinet, Bassoon, Saxophone, Recorder), Brass (French Horn, Trumpet, Trombone, Tuba), and Vocal (Female\/Male).\nEnsembles: Piano duo, piano four-hands, and mixed chamber ensembles.\nAge Categories: Open to all ages, generally divided into groups such as Young Musician (under 12), Junior (13-18), and Senior (18+).\nRepertoire: One, two, or three pieces from Baroque, Classical, Romantic, or Contemporary periods.\nSubmission Material: Video or audio recordings must be submitted; they should represent the contestant's abilities but do not need professional-quality production.\nApplication: A completed online application form and payment of the non-refundable fee are required. ",
     "scope": "International"
@@ -1854,7 +1854,7 @@
     "title": "All American High School Film Festival",
     "description": "It's the world's largest, premier film festival for high school students. It provides a major platform for young filmmakers to screen their work, network with industry professionals, attend workshops, and win over $3.5 million in scholarships and prizes. ",
     "link": "https:\/\/www.hsfilmfest.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Free Submission Deadline: 2 March, 2026, Regular Submission Deadline: 27 April, 2026, Late Submission Deadline: 25 May, 2026, Final Deadline: 3 July, 2026",
     "requirements": "Target Demographic: Current high school students or those who graduated in the same year as the festival.\nOriginality: Films must be created by the student(s).\nTechnical Specs: Minimum 1080p resolution, submitted in .mp4 or .mov format.\nContent Restrictions: No copyrighted music\/images (must use licensed or original).\nRuntime: Varies by category, generally up to 40 minutes for shorts, 90 minutes for features.\nSubmission Platform: Typically through FilmFreeway.\nDeadlines: Early bird (typically March), Regular (July), and Late (August).\nAwards: Attendance is not required to win, but encouraged. ",
     "scope": "International"
@@ -1864,7 +1864,7 @@
     "title": "International Biology Olympiad (IBO)",
     "description": "It's the premier annual worldwide biology competition for top-performing pre-university students. It challenges gifted students through rigorous theoretical and practical exams, fostering talent in life sciences, promoting scientific careers, and facilitating international networking among young biologists from over 75 countries. ",
     "link": "https:\/\/www.ibo-info.org\/en\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 25 May, 2026",
     "requirements": "National Selection: You must win your country's official National Biology Olympiad (NBO). The IBO does not allow independent, direct registration.\nAge Limit: Candidates must be under 20 years old as of July 1 of the competition year.\nEducation Level: You must be a student in a regular secondary school (general education) and not have started full-time university\/college studies.\nParticipation Limit: A student may participate in the IBO a maximum of two times.\nCitizenship\/Residence: You must represent your country of citizenship or long-term residence.\nTraining Restriction: Participants cannot have received specific IBO training in a group of 50 or fewer students for more than two weeks. ",
     "scope": "International"
@@ -1874,7 +1874,7 @@
     "title": "International Chemistry Olympiad (IChO)",
     "description": "The International Chemistry Olympiad (IChO) is a premier annual academic competition for secondary school students, bringing together the world's most talented young minds in chemistry.",
     "link": "https:\/\/www.icho2026.uz\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "General Deadline: 28 February, 2026",
     "requirements": "Age: Under 20 years old on July 1 of the competition year.\nEducation: Secondary school students or recent graduates not yet in university.\nSelection: Must be chosen through their country\u2019s National Chemistry Olympiad.\nNationality: Participants must be citizens or passport holders of the country they represent.\nTeam Size: Each country sends a team of up to 4 students.\nPrevious Winners: Gold medal winners from previous IChO competitions are generally not eligible to compete again. ",
     "scope": "International"
@@ -1884,7 +1884,7 @@
     "title": "MUN Paris 2026",
     "description": "A major MUN conference held in Paris, France, from March 24\u201326, 2026, as part of the MUN EUROPE network---inviting high schools and universities to debate global issues, develop diplomatic skills, and simulate UN procedures in English or French. ",
     "link": "https:\/\/www.mun-france.fr\/en\/mun-paris-france\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 10 March, 2026",
     "requirements": "Target Audience: Students from high schools and colleges\/universities.\nExperience Level: Open to both beginners and experienced delegates.\nRequirements:\nSubmission of a position paper (deadline typically around Oct 2025 for a spring 2026 event).\nVisa for travel (if applicable).\nLanguage: The simulation is conducted in English.\nLocation: Paris, France (venue often at hotels like H\u00f4tel Mercure Paris Centre Tour Eiffel). ",
     "scope": "International"
@@ -1894,7 +1894,7 @@
     "title": "WIMUN Singapore 2026",
     "description": "WIMUN Singapore 2026 is the Southeast Asian edition of the WFUNA International Model United Nations (WIMUN) conference, widely recognized as the world's most accurate simulation of the United Nations",
     "link": "https:\/\/wfuna.org\/program\/wimun-singapore-2026\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Early Registration: February 28, 2026\nPriority Registration: May 31, 2026\nRegular Registration: June 30, 2026 ",
     "requirements": "Target Audience: Students (High School, University, Grad School) and young professionals aged 14\u201330.\nExperience Level: Open to beginners and experienced MUN participants, though familiarity with the WIMUN Approach is helpful.\nGeography: Open to participants from North America, Europe, Asia, South America, Africa, and Oceania.\nRequirements: High school students must have a chaperone. Individuals or groups can register.\nRegistration Deadline: Early bird deadline is Feb 28, 2026, and priority deadline is May 31, 2026.\nVenue: Suntec Convention Centre, Singapore.\nCost: Delegate fees are $289, with no scholarships offered by WFUNA. ",
     "scope": "International"
@@ -1904,7 +1904,7 @@
     "title": "John Peters Humphrey MUN 2026",
     "description": "It's a 3-day, in-person educational conference for high school students, held at St. Thomas University in Fredericton, NB from May 1\u20133, 2026. It simulates UN proceedings to teach diplomacy, research, and public speaking. ",
     "link": "https:\/\/jphmun.wordpress.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Early Bird Deadline: February 24, 2026.\nFinal Registration Deadline: March 24, 2026",
     "requirements": "Generally open to high school and university students interested in debating international affairs.",
     "scope": "International"
@@ -1914,7 +1914,7 @@
     "title": "Regeneron International Science and Engineering Fair",
     "description": "The Regeneron International Science and Engineering Fair (ISEF) is the world's largest pre-college STEM competition, held annually in the U.S. and managed by the Society for Science.",
     "link": "https:\/\/www.societyforscience.org\/isef\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Mid-February 2026: Registration opens for all approved affiliated fairs.\nBy February 9, 2026: Official Party Registration becomes available online.\nWithin 12 Days of Fair: Finalist Questionnaire and Official Party Registration must be submitted after your local\/regional fair.\nApril 13, 2026: Last day to hold an affiliated fair.\nApril 30, 2026: Deadline for registration fee checks\/transfers to be postmarked. ",
     "requirements": "Grade Level: Students must be in grades 9\u201312 or equivalent.\nAge: Students must not have reached age 20 on or before May 1st of the competition year.\nQualification: Students must compete in and win the right to attend from a Society for Science-affiliated fair.\nProject Scope: Projects can be individual or team-based (maximum 3 members).\nResearch Duration: Projects can include a maximum of 12 months of continuous research, and must not include research performed more than 18 months before the competition.\nCategories: The project must fit into one of the 22 ISEF categories. ",
     "scope": "International"
@@ -1924,7 +1924,7 @@
     "title": "Breakthrough Junior Challenge",
     "description": "The Breakthrough Junior Challenge is a global, annual science video competition for students aged 13\u201318 to explain complex concepts in life sciences, physics, or math via a < 2-minute video",
     "link": "\nhttps:\/\/breakthroughjuniorchallenge.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Typically April, 2026-15 September, 2026",
     "requirements": "Age: Must be at least 13 years old by May 1, 2025, and not older than 18 (not yet 19) on October 1, 2025.\nLocation: Open globally, provided the applicant does not reside in a country subject to U.S. sanctions.\nLanguage: Submissions must be in English.",
     "scope": "International"
@@ -1934,7 +1934,7 @@
     "title": "Adobe Certified Professional World Championship",
     "description": "Certiport's Adobe Certified Professional World Championship, formerly known as Adobe Certified Associate (ACA) World Championship, is a global competition that tests students' design skills using Adobe Photoshop, Illustrator, and InDesign",
     "link": "https:\/\/acpchampionship.certiport.com\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Deadline: 1 May, 2026",
     "requirements": "Student Status: Must be enrolled in an accredited academic institution.\nAge: 13 to 22 years old as of December 31, 2026.\nCertification: Must earn an Adobe Certified Professional certification in Adobe Photoshop, Illustrator, or InDesign.\nProject Submission: Must submit an original design project for the qualifying rounds.\nRestrictions: Employees of Adobe, Certiport, and their affiliates are ineligible.\nPrior Winners: Previous top 3 winners of the World Championship are generally not eligible. ",
     "scope": "International"
@@ -1944,7 +1944,7 @@
     "title": "Tel-Aviv International Student Film Festival",
     "description": "It's the world's largest and most prestigious student film festival, founded in 1986 by Tel Aviv University students. Held annually in June at the Tel Aviv Cinematheque, it showcases over 150 short films from 50+ countries.",
     "link": "https:\/\/www.taufilmfest.com\/586-2\/?lang=en",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Final Deadline: 23 February, 2026",
     "requirements": "Applicant Status: Films must be made within school programs, universities, or professional institutes.\nProduction Date: Completed during 2025-2026.\nLength: Up to 30 minutes.\nSubmission Limit: Each school may submit up to 3 films.\nSubtitles: English subtitles are required for all films, including English-speaking ones.\nPremiere Status: No premiere status required.\nFormat: Screeners must be enabled for download.\nExperimental\/Video Art: Students or graduates (within 5 years) can submit to this category. ",
     "scope": "International"
@@ -1954,7 +1954,7 @@
     "title": "ImagiNation Student Film Festival",
     "description": "The ImagiNation International Student Film Festival (INISFF) is a global platform designed to nurture, showcase, and celebrate the creativity, storytelling, and filmmaking skills of young filmmakers.",
     "link": "https:\/\/inisff.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Extended Deadline: March 23, 2026\nNotification Date: April 10, 2026",
     "requirements": "Target Audience: Students and first-time filmmakers aged 11\u201318 (specifically mentioned in Instagram post), extending up to university (UG & PG) levels.",
     "scope": "International"
@@ -1964,7 +1964,7 @@
     "title": "International Genetically Engineered Machine Competition (iGEM)",
     "description": "The International Genetically Engineered Machine (iGEM) Competition is the world's premier synthetic biology competition, where multidisciplinary student teams (undergraduate, high school, and graduate) design and build biological systems using standardized, open-source genetic parts",
     "link": "https:\/\/competition.igem.org\/",
-    "type": "Competition",
+    "type": ["Competition"],
     "deadline": "Regular Registration Deadline: April 2, 2026 (15:00 UTC)\nLate Registration Deadline: June 4, 2026 (15:00 UTC) ",
     "requirements": "Team Composition: Teams are generally formed within universities (Collegiate), high schools, or community labs.\nAge Requirement: All team members must be at least 13 years old as of March 31, 2026.\nSupervision: Each team must have a Primary PI who is a faculty member, teacher, or director of a community lab.\nProject Focus: Projects must involve synthetic biology and adhere to safety guidelines.\nDocumentation: Teams must document their work on a team wiki and submit safety forms.\nCommunity Labs: Teams from community labs must demonstrate access to a Biosafety Level 1 (BSL-1) lab, have a safety training program, and be an incorporated entity. ",
     "scope": "International"
